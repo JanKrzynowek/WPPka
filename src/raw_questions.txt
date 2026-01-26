@@ -1,0 +1,1474 @@
+1. Pierwsze prawo Kirchhoffa dla obwodów elektrycznych:
+a) Suma algebraiczna wartości chwilowych prądów w węźle obwodu elektrycznego jest równa zeru, czyli suma prądów wpływających do węzła równa się sumie prądów wypływających z węzła
+b) Suma algebraiczna wartości chwilowych sił elektromotorycznych (SEM) występujących w oczku równa się sumie wartości chwilowych napięć na elementach pasywnych obwodu
+c) Suma algebraiczna wartości chwilowych sił elektromotorycznych (SEM) występujących w oczku równa się sumie wartości chwilowych napięć na elementach pasywnych obwodu
+d) Suma algebraiczna wartości chwilowych prądów i napięć w węźle obwodu elektrycznego jest równa zeru, czyli suma prądów i napięć wpływających do węzła równa się sumie prądów wypływających z węzła
+2. Czym charakteryzują się elementy idealne R, L, C?
+a) R – rezystancja (opór czynny), przy przepływie prądu ma jedynie zdolność przemiany energii elektrycznej w ciepło; L – indukcyjność własna, przy przepływie prądu zmiennego ma jedynie właściwość gromadzenia energii w polu magnetycznym; C – pojemność, może gromadzić energię w polu elektrycznym, jeżeli na elektrodach kondensatora znajduje się ładunek Q, co jest związane z występowaniem między elektrodami napięcia U
+b) R – indukcyjność własna, przy przepływie prądu zmiennego ma jedynie właściwość gromadzenia energii w polu magnetycznym; L – rezystancja (opór czynny), przy przepływie prądu ma jedynie zdolność przemiany energii elektrycznej w ciepło; C – pojemność, może gromadzić energię w polu elektrycznym, jeżeli na elektrodach kondensatora znajduje się ładunek Q, co jest związane z występowaniem między elektrodami napięcia U
+c) R – rezystancja (opór bierny), przy przepływie prądu ma jedynie zdolność przemiany energii elektrycznej w ciepło; L – pojemność, może gromadzić energię w polu elektrycznym, jeżeli na elektrodach kondensatora znajduje się ładunek Q, co jest związane z występowaniem między elektrodami napięcia U; C – indukcyjność własna i wzajemna, przy przepływie prądu zmiennego ma jedynie właściwość gromadzenia energii elektrycznej w polu magnetycznym
+d) R – rezystancja (opór czynny), przy przepływie prądu ma jedynie zdolność przemiany energii elektrycznej w ciepło; L – pojemność, może gromadzić energię w polu elektrycznym, jeżeli na elektrodach kondensatora znajduje się ładunek Q, co jest związane z występowaniem między elektrodami napięcia U; C – indukcyjność własna, przy przepływie prądu zmiennego ma jedynie właściwość gromadzenia energii w polu magnetycznym
+3. Co to jest histereza magnetyczna?
+a) Jakiekolwiek zmiany strumienia magnetycznego skojarzonego z przewodzącym obwodem zamkniętym powodują powstawanie sił elektromotorycznych i sił mechanicznych, przeciwdziałających zmianom skojarzonego strumienia magnetycznego
+b) Jeżeli po osiągnięciu określonego punktu charakterystyki pierwotnej zmniejszymy indukcję magnetyczną B, to natężenie pola magnetycznego H będzie się zmieniało według krzywej innej niż charakterystyka wtórna
+c) Jeżeli po osiągnięciu określonego punktu charakterystyki pierwotnej zmniejszymy natężenie pola magnetycznego H, to indukcja magnetyczna B będzie się zmieniała według krzywej innej niż charakterystyka pierwotna
+d) Jeżeli po osiągnięciu określonego punktu charakterystyki wtórnej zmniejszymy indukcję magnetyczną B, to natężenie pola magnetycznego H będzie się zmieniało według krzywej innej niż charakterystyka pierwotna
+4. Przesył prądu biernego indukcyjnego jest związany z:
+a) Koniecznością poboru mocy biernej w elektrowniach zasilających sieć
+b) Koniecznością poboru mocy czynnej i pozornej w elektrowniach zasilających sieć
+c) Koniecznością poboru mocy biernej w elektrowniach zasilających sieć oraz koniecznością takiego wymiarowania poszczególnych elementów sieci, aby były one przystosowane do przesyłu zwiększonego napięcia.
+d) Wzrostem spadków napięć w tych wszystkich przypadkach, gdy w grę wchodzi indukcyjność przewodów linii; koniecznością wytworzenia mocy biernej w elektrowniach zasilających sieć; wzrostem strat mocy i energii czynnej – straty mocy zależą od kwadratu modułu prądu I; wzrostem prądu przesyłanego i koniecznością takiego wymiarowania poszczególnych elementów sieci, aby były one przystosowane do przesyłu zwiększonego prądu
+5. Zapotrzebowanie na moc bierną może być ograniczone dzięki:
+a) zmniejszeniu mocy znamionowych silników i zmniejszeniu poboru mocy biernej na zmianę wzbudzenia
+b) zastosowaniu silników asynchronicznych zamiast silników indukcyjnych (możliwość zwiększenia wzbudzenia i tym samym regulacji poboru mocy biernej)
+c) Właściwemu doborowi silników elektrycznych do napędzanych maszyn (zmniejszenie mocy znamionowych silników i zmniejszenie poboru mocy biernej na magnesowanie); właściwemu doborowi mocy transformatorów do mocy zasilanych odbiorów; ograniczeniu czasów pracy nie obciążonych silników i transformatorów (pobór mocy jedynie na magnesowanie); zastosowaniu silników synchronicznych zamiast silników indukcyjnych (możliwość redukcji wzbudzenia i tym samym regulacji poboru mocy biernej)
+d) Żadne z powyższych
+6. Co nazywamy tyrystorem?
+a) Tyrystorami są nazywane specjalne diody krzemowe mające elektrodę sterującą zwaną bramką. Elementy te nie przewodzą prądu elektrycznego pomimo polaryzacji w kierunku
+przewodzenia dopóty, dopóki na bramce nie pojawi się impuls prądu załączającego. Zanik prądu bramki nie powoduje przerwania przepływu prądy przez tyrystor
+b) Tyrystorami są nazywane specjalne transoptory mające elektrodę sterującą zwaną bramką. Elementy te nie przewodzą prądu elektrycznego pomimo polaryzacji w kierunku przewodzenia dopóty, dopóki na bramce nie pojawi się impuls prądu załączającego. Zanik prądu bramki nie powoduje przerwania przepływu prądy przez tyrystor
+c) Tyrystorami są nazywane specjalne elementy optoelektroniczne mające elektrodę sterującą zwaną bramką. Inna nazwa transoptor
+d) Tyrystorami są nazywane specjalne elementy optoelektroniczne mające elektrodę sterującą zwaną bramką. Elementy te nie przewodzą prądu elektrycznego pomimo polaryzacji w kierunku przewodzenia dopóty, dopóki na bramce nie pojawi się impuls prądu załączającego. Zanik prądu bramki nie powoduje przerwania przepływu prądy przez tyrystor
+7. Co nazywamy Elektronicznym Układem Generacyjnym?
+a) Elektronicznym Układem Generacyjnym lub wprost Generatorem nazywamy układ wytwarzający przebiegi elektryczne niegasnące, najczęściej okresowe. W zależności od kształtu przebiegów wyjściowych są spotykane generatory przebiegów sinusoidalnych i niesinusoidalnych
+b) Elektronicznym Układem Generacyjnym lub wprost Generatorem nazywamy układ wytwarzający przebiegi elektryczne gasnące, najczęściej nieokresowe. W zależności od kształtu przebiegów wyjściowych są spotykane generatory przebiegów niesinusoidalnych
+c) Elektronicznym Układem Generacyjnym lub wprost Generatorem nazywamy układ wytwarzający przebiegi magnetyczne niegasnące, najczęściej nieokresowe. W zależności od kształtu przebiegów wyjściowych są spotykane generatory przebiegów niesinusoidalnych i sinusoidalnych
+d) Elektronicznym Układem Generacyjnym lub wprost Generatorem nazywamy układ wytwarzający przebiegi elektryczne niegasnące, najczęściej nieokresowe. W zależności od kształtu przebiegów wejściowych są spotykane generatory przebiegów niesinusoidalnych
+8. Idealny wzmacniacz operacyjny powinien posiadać następujące właściwości:
+a) Zerowa rezystancja wejściowa; nieskończona rezystancja wyjściowa; minimalne wzmocnienie; nieskończone pasmo częstotliwości; zerowy dryft
+b) Nieskończona rezystancja wejściowa; nieskończona rezystancja wyjściowa; nieskończone wzmocnienie; wąskie pasmo częstotliwości; zmienny dryft
+c) Nieskończona rezystancja wejściowa; zerowa rezystancja wyjściowa; nieskończone wzmocnienie; nieskończone pasmo częstotliwości; zerowy dryft
+d) Nieskończona rezystancja wejściowa; nieskończona rezystancja wyjściowa; nieskończone wzmocnienie; szerokie pasmo częstotliwości; stały dryft
+9. Na czym polega modulacja i demodulacja?
+a) Proces nakładania sygnału niosącego informację na sygnał wielkiej częstotliwości nosi nazwę modulacji. Proces odwrotny – polegający na przywracaniu sygnałowi jego pierwotnej postaci nazywa się demodulacją lub detekcją
+b) Proces nakładania sygnału wielkiej częstotliwości na sygnał niosący informację nosi nazwę modulacji. Proces odwrotny – polegający na przywracaniu sygnałowi jego pierwotnej postaci nazywa się demodulacją lub detekcją
+c) Proces nakładania sygnału niosącego informację na sygnał wielkiej częstotliwości nosi nazwę demodulacji lub detekcji. Proces odwrotny – polegający na przywracaniu sygnałowi jego pierwotnej postaci nazywa się modulacją
+d) Proces dublowania sygnału niosącego informację na sygnał niskiej częstotliwości nosi nazwę demodulacji lub detekcji. Proces odwrotny – polegający na przywracaniu sygnałowi jego pierwotnej postaci nazywa się modulacją
+10. Co to jest transformator?
+a) Jest to zbiór urządzeń przeznaczonych do wytwarzania, przesyłu, rozdziału i użytkowania energii elektrycznej. Można wyróżnić w nim urządzenia wytwarzające energię elektryczną, sieci elektroenergetyczne i urządzenia odbiorcze. SEE jest systemem odosobnionym, w którym w każdej chwili nie musi być zachowana równość mocy wytwarzanych i mocy odbieranych
+b) Transformator jest dynamicznym urządzeniem elektrycznym działającym na zasadzie indukcji elektrycznej. Zadaniem jego jest podwyższanie lub obniżanie prądu, co związane jest z odpowiednim zmniejszaniem lub zwiększaniem napięcia przy zmianie częstotliwości i praktycznie tej samej mocy
+c) Transformator jest statycznym urządzeniem elektrycznym działającym na zasadzie indukcji elektromagnetycznej. Zadaniem jego jest podwyższanie lub obniżanie napięcia, co związane jest z odpowiednim zmniejszaniem lub zwiększaniem prądu przy zachowaniu tej samej częstotliwości i praktycznie tej samej mocy
+d) Transformator jest statycznym urządzeniem elektrycznym działającym na zasadzie indukcji elektromagnetycznej. Zadaniem jego jest zmiana napięcia, co związane jest z odpowiednim zwiększaniem prądu przy różnych częstotliwościach i mocach
+11. Stan odkształcenia można rozłożyć na dwa stany podstawowe:
+a) odkształcenie postaciowe oraz odkształcenie objętościowe
+b) odkształcenia liniowe oraz odkształcenia skończone
+c) odkształcenia skończone i odkształcenia nieskończenie małe
+d) odkształcenia średnie i odkształcenia nieskończenie małe
+12. Naprężenia główne to takie naprężenia:
+a) które działają stycznie do płaszczyzn na których występują
+b) które działają prostopadle do płaszczyzn na których występują
+c) których suma jest równa intensywności naprężenia
+d) których suma jest równa zero
+13. Stan naprężenia można rozłożyć na dwa stany podstawowe:
+a) stan naprężeń oktaedrycznych oraz stan naprężeń średnich
+b) stan naprężeń stycznych oraz stan naprężeń głównych
+c) stan naprężeń stycznych oraz stan naprężeń średnich
+d) stan hydrostatyczny oraz czyste ścinanie
+14. Niezmiennikami stanu naprężenia nazywamy:
+a) naprężenia normalne, uzależnione od przyjętego układu odniesienia
+b) naprężenia styczne, zależne od przyjętego układu odniesienia
+c) wyrażenia algebraiczne utworzone ze składowych stanu naprężenia, które nie zmieniają swoich wartości podczas transformacjach układu odniesienia
+d) krytyczne naprężenia powodujące utratę spójności materiału
+15. Energię odkształcenia sprężystego można rozłożyć na dwie składowe:
+a) energię pełzania i energię pękania
+b) energię odkształcenia objętości i energię pękania
+c) energię odkształcenia postaci i energię odkształcenia objętości
+d) energię odkształcenia postaci i energię odkształcenia plastycznego
+16. Całkowite zastępcze naprężenie to naprężenie jednoosiowe, które:
+a) powoduje inne wytężenie materiału niż takie, które jest opisane tensorem naprężenia
+b) powoduje takie samo wytężenie materiału jak złożony stan naprężenia
+c) powoduje przejście materiału w stan plastyczny
+d) powoduje utratę spójności materiału
+17. Całkowite zastępcze odkształcenie to takie odkształcenie:
+a) które prowadzi do utraty spójności materiału
+b) które powoduje przejście materiału ze stanu sprężystego w stan plastyczny
+c) którego występowanie jest równoważne obecności złożonego stanu odkształcenia opisanego tensorem
+d) które jest spowodowane innym wytężeniem materiału niż takie, które jest opisane tensorem naprężenia
+18. W języku C++ pierwszą czynnością wykonywaną przez kompilator przy wejściu do pętli for jest:
+a) sprawdzenie warunku wykonania pętli
+b) inicjalizacja licznika pętli
+c) zmiana licznika pętli
+d) wykonanie treści pętli
+19. W języku C++ instrukcja continue użyta wewnątrz dwóch zagnieżdżonych pętli for spowoduje:
+a) wykonanie kolejnego obiegu pętli zewnętrznej
+b) zakończenie działania pętli wewnętrznej
+c) wykonanie kolejnego obiegu pętli wewnętrznej
+d) zakończenie działania obu pętli
+20. W języku C++ stała zapisana w postaci 010:
+a) jest podana w systemie dwójkowym
+b) jest podana w systemie szesnastkowym
+c) jest podana w systemie ósemkowym
+d) początkowe zero jest ignorowane i jest ona równa 10
+21. Które dwuargumentowe operatory są w języku C++ prawostronnie łączne?
+a) operatory bitowe
+b) operatory logiczne
+c) operatory przypisania
+d) operatory arytmetyczne
+22. Dana jest tablica int tablica[5]; W celu odwołania się do jej ostatniego elementu w języku C++ należy posłużyć się zapisem:
+a) tablica[5];
+b) tablica[4];
+c) tablica[6];
+d) tablica[];
+23. Dany jest wskaźnik int *p; oraz tablica int tablica[10]; Który zapis w języku C++ jest błędny?
+a) p=tablica;
+b) p=&tablica[0];
+c) p=tablica[0];
+d) p=tablica+1
+24. Przydomek static użyty w definicji zmiennej lokalnej w języku C++ powoduje:
+a) zmianę zakresu ważności zmiennej
+b) zmianę czasu życia i zakresu ważności zmiennej
+c) zmianę czasu życia zmiennej
+d) nie wpływa ani na czas życia ani na zakres ważności zmiennej
+25. W języku C++ na rozmiar struktury nie mają wpływu zmienne, które są:
+a) statyczne
+b) referencjami
+c) wskaźnikami
+d) stałe
+26. Która z definicji tworzy wskaźnik do stałego obiektu w języku C++?
+a) const int * p;
+b) int * const p;
+c) int & p const;
+d) int const & p;
+27. Kod z nadmiarem służy do przechowywania liczb:
+a) tylko całkowitych dodatnich
+b) tylko całkowitych ujemnych
+c) całkowitych
+d) rzeczywistych
+28. Która definicja w języku C++ jest poprawna?
+a) void *a;
+b) void a;
+c) void &a;
+d) void a[10];
+29. Które z poniższych słów nie jest słowem kluczowym w języku C++?
+a) auto
+b) this
+c) cout
+d) do
+30. W języku C++ dwie funkcje o tej samej nazwie nie mogą być zdefiniowane w jednym zakresie ważności, jeżeli różnią się jedynie:
+a) typem argumentów formalnych
+b) liczbą argumentów formalnych
+c) typem wartości zwracanej
+d) kolejnością argumentów formalnych
+31. Ustawienie której flagi stanu błędu strumienia uniemożliwia dalszą pracę z tym strumieniem w języku C++?
+a) failbit
+b) eofbit
+c) badbit
+d) goodbit
+32. Odlewanie ciśnieniowe może być stosowane dla:
+a) stopów aluminium
+b) żeliw
+c) staliw
+d) stali
+33. Tłoczenie nie stosuje się w przypadku
+a) stopów aluminium
+b) żeliw
+c) stali niestopowych
+d) stopów miedzi
+34. Obróbkę elektroerozyjną nie stosuje się w przypadku
+a) stopów aluminium
+b) żeliw
+c) stali niestopowych
+d) stopów miedzi
+35. Dla problemu utraty nośności powinno się określać:
+a) granicę plastyczności
+b) moduł sprężystości
+c) plastyczność
+d) potencjał elektrochemiczny
+36. Dla problemu korozji powinno się określać:
+a) granicę plastyczności
+b) plastyczność
+c) potencjał elektrochemiczny
+d) moduł sprężystości
+37. Dużą gęstością i modułem sprężystości cechują się:
+a) drewno
+b) stopy metali
+c) polimery
+d) pianki polimerowe
+38. Dużym modułem sprężystości i małym tłumieniem drgań cechują się:
+a) polimery
+b) drewno
+c) szkła
+d) korek
+39. Dużą wytrzymałością i odpornością na pękanie cechują się:
+a) drewno
+b) stopy metali
+c) polimery
+d) pianki polimerowe
+40. Małą odpornością na korozję w solach cechuje się:
+a) ceramika
+b) polimer
+c) stop niklu
+d) stal niestopowe
+41. Kolejność od najmniejszej skali do największej w analizie strukturalnej to:
+a) wiązania atomowe, struktura krystaliczna, wady struktury krystalicznej, mikrostruktura, makrostruktura
+b) mikrostruktura, wiązania atomowe, struktura krystaliczna, wady struktury krystalicznej, makrostruktura
+c) mikrostruktura, struktura krystaliczna, wiązania atomowe, wady struktury krystalicznej, makrostruktura
+d) mikrostruktura, wady struktury krystalicznej, struktura krystaliczna, wiązania atomowe, makrostruktura
+42. Rozkład empiryczny:
+a) przedstawia skumulowaną częstość występowania wartości zmiennej losowej w podziale na klasy
+b) można wykorzystać do oceny normalności rozkładu
+c) powinien mieć jak najwięcej klas, w celu szczegółowego zobrazowania zmienności
+d) jest graficzną formą szeregu szczegółowego
+43. Próbka reprezentatywna, to próbka:
+a) odpowiednio liczna i losowa
+b) o liczności co najmniej 30 elementów
+c) w której każda wartość zmiennej pojawia się jednakowo często
+d) w której nie pojawiają się wartości odstające
+44. Podczas wnioskowania statystycznego:
+a) badanie populacji statystycznej przeprowadza się w oparciu o wartości cechy wszystkich jednostek tej populacji
+b) możliwość popełnienia błędu statystycznego polegającego na przyjęciu hipotezy fałszywej jest równa założonemu poziomowi istotności c) uogólnia się wyniki badania próby reprezentatywnej na zbiorowość statystyczną
+d) możliwość popełnienia błędu statystycznego polegającego na odrzuceniu hipotezy prawdziwej jest zerowa
+45. Informacja o postaci rozkładu cechy może być uzyskana:
+a) na podstawie wizualnej oceny rozkładu empirycznego skonstruowanego w oparciu o małą próbę
+b) przy użyciu graficznego testu normalności
+c) przez estymację wartości oczekiwanej i odchylenia standardowego
+d) przy użyciu wybranego parametrycznego testu istotności
+46. W teście istotności:
+a) wartość funkcji testowej zależy od liczności próbki
+b) wartość funkcji testowej poza obszarem krytycznym oznacza, że przyjmujemy hipotezę zerową
+c) wartość funkcji testowej w obszarze krytycznym oznacza, że hipoteza zerowa została błędnie sformułowana
+d) obszar krytyczny testu nie zależy od założonego poziomu istotności
+47. Jeśli zmienna losowa ma rozkład normalny to: a) punkty na graficznym teście normalności układają się wedle prostej b) wszystkie możliwe realizacje mieszczą się w zakresie trzech odchyleń standardowych od wartości oczekiwanej c) dystrybuanta tej zmiennej dana jest funkcją Gaussa d) wartość kwartyla pierwszego jest równa wartości kwartyla trzeciego
+48. Miary rozrzutu to: a) wariancja, dominanta, mediana, współczynnik zmienności b) wariancja, rozstęp, współczynnik korelacji, odchylenie standardowe c) wariancja, kowariancja, współczynnik determinacji, moda d) wariancja, odchylenie standardowe, rozstęp, ruchomy rozstęp
+49. Miary zależności między zmiennymi to m.in.: a) współczynnik korelacji, współczynnik zmienności b) współczynnik determinacji, kowariancja c) współczynnik determinacji, odchylenie standardowe d) współczynnik determinacji, korelacja
+50. Prawdopodobieństwo to: a) miara możliwości zajścia zdarzenia losowego b) pole pod funkcją dystrybuanty c) funkcja, która odwzorowuje zbiór zdarzeń w zbiór wartości d) wartość, którą przyjmuje zmienna w wyniku doświadczenia losowego
+51. Miary położenia to: a) średnia arytmetyczna, średnia ważona, mediana b) średnia ważona, histogram, moda c) średnia arytmetyczna, rozstęp, średnia ucięta d) średnia arytmetyczna, częstość, dystrybuanta
+52. Estymacja przedziałowa polega na: a) obliczaniu na podstawie n-elementowej próbki wartości estymatora parametru populacji b) budowaniu przedziałów liczbowych, w którym z prawdopodobieństwem bliskim jedności, znajduje się wartość szacowanego parametru populacji c) uogólnianiu wyników badania próby reprezentatywnej na zbiorowość statystyczną d) budowaniu obszarów krytycznych w celu weryfikacji hipotez statystycznych
+53. Wykres pudełkowy: a) można wykorzystać do identyfikacji wartości odstających b) jest to graficzne przedstawienie szeregu rozdzielczego c) to tzw. „pudełko z wąsami”, w którym szerokość pudełka jest równa rozstępowi d) to inna nazwa histogramu 54. Pola statyczne klas to pola
+a) które nie mogą być zmieniane w trakcie wykonywania programu
+b) wspólne dla obiektów programu
+c) wspólne dla wszystkich obiektów danej klasy
+d) wspólne dla wszystkich obiektów zdefiniowanych w danym pliku
+55. Klasy mogą być zagnieżdżane
+a) zarówno w innej klasie jak i funkcji z zakresu globalnego
+b) jedynie w klasie z zakresu globalnego
+c) jedynie wewnątrz metod innej klasy
+d) jedynie w funkcji z zakresu globalnego
+56. Konstruktor domyślny klasy jest definiowany przez system:
+a) niekiedy
+b) zawsze
+c) nigdy
+d) nie ma takiego konstruktora - jest konstruktor domniemany
+57. Przestrzenie nazw służą do
+a) definiowania niektórych typów
+b) separacji występujących w programie identycznych encji
+c) definiowania obiektów niektórych typów
+d) przechowywania skompilowanych fragmentów kodu
+58. Konstruktor to metoda, która
+a) ma tę samą nazwę co klasa i jest uruchamiana automatycznie przez system lub przez inne metody bądź funkcje przy tworzeniu obiektu
+b) ma tę samą nazwę co klasa i może być uruchamiana jedynie automatycznie przez system przy tworzeniu obiektu
+c) ma dowolną nazwę, ale jest uruchamiana automatycznie przez system przy tworzeniu obiektu lub przez inne metody bądź funkcje
+d) ma tę samą nazwę co klasa i wymaga wywołania przez inne metody bądź funkcje przy tworzeniu obiektu
+59. Konstruktor kopiujący to konstruktor, którego lista parametrów
+a) ogranicza się do jednego parametru własnej klasy będącego obiektem stałym
+b) ogranicza się do jednego dowolnie zdefiniowanego parametru własnej klasy
+c) ogranicza się do jednego parametru własnej klasy będącego referencją
+d) ogranicza się do jednego parametru własnej klasy będącego wskaźnikiem
+60. Lista inicjalizacyjna konstruktora to miejsce, gdzie muszą być inicjalizowane pola:
+a) statyczne, stałe i pola będące referencjami
+b) statyczne i pola będące referencjami
+c) stałe i pola będące referencjami
+d) statyczne, stałe i pola będące referencjami i wskaźnikami
+61. Obiekty definiowane dynamicznie
+a) są automatycznie likwidowane pod koniec programu
+b) są likwidowane automatycznie po wyjściu sterowania z bloku, w którym zostały zdefiniowane
+c) nie powinny być likwidowane, bo mają pamięć wspólną z innymi obiektami
+d) należy zlikwidować przed końcem programu, bo inaczej istnieją nawet po jego zakończeniu
+62. Operator konwersji może mieć:
+a) jeden parametr jawny - typ z którego konwertuje
+b) pustą listę jawnych parametrów
+c) jeden parametr jawny - typ na który konwertuje
+d) dowolną liczbę jawnych parametrów
+63. Rzutowanie statyczne służy do
+a) konwersji typów obiektów predefiniowanych i konwersji typów obiektów zdefiniowanych przez użytkownika
+b) konwersji typów obiektów statycznych
+c) konwersji typów obiektów stałych
+d) konwersji typów obiektów i referencji, ale nie wskaźników do obiektów
+64. Definicja funkcji zaprzyjaźnionej wewnątrz klasy
+a) powoduje, że funkcja staje się automatycznie metodą tej klasy i jest typu „inline"
+b) powoduje, że funkcja leży w zakresie leksykalnym tej klasy, ale nie staje się automatycznie metodą tej klasy i nie jest typu „inline"
+c) powoduje, że funkcja nie jest metodą klasy, ale jest typu "inline" i leży w zakresie leksykalnym tej klasy
+d) nie jest możliwa
+65. Wskaźnik do składników klas różni się od zwykłego wskaźnika tym, że:
+a) zwykły wskaźnik jest określonego typu, a wskaźnik do składników klas nie
+b) zwykłemu wskaźnikowi można przypisać konkretne miejsce w pamięci, a wskaźnikowi do składników klas nie
+c) zwykłemu wskaźnikowi można przypisać adres jedynie publicznego składnika dowolnej klasy, a wskaźnik do składników klas nie ma tego ograniczenia
+d) zwykły wskaźnik nie może pokazywać na statyczne pola klasy, a wskaźnik do składników klas tak
+66. Czy zmiana liczby argumentów i łączności przeciążanego operatora jest możliwa?
+a) tak
+b) nie
+c) możliwa jest zmiana łączności, a zmiana liczby argumentów nie
+d) możliwa jest zmiana liczby argumentów, a zmiana łączności nie
+67. Które z pól klas nie są dziedziczone?
+a) żadne – wszystkie są dziedziczone
+b) statyczne
+c) prywatne
+d) typu stałego i referencje
+68. Polimorfizm wymaga metod wirtualnych o identycznych:
+a) nazwie metody w klasie i argumentach
+b) nazwie metody w klasie i typie rezultatu
+c) argumentach i typie rezultatu
+d) nazwie metody w klasie, argumentach i typie rezultatu
+69. Co to jest proszek?
+a) materiał sypki złożony z cząstek o wymiarach liniowych nie większych niż 0,1 mm
+b) materiał sypki złożony z cząstek o wymiarach liniowych nie większych niż 1 mm
+c) materiał sypki złożony z cząstek o wymiarach liniowych większych niż 1 mm
+d) materiał sypki złożony z cząstek o wymiarach liniowych niż 0,01 mm
+70. Własności technologiczne proszku to?
+a) skład chemiczny – w tym zawartość tlenu i zanieczyszczeń, piroforyczność, toksyczność, reaktywność lub bierność chemiczna wobec różnych substancji
+b) sypkość, gęstość nasypowa, gęstość nasypowa z usadem, zgęszczalność, formowalność
+c) zawartość substancji organicznych w proszku
+d) gęstość, kształt cząstek, średnia wielkość cząstek, rozkład wielkości cząstek, powierzchnia właściwa
+71. Sypkość proszku to?
+a) czas przesypywania się 50 g proszku przez otwór o znormalizowanych wymiarach
+b) kąt zsypu proszku luźno zasypanego z wolumetru Scotta na gładką powierzchnię szklanej płyty
+c) powierzchnia stożka utworzonego przez 50 g proszku luźno zasypanego z wolumetru Scotta na gładką powierzchnię szklanej płyty
+d) czas przesypywanie się 50 g proszku przez otwór o średnicy 1 mm
+72. Co to jest środek poślizgowy?
+a) materiał termoplastyczny stosowany w celu zmiany wymiaru lub kształtu cząstki
+b) substancja dodawana do proszku w celu większych cząstek proszku i jego lepszej sypkości
+c) substancja dodawana do proszku w celu zmniejszenia tarcia pomiędzy cząstkami proszku i pomiędzy wypraską a powierzchniami matrycy
+d) substancja dodawana do proszku w celu zwiększenia wytrzymałości wypraski lub zapobiegania pyleniu i samosegregacji proszku jak również w celu jego uplastycznienia
+73. Frakcja ziarnowa to?
+a) frakcja obejmująca cząstki o wielkościach poniżej najmniejszej wielkości cząstek możliwej do oznaczenia daną metodą
+b) masa proszku odpowiadająca określonej klasie ziarnowej
+c) stosunek danej frakcji do masy próbki proszku
+d) przedział w ciągu wielkości cząstek
+74. Co to jest prasowanie jednostronne?
+a) prasowanie, w czasie którego proszek znajduje się w matrycy między dwoma stemplami, przesuwającymi się w przeciwnym kierunku względem otworu matrycy
+b) metoda prasowania, w której wytwarza się równocześnie dwie lub więcej kształtek w oddzielnych otworach matrycy
+c) prasowanie, w czasie którego proszek znajduje się w nieruchomej matrycy między dwoma stemplami, z których tylko jeden przesuwa się, a drugi pozostaje nieruchomy
+d) prasowanie, w czasie którego dłuższa oś wypraski jest równoległa do kierunku ruchu stempli
+75. Co to jest gęstość nasypowa z usadem?
+a) stosunek masy proszku zasypanego w ustalonych warunkach do zajmowanej przez niego objętości
+b) stosunek masy proszku zasypanego do pojemnika w ustalonych warunkach do najmniejszej objętości jaką zajmą jego cząstki w efekcie wstrząsania
+c) stosunek objętości niesprasowanego proszku do objętości wypraski, której wymiary zmierzono po wypchnięciu z matrycy
+d) stosunek 50 g proszku zasypanego w ustalonych warunkach do zajmowanej przez niego objętości
+76. Oceń konkurencyjność technologii metalurgii proszków jako metodę produkcji części maszyn dla przemysłu samochodowego.
+a) metoda jest konkurencyjna w przypadku wielkoseryjnej produkcji drobnych elementów metalowych o dużej precyzji wykonania
+b) metalurgię proszków nie można uznać za odpowiednią technologię z punktu widzenia potrzeb przemysłu samochodowego
+c) największe korzyści ekonomiczne są związane z produkcją elementów o dużej masie
+d) metoda jest konkurencyjna ze względu na łatwość w łączeniu spieków ze sobą podczas spiekania
+77. Proces spiekania to?
+a) zespół aktywowanych cieplnie procesów fizycznych i chemicznych związanych z transportem materii, zmianami chemicznymi i rozwojem struktury
+b) wypalanie półwyrobów uformowanych z proszków
+c) utrwalanie kształtu półwyrobów uformowanych z proszków
+d) nagrzewanie umieszczonej w szczelnej komorze formie wypełnionej proszkiem
+78. Mechanizmy transportu materii w trakcie spiekania w stanie stałym to?
+a) wspinanie się dyslokacji, zdrowienie i rekrystalizacja
+b) mechanizmy odpowiedzialne za pełzanie
+c) bliźniakowanie aktywowane termicznie
+d) dyfuzja powierzchniowa, dyfuzja objętościowa, dyfuzja po granicach ziarn, parowanie i kondensacja, płynięcie plastyczne, płynięcie lepkościowe
+79. Atmosfery obojętne podczas spiekania to?
+a) próżnia, argon, hel
+b) wodór, tlenek węgla
+c) zdysocjowany amoniak, azot
+d) próżnia, wodór
+80. Proces technologiczny wytwarzania materiałów na drodze metalurgii proszków to:
+a) otrzymywanie proszku, przygotowanie mieszanki proszków, formowanie, spiekanie, obróbka wykańczająca
+b) otrzymywanie proszków, tworzenie gęstwy, odlewanie, spiekanie, kontrola jakości
+c) przygotowanie proszków, przygotowanie masy roboczej, formowanie, spiekanie, wykańczanie, kontrola jakości
+d) otrzymywanie proszku, spiekanie, obróbka wykańczająca
+81. Do testowania requestów służy:
+a) MongoDB
+b) Postman
+c) Mongoose
+d) Swagger
+82. CRUD oznacza:
+a) create, read, update, delete, co pozwala tworzyć aplikacje frontendowe
+b) create, read, update, delete, co pozwala tworzyć restowe API
+c) oznacza możliwość połączenia z nierelacyjną bazą danych
+d) oznacza możliwość połączenia z relacyjną bazą danych
+83. RESTful to aplikacja restowa spełniająca następujące reguły:
+a) jednolity interfejs komunikacyjny, podział na aplikacje klient-serwer, bezstanowość, cache danych, odseparowanie warstwy, wysyłanie kodu do aplikacji klienta
+b) nie posiada swojej specyfikacji, nie posiada zbioru zasad
+c) nie komunikuje się z innymi usługami i nie wykorzystuje stylu architektonicznego REST
+d) ma na celu połączenie aplikacji, najczęściej korzysta z formatu XML, rzadziej z JSON
+84. Asynchroniczność pozwala na wykonywanie kilku zadań równocześnie, w JS istnieją funkcje pozwalające uruchamiać kod cyklicznie, są nimi:
+a) inTimeout(), getInterval(), questAnimationFrame()
+b) setTimeout(), setInterval(), requestAnimationFrame()
+c) setTimeout(), setInterval(), questAnimationFrame()
+d) w JS nie ma możliwości zastosowania asynchroniczności
+85. Dokument to podstawowa jednostka danych w nierelacyjnej bazie danych, jest on przechowywany w formacie:
+a) nie ma takiego formatu i może przyjmować dowolny rozmiar
+b) może to być każdy format, jednak rozmiar jest ograniczony
+c) JSON, fizycznie BSON o maksymalnym rozmiarze 16 MB
+d) zdefiniowanym przez użytkownika i o rozmiarze przez niego zdefiniowanym
+86. Celowe łamanie kaskadowości można zrealizować poprzez:
+a) nie jest możliwe złamanie tej zasady
+b) zastosowanie polecenia !important
+c) można złamać tą zasadę poprzez odpowiednie znaczniki;
+d) zastosowanie polecenia ?notimportant
+87. W nierelacyjnych bazach danych stosujemy pojęcia:
+a) kolekcja, dokument, klucz
+b) tablica, wiersz, kolumna
+c) komórka, klasa, tabela
+d) wiersz, komórka, tablica
+88. Gdy zachodzi potrzeba zastosowania w jednej regule stylu kilku selektorów prostych, to należy wpisać jeden po drugim w kolejności:
+a) selektory atrybutów, selektor identyfikatora, selektor klasy lub selektory pseudoklas i pozo-stałe
+b) selektor typu lub selektor uniwersalny i pozostałe
+c) selektory pseudoelementów i pozostałe
+d) kolejność selektorów zawsze jest dowolna
+89. Model ISO OSI RM składa się z:
+a) dowolnej liczby warstw
+b) siedmiu warstw
+c) nie posiada budowy warstwowej
+d) liczby warstw określonej przez użytkownika
+90. W protokole kontroli transmisji do nawiązania połączenia między dwoma hostami stosowana jest procedura:
+a) three-way handshake
+b) one-way handshake
+c) nie ma takiej procedury
+d) zdefiniowana przez użytkownika
+91. JSON Web Token składa się z:
+a) nagłówka, zawartości i sygnatury
+b) algorytmu, przepustki i zawartości
+c) przepustki, zawartości i sygnatury
+d) nagłówka, przepustki i algorytmu
+92. Ze spadkiem różnicy elektroujemności między atomami wzrasta możliwość utworzenia:
+a) wiązania jonowego
+b) wiązania kowalencyjnego
+c) wiązania metalicznego
+d) wiązania spolaryzowanego
+93. Termin system poślizgu oznacza:
+a) zespół kierunków krystalograficznych wzdłuż których atomy się stykają
+b) podstawowy mechanizm odkształcenia plastycznego na zimno
+c) kombinację płaszczyzny i kierunku o najgęstszym rozmieszczeniu atomów
+d) zespół płaszczyzn krystalograficznych o najgęstszym wypełnieniu atomami
+94. Który efekt nie występuje podczas odkształcenia plastycznego na zimno?
+a) zmiana kształtu ziaren
+b) wzrost gęstości dyslokacji
+c) umocnienie odkształceniowe
+d) spadek energii zmagazynowanej
+95. Który z wymienionych czynników obniża wytrzymałość na rozciąganie?
+a) odkształcenie plastyczne
+b) koagulacja wydzieleń
+c) dodatek stopowy
+d) rozdrobnienie ziarna
+96. Na czym polega przemiana perytektyczna przy chłodzeniu:
+a) z roztworu ciekłego i fazy stałej w określonej temperaturze tworzy się nowa faza stała
+b) z roztworu ciekłego w określonej temperaturze tworzą się równocześnie dwie fazy stałe
+c) z roztworu ciekłego i fazy stałej w określonej temperaturze tworzy się nowy roztwór ciekły
+d) z roztworu ciekłego w określonej temperaturze tworzy się nowy roztwór ciekły i faza stała
+97. W procesie normalizacji przeprowadza się następujący sposób chłodzenia stali:
+a) chłodzenie w wodzie
+b) chłodzenie w oleju
+c) chłodzenie na powietrzu
+d) chłodzenie z piecem
+98. Odpuszczanie stali polega na:
+a) wyżarzaniu stali uprzednio zahartowanej
+b) wyżarzaniu stali bezpośrednio po odlewaniu
+c) wyżarzaniu stali w celu usunięcia naprężeń wewnętrznych.
+d) wyżarzaniu stali odkształconej plastycznie
+99. Który pierwiastek stopowy nie zapewnia stali nierdzewnej struktury austenitycznej?
+a) nikiel
+b) mangan
+c) krzem
+d) kobalt
+100. Żeliwa ciągliwe otrzymuje się w wyniku:
+a) sferoidyzacji grafitu płatkowego w żeliwach szarych
+b) hartowania i odpuszczania odlewów z żeliwa szarego
+c) wyżarzania grafityzującego odlewów surówek białych
+d) procesu modyfikacji żeliwa szarego zwykłego
+101. Ledeburyt przemieniony jest to:
+a) mieszanina eutektyczna austenitu i ferrytu
+b) mieszanina eutektyczna austenitu i cementytu
+c) mieszanina eutektoidalna perlitu i cementytu
+d) mieszanina eutektyczna perlitu i cementytu
+102. Trawienie próbek metalograficznych ma za zadanie:
+a) ujawnienie charakterystycznych cech mikrostruktury
+b) poprawić jakość powierzchni przed etapem badań mikroskopowych
+c) pokrycie powierzchni warstwą ochronna przed dalszym utlenianiem
+d) oczyszczenie powierzchni z zabrudzeń (odtłuszczenie)
+103. Mikroskop metalograficzny do tworzenia obrazu mikrostruktury używa światła:
+a) przechodzącego
+b) odbitego
+c) odbitego i przechodzącego
+d) monochromatycznego
+104. Zdolność rozdzielcza mikroskopu zależy od:
+a) intensywności promieniowania padającego na preparat
+b) długości fali promieniowania świetlnego
+c) rodzaju obserwowanego preparatu
+d) kąta, pod którym prowadzi się obserwacje
+105. Widmo charakterystycznego promieniowania rentgenowskiego powstaje w wyniku:
+a) oddziaływania elektronów wiązki z elektronami wewnętrznych powłok atomów próbki
+b) oddziaływania elektronów wiązki z elektronami zewnętrznych powłok atomów próbki
+c) oddziaływania elektronów wiązki z jądrami atomów próbki
+d) wyhamowywania elektronów wiązki w pobliżu jąder atomów próbki
+106. Odczynniki chemiczne stosowane do trawienia próbek metalograficznych:
+a) są dobierane do konkretnego metalu
+b) są uniwersalne dla każdego metalu
+c) są złożone z dowolnej mieszaniny kwasów utleniających
+d) ich skład chemiczny nie wpływa na intensywność trawienia
+107. W badaniach składu chemicznego w mikroskopii elektronowej zaletą metody EDS w stosunku do WDS jest:
+a) bardzo dobra rozdzielczość metody
+b) duży stosunek intensywności piku do intensywności tła
+c) szybkość analizy
+d) wyższy poziom wykrywalności pierwiastków
+108. Podstawowym mechanizmem umocnienia duraluminium jest:
+a) umocnienie dyslokacyjne
+b) umocnienie wydzieleniowe
+c) umocnienie przez rozdrobnienie ziarna
+d) roztworowe
+109. Przemiana eutektyczna przy chłodzeniu w stopie dwuskładnikowym polega na tym, że:
+a) w stałej temperaturze z cieczy tworzą się jednocześnie dwie fazy stałe
+b) w stałej temperaturze z fazy stałej tworzą się dwie nowe fazy stałe
+c) w stałej temperaturze z cieczy tworzy się faza stała i ciecz o innym składzie
+d) w stałej temperaturze z mieszaniny dwóch faz stałych tworzy się nowa faza stała
+110. Stopów aluminium nie można hartować ponieważ:
+a) stopy aluminium nie zawierają węgla
+b) aluminium ma zbyt niską temperaturę topnienia
+c) aluminium nie ma odmian alotropowych
+d) aluminium ma zbyt zbyt duże przewodnictwo cieplne
+111. Nadstopy (superstopy) są to materiały stosowane:
+a) w temperaturze kriogenicznej
+b) w wysokiej temperaturze
+c) na wytrzymałe i odporne na ściranie narzędzia
+d) w energetyce ze względu na duże przewodnictwo elektryczne
+112. Mosiądze są to stopy miedzi z:
+a) cynkiem
+b) cyną
+c) aluminium
+d) krzemem
+113. Temperaturę przejścia w stan kruchy wykazują metale:
+a) o strukturze krystalicznej regularnej ściennie centrowanej A1
+b) o strukturze krystalicznej heksagonalnej zwartej A3
+c) wszystkie metale są kruche w bardzo niskiej temperaturze
+d) o strukturze krystalicznej regularnej przestrzennie centrowanej A2
+114. Odpuszczanie stali polega na:
+a) wyżarzaniu stali odkształconej plastycznie
+b) wyżarzaniu stali w celu zwiększenia jej twardości
+c) wyżarzaniu stali w celu uzyskania drobnego ziarna
+d) wyżarzaniu stali zahartowanej
+115. Zdecyduj, które stwierdzenia są prawdziwe: stal niskowęglowa ma większą ciągliwość niż średniowęglowa ponieważ:
+(i) ma w strukturze więcej ferrytu
+(ii) ma mniejszą zawartość węgla
+a) (i) TAK (ii) NIE
+b) (i) NIE (ii) TAK
+c) (i) TAK (ii) TAK
+d) (i) NIE (ii) NIE
+116. Który z mechanizmów umocnienia stali jednocześnie zwiększa granicę plastyczności i obniża temperaturę przejścia w stan kruchy?
+a) umocnienie roztworowe
+b) umocnienie przez odkształcenie plastyczne
+c) umocnienie przez rozdrobnienie ziarna
+d) umocnienie cząstkami dyspersyjnymi
+117. Podstawowym pierwiastkiem, który przyczynia się do wzrostu odporności korozyjnej stali jest:
+a) Ni
+b) Cr
+c) Cu
+d) Mo
+118. Perlit w stalach tworzy się:
+a) podczas powolnego chłodzenia austenitu
+b) podczas szybkiego chłodzenia austenitu
+c) podczas wyżarzania stali odkształconej plastycznie
+d) podczas odpuszczania zahartowanej stali
+119. Najkrótsza definicja martenzytu w stalach to:
+a) jest to mieszanina ferrytu i węglików
+b) jest to roztwór stały węgla w żelazie γ (gamma)
+c) jest to przesycony roztwór stały węgla w żelazie α (alfa)
+d) jest to odmiana alotropowa żelaza
+120. Normalizowanie to obróbka cieplna stali prowadząca do:
+a) rekrystalizacji materiału odkształconego
+b) wytworzenia określonej tekstury krystalograficznej
+c) usunięcia naprężeń hartowniczych
+d) otrzymania małego równoosiowego ziarna
+121. Którego pierwiastka należy dodać do stali, aby otrzymać austenit w temperaturze pokojowej
+a) Niklu
+b) Chromu
+c) Molibdenu
+d) Miedzi
+122. Zjawisko tzw. twardości wtórnej wykorzystuje się:
+a) w stalach narzędziowych
+b) w stopach aluminium utwardzanych wydzieleniowo
+c) w stalach odpornych na korozję
+d) w blachach na karoserie samochodowe
+123. Zwiększenie wielkości ziarna w stopie spowoduje:
+a) wzrost granicy plastyczności
+b) zmniejszenie twardości
+c) wzrost modułu sprężystości (Younga)
+d) zmniejszenie odporności na pełzanie
+124. Udarność metali wyraża się w jednostkach:
+a) siły
+b) temperatury
+c) energii
+d) naprężenia
+125. W stalach DP (Dual Phase – dwufazowych), stosowanych w konstrukcjach samochodów, podstawowymi fazami w mikrostrukturze są:
+a) ferryt i austenit
+b) ferryt i cementyt
+c) ferryt i martenzyt
+d) austenit i cementyt
+126. Spośród stali odpornych na korozję najlepszą formowalność plastyczną mają stale:
+a) austenityczne
+b) ferrytyczne
+c) ferrytyczno-austenityczne (dupleks)
+d) martenzytyczne
+127. Najlepszą wytrzymałość właściwą wykazują stopy:
+a) magnezu
+b) aluminium
+c) tytanu
+d) żelaza z niklem
+128. Bezwładność to:
+a) dążność punktu do zachowania stanu spoczynku i stanu ruchu jednostajnego prostolinio-wego, jeżeli na punkt nie działa żadna siła
+b) dążność punktu do zachowania stanu spoczynku lub stanu ruchu jednostajnego prostolinio-wego, jeżeli na punkt nie działa żadna siła
+c) dążność punktu do zachowania stanu spoczynku lub stanu ruchu jednostajnego prostolinio-wego, jeżeli na punkt działa dowolna siła
+d) dążność punktu do zachowania stanu spoczynku i stanu ruchu jednostajnego prostolinio-wego, jeżeli na punkt działa dowolna siła
+129. Moc to inaczej:
+a) ilość wykonanej pracy (lub przekazanej energii) do czasu w jakim została ona wykonana
+b) szybkość zmiany położenia ciała
+c) iloczyn wartości siły F działającej na ciało na drodze s d) zdolność obiektu do wykonywania pracy
+130. Naprężenia dopuszczalne to
+a) minimalne naprężenie powodujące naruszenie warunków wytrzymałości i sztywności kon-strukcji
+b) maksymalne naprężenie powodujące w konstrukcji pojawienie się odkształceń plastycznych
+c) naprężenia, które mogą wystąpić w materiale/konstrukcji, bez obawy naruszenia warunków wytrzymałości i sztywności
+d) naprężenia w ciele niezależne od wzajemnego położenia elementarnych cząsteczek ciała pod-danego działaniu sił zewnętrznych
+131. II prawo Newtona
+a) Jeśli na ciało działa stała niezrównoważona siła (siła wypadkowa), to ciało porusza się ruchem jednostajnie zmiennym z przyspieszeniem wprost proporcjonalnym do działającej siły i od-wrotnie proporcjonalnym do masy ciała.
+b) Punkt materialny, na który nie działa żadna siła lub działa układ sił równoważących się, pozo-staje w spoczynku albo porusza się ruchem jednostajnym po linii prostej
+c) Siły wzajemnego oddziaływania dwóch punktów materialnych są równe co do wartości, skie-rowane wzdłuż prostej łączącej te punkty oraz zwrócone przeciwnie
+d) Przyspieszenie punktu materialnego nie jest proporcjonalne do siły działającej na ten punkt i nie ma kierunku tej siły
+132. Podstawowe rodzaje obciążeń konstrukcji to
+a) rozciąganie, ściskanie, skręcanie, ścinanie, zginanie
+b) rozciąganie, ściskanie, spęczanie, zginanie
+c) wydłużanie, ściskanie, skręcanie, ścinanie, zginanie
+d) rozciąganie, wyciskanie, skręcanie, ścinanie, zginanie
+133. Pędem punktu materialnego nazywamy
+a) wektor równy iloczynowi wektora siły i przedziału czasu
+b) wielkość skalarną równą połowie iloczynu masy punktu i kwadratu jego prędkości
+c) iloczyn jego masy i prędkości
+d) zmiana wektora prędkości w czasie
+134. W statyce, która zajmuje się układami sił i ich równowagą, przyjmuje się następujące modele ciał:
+a) ciało sztywne i ciało sprężyste
+b) punkt materialny i ciało sprężyste
+c) ciało sprężyste i ciało sprężysto-plastyczne
+d) punkt materialny i ciało sztywne
+135. Moduł sprężystości wzdłużnej E (moduł Younga) zależy od:
+a) wielkości przekroju
+b) rodzaju materiału
+c) rodzaju obciążenia
+d) kształtu i wymiarów części
+136. Płaskim układem sił nazywamy układ
+a) którego wszystkie momenty leżą w jednej płaszczyźnie
+b) którego wszystkie siły i momenty leżą w jednej płaszczyźnie
+c) którego wszystkie siły leżą w jednej płaszczyźnie
+d) którego wszystkie siły nie leżą w jednej płaszczyźnie
+137. Rysunek prototypowy, (szablon) to:
+a) plik graficzny z wzorcowym rysunkiem części.
+b) plik z podstawowymi ustawieniami: warstw, stylów wymiarowania, stylów tekstu, tabelki opisowej z atrybutami itp.
+c) plik z pierwszym projektem prototypu przed uruchomieniem produkcji.
+d) pierwszy model 3D części dla projektowanego złożenia.
+138. Metoda budowy POPRAWNYCH obiektów 3D w programie AutoCAD.
+a. z polilinii zamkniętych lub z regionów
+b. z polilinii otwartych
+c. ze szkiców linii segmentowych
+d. z linii otwartych typu spline
+139. Metoda budowy POPRAWNYCH obiektów 3D w programie SolidWorks:
+a. ze szkicu całkowicie zdefiniowanego
+b) ze szkicu niezdefiniowanego
+c) z zestawu szkiców niezdefiniowanych
+d) z powierzchni planimetrowanych
+140. BLOKI w programie AutoCAD to:
+a) zestawy części dla budowanego złożenia
+b) zestawy poleceń do wykonania operacji na jednym obiekcie bryłowym
+c) zestawienie wykazu części w złożeniu
+d) bazy elementów graficznych do wielokrotnego wykorzystania
+141. Płaszczyznę konstrukcyjną dla nowego szkicu w programie AutoCAD (Modelowanie 3D), można zmienić przez:
+a) zmianę położenia modelu poleceniem ORBITA
+b) zmianę położenia płaszczyzny yz
+c) zmianę położenia płaszczyzny xy
+d) zmianę położenia płaszczyzny xz
+142. Płaszczyznę konstrukcyjną dla nowego szkicu w programie SolidWorks (Modelowanie 3D), można zmienić przez:
+a) wskazanie jednej z trzech płaszczyzn głównych lub wskazanie dowolnej płaskiej części istniejącego modelu
+b) wskazanie powierzchni krzywoliniowej modelu
+c) wskazanie początku układu współrzędnych
+d) obrót modelu do położenia wyjściowego
+143. Filtry współrzędnych w programie AutoCAD służą do:
+a) wyeliminowania niezdefiniowanych współrzędnych
+b) wyodrębnienia pojedynczych wartości współrzędnych punktów z istniejących obiektów
+c) usunięcia sprzecznych relacji
+d) Uszeregowania wartości współrzędnych we wskazanym kierunku
+144. Program komputerowy CAD to:
+a) zestaw poleceń i ikon realizujących automatyczne procedury graficzne.
+b) pole graficzne z linią poleceń
+c) współistnienie skompilowanych procedur zawartych w kernelu i interfejsie użytkownika wspomagających proces graficznego projektowania
+d) powiązania edytora tekstu z procedurami graficznymi
+145. Zastosowanie opcji KONFIGURACJI w programie SolidWorks może być wykorzystane do:
+a) opisu budowanych obiektów bryłowych
+b) wielowariantowego konstruowania elementów części maszyn i złożeń
+c) porządkowania części w złożeniach mechanizmów
+d) uszeregowania projektowanych elementów wg ich rosnącej objętości
+146. Bezpośrednie zastosowanie LUW (Lokalnego Układu Współrzędnych) w programie AutoCAD:
+a) do przemieszczenia obiektów w złożeniu
+b) do obrotów wybranych obiektów w szkicu
+c) do lokalizacji elementu konstrukcyjnego w budowanym złożeniu
+d) do zmiany położenia płaszczyzny konstrukcyjnej (xy).
+147. Polecenie SZYK w programach CAD umożliwia:
+a) zmianę powłoki modelu poprzez przypisanie tekstury
+b) uporządkowanie układu warstw z przypisaniem rodzajów linii i kolorów
+c) założone uporządkowanie wybranych elementów lub operacji w szkicu lub w modeli 3D w układzie kołowym lub prostokątnym
+d) ustawienie projektowanych elementów wg ich masy
+148. Operacje BOOLOWSKIE w projektowaniu CAD pozwalają na:
+a) określenie całkowitej powierzchni obiektów bryłowych
+b) sumowanie, określenie różnic i części wspólnych dla obiektów bryłowych w modelowaniu 3D
+c) ścisłą względną lokalizację obiektów 3D w złożeniach części maszyn
+d) wyznaczanie środków ciężkości dla modeli bryłowych 3D
+149. Parametryczność w programach CAD to:
+a) możliwość wymiarowania szkiców całkowicie zdefiniowanych
+b) możliwość określania parametrów fizycznych dla obiektów powierzchniowych i bryłowych 3D
+c) programowa spójność pomiędzy wartościami wymiarów, a wielkością obiektów z możliwością definiowania ich wzajemnych relacji i możliwość ich edycji w dokumentacji i w szkicach modeli 3D
+d) Ocena parametrów fizycznych modeli 3D i szkiców użytych do ich budowy
+150. Znak (-) przy nazwie szkicu w drzewie operacji przy budowie części w programie SolidWorks oznacza, że:
+a) szkic jest przedefiniowany
+b) szkic jest niedodefiniowany
+c) szkic pochodzi z rzutowania elementów krawędzi już istniejącego modelu 3D
+d) nie jest możliwe zbudowanie modelu 3D
+151. System projektowania RP i RT dotyczy:
+a) metod szybkiego projektowania prototypów elementów części maszyn i narzędzi
+b) projektowania wyłącznie na potrzeby przemysłu motoryzacyjnego
+c) optymalizacji procesu wytwarzania w aspekcie ograniczenia zużycia narzędzi
+d) fizycznej regeneracji zużytych elementów części maszyn
+152. Budowa CZĘŚCI W KONTEKŚCIE złożenia polega na ich konstruowaniu w oparciu o:
+a) odpowiedni wybór płaszczyzn konstrukcyjnych
+b) wcześniej podane zależności wymiarowe poprzez równania oraz w oparciu o relacje zdefiniowane w trybie konfiguracji
+c) już wcześniej wczytane części do złożenia i bazowanie na ich wymiarach, lokalizacji oraz cechach geometrycznych
+d) dowolnym wypełnieniu przestrzeni pomiędzy wczytanymi do złożenia elementami konstrukcyjnymi
+153. REVERSE ENGINEERING to:
+a) system projektowania bazujący na wzorcowych, modelach 3D, obejmujących typowe elementy części maszyn
+b) system projektowania negatywów narzędzi (matryce, stemple) na podstawie wirtualnych kształtów wyrobu gotowego
+c) system projektowania odwrotnego bazujący na wzorcach przeznaczonych np. do regeneracji, po wcześniejszym ich skanowaniu i poddanych późniejszym wirtualnym korektom
+d) projektowanie części maszyn z uwzględnieniem kosztów ich utylizacji
+154. Obrabiarki CNC to:
+a) obrabiarki sterowane manualnie za pomocą mechanizmów śrubowych i przekładni zębatych
+b) obrabiarki pozwalające na kopiowanie ruchów narzędzia wg wykonanych wzorników
+c) tokarki i frezarki umożliwiające wyeliminowanie częstości rezonansowej podczas obróbki skrawaniem
+d) obrabiarki do obróbki ubytkowej sterowane kodem NC
+155. Kod NC jest zbiorem:
+a) procedur opisujących technologię obróbki ubytkowej, w tym parametry: obroty i posuwy oraz trajektorię ruchu narzędzi
+b) procedur określających geometrię półfabrykatu w kontekście modelu bryłowego
+obrabianej części
+c) procedur opisujących geometrię modelu 3D w odniesieniu do globalnego układu współrzędnych
+d) poleceń do automatycznej budowy parametrycznego modelu 3D
+156. Polecenie REGION w programie AutoCAD powoduje:
+a) rozdzielenie obszaru w postaci regionu na linie segmentowe w szkicu podstawowym
+b) możliwość określenia stopnia krzywizny obiektu powierzchniowego
+c) możliwość wyznaczenia obiektów 2D o takich samych powierzchniach
+d) przypisanie powierzchni zamkniętej figurze, ograniczonej spójnymi liniami segmentowymi lub polilinią z możliwością wyznaczenia parametrów fizycznych
+157. BLOKI i system TOOLBOX w programach AutoCAD i SolidWorks są:
+a) zestawami poleceń do wielokrotnego wykonania operacji na jednym obiekcie bryłowym
+b) bazami gotowych elementów graficznych do wielokrotnego wykorzystania z możliwością dołączania nowych elementów
+c) zestawy części dla wybranego złożenia bez możliwości wielokrotnego kopiowania
+d) elementami związanymi z budową narzędzi bez przypisania rodzaju materiału
+158. Geometria wykreślna. Rzuty Monge’a, położenie punktu w przestrzeni, wysokość punktu to:
+a) odległość punktu od rzutni Π1
+b) odległość punktu od rzutni Π2
+c) odległość punktu od rzutni Π3
+d) odległość punktu od początku układu współrzędnych
+159. Oznaczenia stosowane w rysunku technicznym
+a) oznaczenie spoin pachwinowych o różnych przekrojach
+b) zbiorcze oznaczenie chropowatości powierzchni
+c) oznaczenie poziomu twardości
+d) oznaczenie głębokości nawęglenia
+160. Oznaczenia stosowane w rysunku technicznym: a) F 50h11, b) F 30H7/p6
+a) oznaczenie tolerancji średnicy zewnętrznej przy górnej odchyłce es=0, b. oznaczenie pasowania wciskowego
+b) oznaczenie tolerancji średnicy zewnętrznej przy dolnej odchyłce ei=0, b. oznaczenie pasowania suwliwego
+c) oznaczenie tolerancji średnicy wewnętrznej przy górnej odchyłce es=0, b. oznaczenie pasowania luźnego
+d) oznaczenie tolerancji średnicy wewnętrznej przy dolnej odchyłce ei=0, b. oznaczenie pasowania mieszanego
+161. Podczas projektowania bazy danych, relację wiele-do-wielu uwzględnia się w następujący sposób
+a) tworzy się dodatkową tabelę i wprowadza dwie relacje jeden-do-jednego
+b) tworzy się dwie dodatkowe tabele i wprowadza trzy relacje jeden-do-jednego
+c) tworzy się dodatkową tabelę i wprowadza dwie relacje jeden-do-wielu
+d) relacja wiele-do wielu w ogóle nie jest rozważana podczas projektowania baz danych
+162. Klucz główny w tabeli relacyjnej bazy danych spełnia następujący warunek
+a) jest tworzony zawsze przez tylko jedną kolumnę
+b) składa się z jednej lub kilku kolumn
+c) może składać się z K kolumn, gdzie K jest jedną z liczb z następującego ciągu: 1, 2, 4, 8, 16 itd.
+d) to kolumna, w której pojawia się wartość NULL
+163. W programie Microsoft ACCESS
+a) możemy stosować, przy redagowaniu kwerend, instrukcje języka zapytań SQL (ale nie jest to bardzo wygodne)
+b) nigdy nie możemy używać języka zapytań SQL
+c) stosowanie komend SQL jest dopuszczalne, ale tylko do tworzenia nowych tabel
+d) stosowanie komend SQL jest dopuszczalne, ale tylko do tworzenia kluczy złożonych
+164. Program Microsoft ACCEESS
+a) stanowi część systemu operacyjnego Linux
+b) stanowi komponent pakietu Microsoft Visual Studio
+c) jest inną nazwą programu Microsoft Excel
+d) stanowi komponent pakietu Microsoft Office
+165. Aby wyeliminować tzw. „anomalie przy usuwaniu”
+a) przeprowadza się denormalizację tabel bazy danych
+b) przeprowadza się proces normalizacji tabel bazy danych
+c) dane do tabel wprowadza się stosując formularze
+d) należy znieść blokadę usunięcia rekordu
+166. „Anomalia przy dodawaniu” to termin używany w teorii relacyjnych baz danych
+a) odnosi się on do kłopotów wprowadzenia do bazy tekstu (np. czyjegoś nazwiska), gdy rozmiar pola jest zbyt mały
+b) odnosi się on np. do kłopotów dopisania do bazy towaru, którego nikt jeszcze nie zakupił (dotyczy źle znormalizowanej bazy danych np. bazy w postaci jednej zbiorczej tabeli)
+c) odnosi się on do kłopotów przy próbie wykonania operacji dodawania na dwóch zmiennych typu tekstowego, a nie liczbowego
+d) „anomalia przy dodawaniu” to termin równoważny terminowi „anomalia przy aktualizacji”
+167. Pojedyncza instrukcja INSERT (w języku zapytań SQL) jest stosowana w następującym celu
+a) zaprojektowania struktury nowej tabeli
+b) utworzenia całkiem nowej kolumny w istniejącej tabeli
+c) dodania nowych danych w wierszu do istniejącej tabeli
+d) w języku SQL w ogóle nie istnieje instrukcja INSERT
+168. Instrukcja „SELECT COUNT(*) FROM pracownicy;” powoduje wyświetlenie
+a) liczby wszystkich tabel w bazie danych ‘pracownicy’
+b) liczby wszystkich kolumn w tabeli ‘pracownicy’
+c) utworzenie klucza głównego w tabeli ‘pracownicy’
+d) liczby wszystkich wierszy w tabeli ‘pracownicy’
+169. Wykrój matrycujący może być wypełniany przez:
+a) spęczanie, dziurowanie, wyciskanie
+b) spęczanie, dziurowanie, przebijanie
+c) spęczanie, dziurowanie, wycinanie
+d) przebijanie, wyciskanie, spęczanie
+170. Rozkład naprężeń i odkształceń występujących w równomiernie nagrzanym materiale podczas wydłużania zależy od:
+a) wielkości posuwu względnego, kształtu kowadeł, kształtu materiału wydłużanego
+b) wielkości posuwu bezwzględnego, kształtu kowadeł, kształtu materiału wydłużanego
+c) wielkości posuwu względnego, kształtu kowadeł, stanu naprężenia
+d) wielkości posuwu względnego, kształtu matryc, kształtu materiału wydłużanego
+171. Wymiary rowka na wypływkę oblicza się w zależności od
+a) wymiarów wykroju i jego kształtu
+b) wymiarów odkuwki i jej kształtu
+c) kinematyki płynięcia materiału w wykroju
+d) stopnia wypełnienia magazynu
+172. Stopień przekucia w procesie wydłużania najczęściej określamy jako
+a) stosunek pola przekroju przed kuciem do przekroju po kuciu
+b) stosunek średnicy pręta po kuciu do średnicy przed kuciem
+c) stosunek pola przekroju po kuciu do przekroju przed kuciem
+d) stosunek średnicy pręta przed kuciem do średnicy po kuciu
+173. Jaka operacja kształtowania wstępniaka poprzedza walcowanie pierścieni?
+a) wydłużanie swobodne
+b) walcowanie
+c) dziurowanie
+d) wyciskanie
+174. Proces walcowania, w którym walcowany pręt ulega wydłużeniu w kierunku prostopadłym do wektora prędkości walców, to:
+a) walcowanie wzdłużne
+b) walcowanie poprzeczne
+c) walcowanie skośne
+d) walcowanie okresowe
+175. Tłoczenie
+a) obejmuje sposoby przeróbki plastycznej blach, taśm i folii (głównie na zimno), polegające na kształtowaniu ich w przestrzenne wyroby typu: powłok blaszanych, kształtowników giętych – otwartych lub zamkniętych, itp
+b) to jedna z metod przeróbki plastycznej materiałów wykorzystująca ciśnienie płynu w celu modelowania płaskich blach i profili zamkniętych
+c) to podstawowa czynność w procesie tłoczenia, wykonywana przy użyciu jednego przyrządu – bez zmiany narzędzia, gdy zachodzi tylko jedna zmiana kształtu tłoczonego przedmiotu
+d) jest jedną z form przeróbki plastycznej służąca do produkcji drutów, prętów i rur o różnych średnicach
+176. Celem realizacji procesu ciągnienia jest:
+a) zwiększenie przekroju poprzecznego, zwiększenie dokładności wymiarowej wyrobu, zmiana własności fizycznych (wytrzymałość, plastyczność)
+b) zmniejszenie przekroju poprzecznego, zwiększenie dokładności wymiarowej wyrobu, zmiana własności fizycznych (wytrzymałość, plastyczność)
+c) zmniejszenie przekroju poprzecznego, zmniejszenie dokładności wymiarowej wy-robu, zmiana własności fizycznych (wytrzymałość, plastyczność)
+d) zwiększenie przekroju poprzecznego, zmniejszenie dokładności wymiarowej wyrobu, zmiana własności fizycznych (wytrzymałość, plastyczność)
+177. W procesie kucia swobodnego odkuwki przede wszystkim wywarzanie są z:
+a) profili walcowanych
+b) półfabrykatów o zmiennym przekroju poprzecznym i wzdłużnym
+c) walcówki
+d) wlewków kuźniczych
+178. W projektowaniu procesu kucia matrycowego na prasach zakłada się, że zapełnienie metalem kolejnego wykroju odbywa się:
+a) zmienną liczbą uderzeń zależną od finalnego kształtu wyrobu
+b) jednym przemieszczeniem narzędzi
+c) jednym lub dwoma uderzeniami narzędzi – zależnie od wymagań procesu
+d) jednym lub więcej przemieszczeniem narzędzi
+179. Proces przeróbki plastycznej na gorąco stopów żelaza to odkształcanie:
+a) powyżej temperatury rekrystalizacji
+b) poniżej temperatury rekrystalizacji
+c) przy temperaturze kruchości na niebiesko
+d) powyżej górnego zakresu temperatury odkształcania
+180. Słynne zdanie M. Montessori brzmi:
+a) Pomóż mi
+b) Pokaż mi jak to zrobić
+c) Pomóż mi to zrobić samemu
+d) Zrób to za mnie
+181. Co było najważniejsze w szkole Waldorfskiej?
+a) środki dydaktyczne
+b) karność
+c) duchowość
+d) tradycja
+182. Co było najważniejsze w pedagogice personalistycznej?
+a) rodzice
+b) osoba
+c) nauczyciel
+d) budynek
+183. Kto był najważniejszy w pedagogice Korczaka?
+a) dziecko
+b) rodzic
+c) nauczyciel
+d) opiekun
+184. Średnie ciepło właściwe w zakresie od temperatury t1 do temperatury t2, wyrażone w J/(kmol·K), jest to
+a) ilość ciepła w J potrzebna do ogrzania 1 kilomola substancji od temperatury t1 do temperatury t2
+b) ilość ciepła w J potrzebna do ogrzania 1 kilomola substancji o 1 K
+c) średnia arytmetyczna rzeczywistego ciepła właściwego w temperaturze t1 i temperaturze t2
+d) różnica pomiędzy średnim ciepłem właściwym w zakresie od temperatury t0=0oC do temperatury t2 a średnim ciepłem właściwym w zakresie od temperatury t0=0oC do temperatury t1, wyrażonymi w J/(kmol·K)
+185. Skład mieszaniny można podać przy pomocy udziału objętościowego, molowego i masowego. Która z poniższych odpowiedzi jest poprawna?
+a) Udział masowy jest równy udziałowi molowemu
+b) Udział objętościowy jest równy udziałowi masowemu
+c) Wszystkie udziały są sobie liczbowo równe
+d) Udział molowy jest równy udziałowi objętościowemu
+186. Wymiana ciepła w próżni może zachodzić w wyniku:
+a) przewodzenia
+b) promieniowania
+c) konwekcji
+d) wszystkich wymienionych powyżej mechanizmów transportu ciepła
+187. Gdy promieniowanie pada na ciało szare o skończonej objętości to:
+a) część energii jest pochłonięta, a część przepuszczona
+b) cała energia jest pochłonięta przez ciało szare
+c) część energii jest pochłonięta a część odbita
+d) cała energia jest odbita
+188. Transport masy może występować jednocześnie z transportem ciepła w przypadku gdy wymiana ciepła przebiega na drodze:
+a) promieniowania
+b) przewodzenia
+c) konwekcji
+d) wszystkich trzech mechanizmów wymiany ciepła
+189. Całkowita ilość energii emitowana przez ośrodek na drodze promieniowania odniesiona do jednostki czasu i jednostki powierzchni (natężenie promieniowania) jest:
+a) proporcjonalna do czwartej potęgi temperatury ośrodka wyrażonej w skali Celsjusza
+b) wprost proporcjonalna (do pierwszej potęgi) temperatury wyrażonej w skali Kelwina
+c) wprost proporcjonalna (do pierwszej potęgi) temperatury wyrażonej w skali Celsjusza
+d) proporcjonalna do czwartej potęgi temperatury ośrodka wyrażonej w skali Kelwina
+190. Z prawa Plancka wynika, że ze wzrostem temperatury ciała doskonale czarnego maksimum wysyłanego przez to ciało monochromatycznego natężenia promieniowania:
+a) zawsze przesuwa się w kierunku fal o większej długości
+b) może nastąpić zarówno wzrost jak i spadek natężenia promieniowania zależnie od przedziału długości fali
+c) zawsze przesuwa się w kierunku fal o mniejszej długości
+d) nie zależy od długości fali
+191. Co to jest tolerancja?
+a) Różnica między wymiarem górnym i nominalnym
+b) Różnica między wymiarem rzeczywistym i nominalnym
+c) Różnica między wymiarem nominalnym i dolnym
+d) Różnica między wymiarem górnym i dolnym
+192. Co to jest klasa tolerancji?
+a) Zbiór tolerancji uznanych jako odpowiadające jednakowemu poziomowi dokładności wyko-nania
+b) Zbiór tolerancji o tej samej wartości pogrupowane w zależności od wymiaru nominalnego
+c) Zbiór tolerancji uznanych za jednakowy poziom dokładności wykonania oddzielnie dla wy-miarów zewnętrznych i wewnętrznych
+d) Zbiór tolerancji pogrupowanych w przedziały (klasy) o stałej, założonej przez konstruktora wartości, np. co 10 mm
+193. Co to jest pasowanie?
+a) Skojarzenie wymiaru zewnętrznego i wewnętrznego o zbliżonych wartościach nominalnych, ale takich samych odchyłkach
+b) Skojarzenie wymiaru zewnętrznego i wewnętrznego pod warunkiem, że wymiar zewnętrzny jest większy od wymiaru wewnętrznego
+c) Skojarzenie wymiaru zewnętrznego i wewnętrznego o tej samej wartości nominalnej, ale róż-nych odchyłkach
+d) Skojarzenie wymiaru wałka i otworu o dowolnych wymiarach i odchyłkach
+194. Co to jest skok gwintu walcowego?
+a) Wysokość, na jaką wzniesie się punkt przemieszczający się wzdłuż linii śrubowej po wykona-niu pełnego obrotu
+b) Odległość między grzbietem i bruzdą gwintu
+c) Odległość między grzbietem gwintu śruby i grzbietem gwintu nakrętki
+d) Najmniejsza odległość między grzbietem gwintu śruby i bruzdy nakrętki
+195. Pojęcie „gwint samohamowny” oznacza:
+a) Gwint, w którym możliwe jest wywołanie obrotu śruby pod wpływem działania siły poosiowej (wciskania śruby)
+b) Gwint, w którym moment tarcia na gwincie podczas napinania śruby jest mniejszy od mo-mentu tarcia podczas jej luzowania
+c) Gwint, w którym kąt wzniosu linii śrubowej jest mniejszy od pozornego kąta tarcia
+d) Gwint, w którym do przykręcenia nakrętki (śruby) wymagany jest coraz większy moment ob-rotowy
+196. Różnica między osią a wałem polega na tym, że:
+a) Oś na całej długości ma stałą średnicę, a średnica wału może się zmieniać
+b) Oś nie przenosi momentu skręcającego
+c) Wał może być drążony, a oś zawsze jest pełna
+d) Oś jest nieruchoma, a wał wykonuje ruch obrotowy lub wahadłowy
+197. Czy możliwe jest, aby ugięcie wału wywołane nieosiowo osadzonym kołem zanikało podczas zwiększania prędkości obrotowej tego wału?
+a) Tak, zjawisko takie nazywa się samowyważeniem wału
+b) Nie, gdyż zawsze ze wzrostem prędkości obrotowej wału zwiększa się jego ugięcie
+c) Tak, ale tylko w zakresie prędkości krytycznej wału
+d) Nie, gdyż ugięcie wału nie zależy od jego prędkości obrotowej, tylko od masy osadzonego na nim koła
+198. Czy łożyska promieniowe mogą przenosić również obciążenie wzdłużne?
+a) Tak, ale tylko wtedy, gdy wypadkowa siły poprzecznej i wzdłużnej jest pod kątem mniejszym od 45 stopniu względem siły promieniowej
+b) Nie mogą, łożyska promieniowe są przeznaczone tylko do przenoszenia obciążeń poprzecz-nych
+c) Tak, nie ma ograniczeń, aby łożysko promieniowe mogło pracować pod obciążeniem wzdłuż-nym
+d) Tak, pod warunkiem że obciążenie wzdłużnie jest co najwyżej równe połowie obciążenia po-przecznego
+199. Co to jest moduł koła zębatego?
+a) Jest to funkcja opisująca zarys zęba koła zębatego
+b) Jest to iloraz obwodu koła podziałowego i liczby zębów koła zębatego
+c) Jest to iloraz średnicy podziałowej i liczby zębów koła zębatego
+d) Jest to iloraz średnicy zewnętrznej i liczby zębów koła zębatego
+200. Co to jest punkt toczny?
+a) Jest to punkt na powierzchni zębów w którym zęby toczą się po sobie a nie ślizgają
+b) Jest to punkt na powierzchni zębów, w którym następuje pierwszy kontakt między zębami obracających się kół zębatych
+c) Jest to punkt na powierzchni zębów, w którym podczas obrotu kół zęby przestają się kontak-tować
+d) Jest to każdy punkt, w którym zęby współpracujących kół zębatych kontaktują się ze sobą
+201. Obróbka wiórowa wykonywana jest narzędziami:
+a) o nieokreślonej geometrii
+b) o nieznanej liczbie ostrzy
+c) o określonej liczbie ostrzy
+d) nie można określić
+202. W skład budowy noża tokarskiego wchodzi
+a) powierzchnia przylegania
+b) czubek noża
+c) pomocnicza powierzchnia przylegania
+d) powierzchnia przyłożenia
+203. Wióry ze względu na bodowe można podzielić na:
+a) schodkowe, wstążkowe, elementowe
+b) schodkowe, wstęgowe, elementarne
+c) schodkowe, wstęgowe, elementowe
+d) schodkowe, wstążkowe, elementarne
+204. Zjawisko narostu powoduje
+a) polepszenie skrawania
+b) zmniejszenie odkształceń podczas procesu skrawania
+c) częściowo przejęcie pracy ostrza
+d) skrócenie ostrza
+205. W skład budowy tokarki wchodzą:
+a) imadło, konik, wrzeciennik, łóżko
+b) wrzeciennik, imak, konik, łoże
+c) wrzeciennik, imak, kucyk, łoże
+d) wrzeciennik, imadło, konik, łoże
+206. Dłutowanie to proces zaliczany do:
+a) strugania
+b) wiercenia
+c) toczenia
+d) frezowania
+207. Powiercanie to:
+a) rodzaj obróbki wiórowej, którego celem jest poprawienie dokładności wymiarowo-kształtowej
+b) powiększenie średnicy istniejącego otworu
+c) wykonanie otworu w pełnym materiale przy użyciu wiertła
+d) powiększenie średnicy otworu na pewnej jego głębokości
+208. Frezowanie wykonujemy narzędziem:
+a) wieloostrzowym
+b) jednoostrzowym
+c) o nieograniczonej liczbie ostrzy
+d) dwuostrzowym
+209. Honowanie to:
+a) nanoszenie warstw ochronnych
+b) zdobienie powierzchni
+c) gładzenie powierzchni
+d) nanoszenie oznaczeń na materiał
+210. Metoda spawania 141 to:
+a) spawanie elektrodą nietopliwą w osłonie gazów obojętnych
+b) spawanie elektrodą topliwą w osłonie gazów aktywnych
+c) spawanie elektrodą topliwą w osłonie gazów obojętnych
+d) spawanie elektrodą nietopliwą w osłonie gazów aktywnych
+211. Spośród pozycji spawania można wyróżnić pozycje:
+a) boczną, ścienną, podolną, pułapową
+b) naboczna, naścienną, podolna, pułapowa
+c) naboczną, ścienną, dolną, pułapowa
+d) boczną, naścienną, dolna, pułapowa
+212. Wymagania stawiane lutom w procesie lutowania:
+a) bardzo duży zakres krystalizacji lutu
+b) temperatura topnienia niższa od temperatury topnienia łączonych materiałów
+c) słaba lejność (rzadkopłynność) roztopionego lutu
+d) brak powinowactwa chemicznego lutu i łączonych materiałów
+213. Gdzie wydziela się najwięcej ciepła podczas zgrzewania oporowego punktowego:
+a) na styku materiał-materiał
+b) na styku elektroda materiał
+c) w materiale zgrzewanym
+d) na elektrodzie
+214. Podstawową topologią sieciową w sieciach lokalnych opartych na skrętce jest
+a) Topologia szyny
+b) Topologia pierścienia
+c) Topologia gwiazdy
+d) Topologia siatki
+215. Maska w adresowaniu IP służy do
+a) Obliczania numeru sieci i adresu rozgłoszeniowego na podstawie adresu IP
+b) Ustalania adresu bramy domyślnej
+c) Określenia klasy adresowej
+d) Maskowania adresu z puli prywatnej na adres z puli publicznej
+216. Trójstronne potwierdzenie jest używane w protokole
+a) TCP do potwierdzenia odebrania pakietu z danymi
+b) TCP do nawiązania sesji
+c) UDP do nawiązania połączenia
+d) IP no nawiązania połączenie
+217. TTL w pakiecie IP
+a) Określa czas życia pakietu w sekundach lub hopach
+b) Określa czas przechowywania pakietu w pamięci podręcznej (cache)
+c) Jest pozostałością starszych wersji TCP/IP i to pole nie jest obecnie używane
+d) Zawiera potwierdzenie przesłania pakietu
+218. Protokół ARP
+a) Służy do tłumaczenia nazwy domenowej na adres IP
+b) Służy do odnajdywania domyślnej bramy w sieci IP
+c) Służy do autokonfiguracji urządzeń sieciowych
+d) Służy do tłumaczenia adresów MAC na adresy IP
+219. Protokół ICMP jest to
+a) Protokół kontrolny wspomagający pracę protokołu IP
+b) Protokół pozwalający na identyfikację trasy routowania
+c) Protokół pozwalający na mapowanie adresów MAC na adresy IP
+d) Protokół wykorzystywany przez narzędzie nslookup
+220. Trójstronne potwierdzenie składa się z sekwencji;
+a) SYN+RST, RST, ACK
+b) SYN, ACK , RST
+c) SYN, SYN+ACK, ACK
+d) SYN, ACK, SYN
+221. Protokoły stosowane w transmisji poczty elektronicznej to:
+a) POP3 i SMTP do odbierania, IMAP – do wysyłania
+b) IMAP i POP3 do odbierania, SMTP do wysyłania
+c) POP3 do odbierania, SMTP i IMAP do wysyłania
+d) SMTP do odbierania, POP3 i IMAP do wysyłania
+222. Protokół FTP:
+a) Posiada wewnętrzne mechanizmy zapewniające szyfrowanie danych
+b) Wykorzystuje szybką transmisję za pomocą protokołu UDP
+c) Wymaga dwóch połączeń między odbiorcą a nadawcą
+d) Jest rozwinięciem protokołu HTTP wykorzystywanym do transmisji plików
+223. Routery co do zasady
+a) Analizują segmenty danych tylko do poziomu warstwy fizycznej
+b) Analizują segmenty danych tylko do poziomy warstwy sieciowej
+c) Analizują segmenty danych tylko do poziomu warstwy łącza danych
+d) Analizują segmenty danych tylko do poziomu warstwy transportowej
+224. Grafika wektorowa:
+a) zapis obrazu jest oparty na formułach matematycznych
+b) obraz tworzony za pomocą siatki pikseli o odpowiednich kolorach,
+c) nie jest skalowalna bez utraty jakości,
+d) używa formatów plików BMP, JPG, PNG
+225. Grafika rastrowa:
+a) jest skalowalna bez utraty jakości,
+b) obraz tworzony za pomocą siatki pikseli o odpowiednich kolorach,
+c) zapis obrazu oparty na formułach matematycznych,
+d) używa formatów plików DXF, DWF, DWG, SVG
+226. Projekcja stereoskopowa aktywna wykorzystuje:
+a) efekt polaryzacji światła
+b) efekt załamania światła
+c) efekt rozproszenia światła
+d) okulary migawkowe
+227. Modele w grafice 3D są zapisywane za pomocą:
+a) siatki wielokątów opartej na tekselach
+b) siatki wielokątów opartej na pikelach
+c) siatki wielokątów opartej na gridach
+d) siatki wielokątów opartej na verteksach
+228. Czy wszystkie barwy modelu RGB można zreprodukować w modelu CMYK
+a) nie
+b) w zależności od papieru
+c) tak
+d) w zależności od drukarki
+229. Mapowanie normalnych to:
+a) technika przemieszczania vertexów
+b) technika przemieszczania pikseli
+c) technika wykorzystywanych do mapowania nierówności
+d) technika generowania obiektów
+230. Grafika nieinterakcyjna:
+a) program na bieżąco uaktualnia obraz w zależności od działań użytkownika
+b) wykorzystuje się sprzężenie zwrotne z kontrolerów
+c) czas odświeżenia obrazu nie ma znaczenia
+d) użytkownik ma wpływ na bieżąco na generowany obraz
+231. W grafice interakcyjnej:
+a) program na bieżąco uaktualnia obraz w zależności od działań użytkownika
+b) czas odświeżenia obrazu nie ma znaczenia
+c) nie akceptuje się i nie stosuje uproszczonych metod rysowania obiektów,
+d) użytkownik nie ma wpływu na bieżąco na generowany obraz
+232. W grafice czasu rzeczywistego:
+a) klatki generowane są na tyle szybko (kilkadziesiąt razy na sekundę), że obserwator nie odczuwa opóźnień
+b) szybkość generowania nie ma znaczenia
+c) mogą występować małe opóźnienia
+d) nie można stosować uproszczeń
+233. Piksel to:
+a) najmniejszy, niepodzielny element tekstury
+b) punkt w przestrzeni
+c) obiekt w przestrzeni o pewnej objętości
+d) najmniejszy, niepodzielny element obrazu o określonej barwie
+234. Głębia bitowa koloru:
+a) to rozmycie kolorów
+b) to miara liczby usuwanych bitów w celu zapisu koloru dla jednego piksela obrazu
+c) to miara liczby bitów przechowujących informację dla jednego piksela obrazu
+d) decyduje o rozmyciu koloru
+235. Czy program Gimp udostępnia pracę na warstwach?
+a) tak
+b) nie
+c) w zależności od obrazu rastrowego
+d) w zależności od obrazu wektorowego
+236. Czy możliwe jest wykonanie wektoryzacji obrazu rastrowego
+a) tak
+b) nie
+c) czasami
+d) w zależności od obrazu wektorowego
+237. Co to jest Gcode
+a) znormalizowany język zapisu poleceń dla urządzeń CNC (np. obrabiarek)
+b) sposób zapisu koloru
+c) sposób kodowania światła
+d) sposób kodowania dźwięku
+238. Co to jest kadrowanie obrazu?
+a) to proces dodawania części innych fotografii
+b) to proces usuwania centralnej części fotografii
+c) Co to jest kadrowanie obrazu?
+d) to proces usuwania fragmentów fotografii w celu skupienia uwagi na jego części lub poprawienia kompozycji
+e) to proces wykonywania fotografii
+239. Proces konwertorowy LD to proces, w którym przez lancę od góry dmuchany jest
+a) azot
+b) węglowodory
+c) tlen
+d) argon
+240. Udział procesu EAF w światowej produkcji stali determinuje przede wszystkim
+a) bilans złomu
+b) dostępność rud żelaza
+c) koszty inwestycji
+d) cena energii elektrycznej
+241. Najwyższy udział w światowej produkcji stali ma proces
+a) w piecu łukowym
+b) martenowski
+c) tandem
+d) konwertorowy
+242. Wdrożenie metody ciągłego odlewania stali spowodowało
+a) zwiększenie uzysku półwyrobów
+b) nieznaczne wydłużenie ciągu technologicznego
+c) istotne wydłużenie ciągu technologicznego
+d) zwiększenie zużycia materiałów ogniotrwałych
+243. Który etap ciągu technologicznego wytwarzania metalu nie występuje podczas produkcji stali?
+a) przygotowanie wsadu
+b) wytworzenie kamienia metalowego
+c) rafinacja metalu
+d) wytworzenie metalu zanieczyszczonego
+244. Teoretycznie najbogatszą rudą żelaza jest
+a) magnetyt
+b) limonit
+c) hematyt
+d) syderyt
+245. Źródłem energii w procesie konwertorowym jest
+a) brak zewnętrznego źródła energii
+b) energia elektryczna
+c) mazut
+d) gaz ziemny
+246. Co rozumiemy pod nazwą wytrzymałość konstrukcji?
+a) Wytrzymałość to zdolność do przeniesienia obciążeń wewnętrznych przez całą konstrukcje i przez jej elementy składowe.
+b) Wytrzymałość to zdolność do przeniesienia obciążeń zewnętrznych przez całą konstrukcje i przez jej elementy składowe.
+c) Wytrzymałość to zdolność do przenoszenia bez zniszczenia obciążeń zewnętrznych przez całą konstrukcje i przez jej elementy składowe.
+d) Wytrzymałość to zdolność do przeniesienia bez zniszczenia obciążeń zewnętrznych przez elementy składowe konstrukcji.
+247. Co rozumiemy pod pojęciem sztywności konstrukcji lub elementu maszyny?
+a) Sztywność urządzenia, konstrukcji lub elementu maszyny to zachowanie początkowych wymiarów.
+b) Sztywność urządzenia, konstrukcji lub elementu maszyny to zachowanie początkowego kształtu.
+c) Sztywność konstrukcji lub elementu maszyny to zachowanie początkowych wymiarów i kształtu.
+d) Sztywność urządzenia, konstrukcji lub elementu maszyny to brak wyboczenia.
+248. Co to są siły czynne?
+a) Siły czynne przyłożone na powierzchni pochodzące od obciążeń zewnętrznych oraz przyłożone wewnątrz np. siła grawitacji.
+b) Siły czynne przyłożone na powierzchni pochodzące od obciążeń zewnętrznych oraz przyłożone wewnątrz np. siły bierne.
+c) Siły czynne przyłożone na powierzchni pochodzące od obciążeń wewnętrznych.
+d) Siły czynne przyłożone na powierzchni pochodzące od obciążeń zewnętrznych oraz reakcji w miejscu Naprężenie zredukowane w płaskim stanie naprężeń według hipotezy największej energii odkształcenia postaciowego wyrażamy wzorem:styku ciała z podłożem.
+249. Naprężenie dopuszczalne k określamy na podstawie wzoru:
+a) 𝑘=𝜎𝑛𝑖𝑒𝑏𝑒𝑧𝑝𝑖𝑒𝑐𝑧𝑛𝑒𝑛; gdzie n-współczynnik bezpieczeństwa i n ≥ 1
+b) 𝑘=𝜎𝑛𝑖𝑒𝑏𝑒𝑧𝑝𝑖𝑒𝑐𝑧𝑛𝑒𝑛; gdzie n-współczynnik bezpieczeństwa i n ≤ 1
+c) 𝑘=𝑛 𝜎𝑛𝑖𝑒𝑏𝑒𝑧𝑝𝑖𝑒𝑐𝑧𝑛𝑒; gdzie n-współczynnik bezpieczeństwa i n ≥ 1
+d) 𝑘=𝑅𝑚; gdzie Rm -wytrzymałość na rozciąganie
+250. Co nazywamy wytrzymałością na rozciąganie?
+a) Podstawową wielkością opisującą własności mechaniczne materiałów jest wytrzymałość na rozciąganie Rm, czyli naprężenie normalne w próbce obliczone, jako stosunek największej siły rozciągającej Fm, uzyskanej podczas przeprowadzania próby, do pola powierzchni przekroju początkowego próbki S0.
+b) Podstawową wielkością opisującą własności mechaniczne materiałów jest wytrzymałość na rozciąganie Rm, czyli naprężenie normalne w próbce obliczone, jako stosunek największej siły rozciągającej Fm, uzyskanej podczas przeprowadzania próby, do chwilowego pola powierzchni przekroju S
+c) Podstawową wielkością opisującą własności mechaniczne materiałów jest wytrzymałość na rozciąganie Re, czyli naprężenie styczne w próbce obliczone, jako stosunek największej siły rozciągającej Fm, uzyskanej podczas przeprowadzania próby, do chwilowego pola powierzchni przekroju S.
+d) Podstawową wielkością opisującą własności mechaniczne materiałów jest wytrzymałość na rozciąganie Ru, czyli naprężenie normalne w próbce obliczone, jako stosunek siły zrywającej Fu, uzyskanej podczas przeprowadzania próby, do chwilowego pola powierzchni przekroju S.
+251. Do czego służy tensometr i co możemy zmierzyć za jego pomocą?
+a) Tensometr jest to czujnik, służący do pomiaru odkształcenia.
+b) Tensometr jest to czujnik, służący do pomiaru naprężenia. W praktyce pomiar tensometryczny polega na pomiarze odkształcenia i obliczeniu naprężenia w oparciu o przyjęty związek fizyczny (np. prawo Hooke’a).
+c) Tensometr jest to czujnik, służący do pomiaru odkształcenia. W praktyce pomiar tensometryczny polega na pomiarze naprężenia i obliczeniu odkształcenia w oparciu o przyjęty związek fizyczny (np. prawo Hooke’a).
+d) Tensometr jest to czujnik, służący do pomiaru rozkładu temperatur.
+252. Co to jest naprężenie zredukowane?
+a) Naprężenie zredukowane jest to naprężenie normalne zastępcze, które może być porównywane z wytrzymałością materiału w stanie jednoosiowego rozciągania. Naprężenie zredukowane zależy od wszystkich składowych tensora naprężeń.
+b) Naprężenie zredukowane jest to naprężenie normalne zastępcze, które może być porównywane z wytrzymałością materiału w stanie trójpunktowego zginania. Naprężenie zredukowane zależy od wszystkich składowych tensora naprężeń
+c) Naprężenie zredukowane jest to naprężenie styczne, które może być porównywane z wytrzymałością materiału w stanie jednoosiowego rozciągania.
+d) Naprężenie zredukowane jest to naprężenie normalne zastępcze, które może być porównywane z wytrzymałością materiału w stanie jednoosiowego ściskania. Naprężenie zredukowane nie zależy od wszystkich składowych tensora naprężeń.
+253. Co rozumiemy pod pojęciem ścinania?
+a) Przez ścinanie rozumie się ogólnie przypadek wytrzymałościowy, w którym układ sił zewnętrznych da się sprowadzić do siły normalnej F działającej w przekroju poprzecznym elementu
+b) Przez ścinanie rozumie się ogólnie przypadek wytrzymałościowy, w którym układ sił zewnętrznych da się sprowadzić do siły normalnej F działającej wzdłuż osi elementu.
+c) Przez ścinanie rozumie się ogólnie przypadek wytrzymałościowy, w którym układ sił wewnętrznych da się sprowadzić do siły tnącej T działającej w przekroju poprzecznym elementu.
+d) Przez ścinanie rozumie się ogólnie przypadek wytrzymałościowy, w którym układ sił zewnętrznych da się sprowadzić do siły tnącej T działającej w przekroju poprzecznym elementu.
+254. Metody nauczania oparte na słowie to:
+a) kierowanie korzystaniem z materiałów źródłowych, wykład, pogadanka
+b) kierowanie korzystaniem z materiałów źródłowych, wykład, burza mózgów
+c) wykład, ćwiczenia przedmiotowe, pogadanka
+d) pokaz, wykład, dyskusja
+255. Wskaż stwierdzenie, które nie dotyczy metody pogadanka:
+a) to dialog pomiędzy uczniami a nauczycielem
+b) ma na celu wiązanie tematu lekcji z doświadczeniem uczniów
+c) to dialog pomiędzy uczniami
+d) może być wstępna lub kontrolna
+256. Aby dobrze przygotować wykład należy:
+a) wysłać uczniom materiały, aby sami zapoznali się z tematyką
+b) ustalić cele maksymalne wykładu
+c) zaplanować treści wypoczynkowe
+d) przeprowadzić wstępny sprawdzian wiedzy uczniów
+257. Wskaż stwierdzenie, które nie odnosi się do dyskusji
+a) oddziałuje na poglądy, przekonania, a czasem postawy
+b) zwykle nie ma konkretnego celu
+c) stanowi ćwiczenie poprawnego wyrażania się
+d) wymaga od nauczyciela przygotowania
+258. Celem ćwiczeń przedmiotowych nie może być:
+a) praktyczna realizacja konkretnego projektu
+b) zdobywanie umiejętności, sprawności i nawyków
+c) utrwalanie posiadanych umiejętności
+d) przeprowadzenie porównania, analizy, czy podsumowania omawianych treści
+259. Do metod opartych na działaniu nie należy
+a) kierowanie nabywaniem umiejętności praktycznych
+b) metoda laboratoryjna
+c) ćwiczenia przedmiotowe
+d) dyskusja
+260. Ćwiczenia przedmiotowe zastosowano na lekcji, gdy uczniowie:
+a) obliczają wytrzymałość połączenia spawanego
+b) wykonują drewniane pudełka
+c) uczą się przecinania tworzyw sztucznych
+d) dyskutują o nowych rozwiązaniach w motoryzacji
+261. Kierowanie nabywaniem umiejętności praktycznych zastosowano na lekcji, gdy uczniowie
+a) obliczają zużycie prądu w gospodarstwie domowym
+b) montują obwody elektryczne wg. schematu
+c) dyskutują o nowych rozwiązaniach w motoryzacji
+d) oglądają film dotyczący łączenia materiałów
+262. Lekcje na temat „Odnawialne źródła energii” nie należy prowadzić metodą:
+a) pogadanki
+b) wykładu
+c) burzy mózgów
+d) kierowania obserwacją
+263. Na lekcji dotyczącej łączenia materiałów uczniowie oglądają film i notują najważniejsze dane w nim prezentowane. Wskaż zasadę, która w tym momencie nie jest realizowana:
+a) ustawiczności kształcenia
+b) kształtowania umiejętności uczenia się
+c) trwałości wiedzy
+d) świadomego i aktywnego uczestnictwa
+264. Ćwiczenia przedmiotowe zastosowano na lekcji, gdy uczniowie:
+a) montują obwody elektryczne wg. schematu
+b) obrabiają wybrane materiały celem wykonana założonego elementu
+c) obliczają wytrzymałość połączenia spawanego
+d) zgłaszają własne pomysły rozwiązania wybranego problemu o charakterze technicznym
+265. Do zadań nauczyciela w metodzie projektu zaliczamy:
+a) opisanie mocnych i słabych stron poszczególnych uczniów
+b) przydzielenie zadań uczniom realizującym projekt
+c) opracowanie szczegółowego planu realizacji każdego projektu
+d) śledzenie rytmiczności i postępu prac nad projektem
+266. Na lekcji dotyczącej urządzeń peryferyjnych uczniowie oglądają film i notują najważniejsze dane w nim prezentowane. ta aktywność nie realizuje zasady:
+a) kształtowania umiejętności ucznia
+b) świadomego i aktywnego uczestnictwa
+c) poglądowości
+d) ustawiczności kształcenia
+267. Nauczyciel rozpoczynając lekcje na temat „Skanowanie” w gimnazjum pokazał uczniom film o zastosowaniu skanerów – tym działaniem nie spełnił zasady:
+a) trwałości wiedzy
+b) poglądowości
+c) świadomego i aktywnego uczestnictwa
+d) łączenia teorii z praktyką
+268. Flipped classroom (odwrócona klasa)
+a) w metodzie tej nauczyciel odgrywa rolę uczącego się,
+b) zadaniem uczniów po lekcji jest przygotowanie rzetelnych materiałów podsumowujących nauczanie
+c) uczniowie mogą tworzyć własne materiały dydaktyczne, mogą też dzielić się nimi między sobą i publikować w sieci
+d) w metodzie tej uczeń uczy się sam w domu, a lekcja przeznaczona jest na pracę w grupie, dyskusję, podsumowanie
+269. W metodzie projektów nauczyciel powinien
+a) zaproponować uczniom jakieś rozwiązanie problemu
+b) opracować sprawozdanie z realizacji projektu i na ostatnich zajęciach przedstawić je uczniom
+c) podzielić pracę między uczniów w grupie
+d) skonsultować projekt ucznia
+270. Wideodydaktyka to metoda w której
+a) wykorzystuje się w nauczaniu, takie metody jak: kierowanie obserwacją, pokaz itp.
+b) uczniowie oglądają filmy edukacyjne
+c) tworzą filmy i prezentacje korzystając z zasobów internetu
+d) zmienia się rola ucznia z biernego widza w aktywnego twórcę filmów
+271. Ocenianie kształtujące
+a) jest procesem ciągłym
+b) jest zdarzeniem jednostkowym
+c) służy rozliczaniu z wykonania założeń programu
+d) jest zdecydowanie szybsze niż ocenianie sumujące
+272. Ocenianie sumujące
+a) jest integralnym elementem procesu uczenia się/nauczania
+b) pomaga w rozpoznaniu braków i umożliwia natychmiastowe ich uzupełnianie
+c) jest wygodniejsze (niż ocenianie kształtujące) przy porównywaniu i opracowaniu rankingów
+d) jest procesem ciągłym
+273. Grywalizacja
+a) opiera nauczanie na mechanizmach gier
+b) w metodzie tej uczniowie tworzą gry dydaktyczne w które potem grają z kolegami
+c) wymaga stosowania komputerów
+d) to zastosowanie komercyjnych gier komputerowych w nauczaniu
+274. Ilość rozpuszczonego w austenicie w danej temperaturze pierwiastka międzywęzłowego two-rzącego węglik lub azotek:
+a) określona jest przez iloczyn rozpuszczalności kMX,
+b) temperaturę rozpuszczalności węglika lub azotk
+c) określona jest przez punk przecięcia prostej stechiometrycznej z krzywą rozpuszczalności
+d) nie zależy od temperatury
+275. Próbka reprezentatywna to:
+a) próbka przygotowana do analizy w postaci roztworu
+b) próbka badanego materiału pomniejszona do jednego grama
+c) próbka możliwie jak najmniejsza
+d) odzwierciedlająca właściwości obiektu w odniesieniu do postawionego problemu
+276. Przewodnictwo elektryczne półprzewodników rośnie:
+a) Ze spadkiem stopnia zdefektowania oraz spadkiem temperatury,
+b) Ze wzrostem stopnia zdefektowania oraz wzrostem temperatury,
+c) Ze spadkiem stopnia zdefektowania oraz wzrostem temperatury,
+d) Ze wzrostem stopnia zdefektowania oraz spadkiem temperatury.
+277. Szkła posiadają uporządkowanie:
+a) strukturalne
+b) nie posiadają jakiegokolwiek uporządkowania budowy
+c) są a substancjami mikrokrystalicznymi
+d) bliskiego zasięgu
+278. Spiekanie w ujęciu ogólnym polega na formowaniu się polikryształu:
+a) w drodze uplastycznienia powierzchni ziaren w temperaturze pokojowej
+b) w drodze stopienia i rekrystalizacji spiekanej fazy
+c) w drodze reakcji chemicznej pomiędzy ziarnami sąsiadującymi ze sobą
+d) w drodze dyfuzji w temperaturach poniżej temperatury topnienia spiekanej fazy
+279. Sieciowanie polimerów polega na:
+a) tworzeniu się łańcuchów z pojedynczych merów
+b) tworzeniu się podwójnych wiązań pomiędzy merami
+c) tworzeniu się wiązań poprzecznych między sąsiednimi makrocząsteczkami
+d) tworzeniu się pierścieni cyklicznych w makrocząsteczkach
+280. Pierwiastki wchodzące w skład tej samej grupy w układzie okresowym mają:
+a) taką samą liczbę powłok elektronowych;
+b) taką samą liczbę elektronów walencyjnych;
+c) taką samą energię powłoki walencyjnej;
+d) taką samą energię wszystkich powłok elektronowych.
+281. Materiały korundowe zawierają powyżej 90%:
+a) ZrO2
+b) Al2O3
+c) SiC
+d) CaO
+282. Pierwiastek chemiczny to substancja złożona z:
+a) atomów o takiej samej liczbie masowej
+b) atomów o takiej samej masie atomowej
+c) takich samych atomów
+d) atomów o takiej samej liczbie atomowej
+283. W stanie stałym materii:
+a) atomy znajdują się blisko siebie, a ich oddziaływania są silne;
+b) atomy znajdują się daleko od siebie, a ich oddziaływania są silne;
+c) atomy znajdują się daleko od siebie, a ich oddziaływania są słabe;
+d) atomy znajdują się blisko siebie, a ich oddziaływania są słabe.
+284. Scharakteryzuj stany skupienia materii:
+a) w gazach brak uporządkowania, w ciałach stałych brak uporządkowania;
+b) w ciałach stałych elementy struktury są uporządkowane we wszystkich kierunkach;
+c) w gazach elementy struktury są uporządkowane we wszystkich kierunkach;
+d) w gazach i w ciałach stałych elementy struktury są uporządkowane we wszystkich kierunkach
+285. Co określają wskaźniki Mullera:
+a) Nachylenie płaszczyzn łupliwości kryształu w stosunku do ścian komórki elementarnej,
+b) Ilość płaszczyzn sieciowych symetrycznych odpowiednio do kierunków X, Y i Z,
+c) Odległość każdej płaszczyzny sieciowej od węzła 0,0,0.
+d) Nachylenie dowolnej płaszczyzny sieciowej względem trzech osi krystalograficznych,
+286. Komórka elementarna prymitywna to:
+a) Posiadająca węzły na środkach ścian,
+b) Zawierająca najmniejsza możliwą liczbę węzłów,
+c) Komórka o kształcie sześcianu,
+d) Wewnętrznie centrowana.
+287. Które z podanych defektów są opisane wektorem Burgersa:
+a) dyslokacje
+b) wakancje
+c) koherentne granice międzyziarnowe
+d) błędy ułożenia
+288. Odchylenie standardowe jest:
+a) parametrem położenia
+b) parametrem rozproszenia
+c) jest równe rozstępowi
+d) w przybliżeniu jest równe rozstępu podzielonemu przez liczbę klas (k)
+289. Programy typu CAD umożliwiają:
+a) komputerowe wspomaganie projektowania,
+b) zaawansowane przetwarzanie tekstu i przygotowanie stron gazet do druku,
+c) tworzenie oprogramowania systemów pomiarowych
+d) obsługę poczty elektronicznej.
+290. Podstawowym mechanizmem umocnienia duraluminium jest:
+a) Umocnienie roztworowe
+b) Umocnienie wydzieleniowe
+c) Umocnienie odkształceniowe
+d) Umocnienie dyslokacyjne
+291. Który z poniższych wzorów opisuję regułę faz Gibbsa przy stałym ciśnieniu
+a) s = n – f + 2
+b) s = n – f + 1
+c) s = n – f
+d) s = n +f +2
+292. Ledeburyt to:
+a) mieszanina eutektyczna austenitu i ferrytu
+b) mieszanina eutektoidalna austenitu i cementytu
+c) mieszanina eutektyczna austenitu i cementytu
+d) mieszanina eutektoidalna ferrytu i cementytu
+293. Wybierz temperaturę, z której hartuje się stal niestopową o zawartości węgla 1,1%
+a) 850°C
+b) 727°C
+c) 757°C
+d) 650°C
+294. Ulepszanie cieplne stali jest to proces polegający na:
+a) Połączeniu procesów odkształcenia i rekrystalizacji
+b) Obróbce cieplnej stali bezpośrednio po odlewaniu
+c) Połączeniu procesów hartowania i odpuszczania
+d) Połączeniu procesów hartowania i normalizowania
+295. Stale dwufazowe (dual phase – DP) stosowane na elementy karoserii samochodowych cha-rakteryzują się:
+a) Niską granicą plastyczności i niską wytrzymałością
+b) Wysoką granicą plastyczności i wysoką wytrzymałością
+c) Niską granicą plastyczności i wysoką wytrzymałością
+d) Wysoką granicą plastyczności i niską wytrzymałością
+296. Główną cechą stali o dobrej spawalności jest:
+a) Wysoka zawartość pierwiastków stopowych
+b) Struktura drobnoziarnista
+c) Niska zawartość węgla
+d) Struktura gruboziarnista
+297. Modyfikację siluminów prowadzi się celem:
+a) poprawy odporności korozyjnej stopu
+b) poprawy własności mechanicznych
+c) zwiększenia oporności właściwej stopu
+d) zwiększenia udarności
+298. Które materiały nazywane są piezoelektrykami?
+a) takie, w których pod wpływem zmiany temperatury powstają na powierzchniach przeciwne ładunki elektryczne
+b) takie, w których pod wpływem zmiany zewnętrznego pola elektrycznego zmienia się stała dielektryczna
+c) takie, w których pod wpływem zmiany temperatury powstają naprężenia mechaniczne
+d) takie, w których pod wpływem naprężeń mechanicznych powstaje pole elektryczne i na od-wrót
+299. Gdzie głównie stosuje się materiały magnetyczne twarde?
+a) do wytwarzania nośników pamięci
+b) do wytwarzania blach transformatorowych
+c) do wytwarzania stałych magnesów
+d) do wytwarzania obudowy telefonów
+300. Co to jest temperatura Curie w odniesieniu do materiałów magnetycznych?
+a) temperatura, w której materiał staje się kruchy
+b) temperatura, powyżej której ferromagnetyk staje się paramagnetykiem
+c) temperatura, powyżej której paramagnetyk staje się diamagnetykiem
+d) temperatura, poniżej której diamagnetyk staje się ferromagnetykiem

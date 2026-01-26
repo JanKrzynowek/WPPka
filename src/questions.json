@@ -1,0 +1,6558 @@
+[
+  {
+    "id": 1,
+    "question": "Pierwsze prawo Kirchhoffa dla obwodów elektrycznych:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "Suma algebraiczna wartości chwilowych prądów w węźle obwodu elektrycznego jest równa zeru, czyli suma prądów wpływających do węzła równa się sumie prądów wypływających z węzła"
+      },
+      {
+        "id": "b",
+        "text": "Suma algebraiczna wartości chwilowych sił elektromotorycznych (SEM) występujących w oczku równa się sumie wartości chwilowych napięć na elementach pasywnych obwodu"
+      },
+      {
+        "id": "c",
+        "text": "Suma algebraiczna wartości chwilowych sił elektromotorycznych (SEM) występujących w oczku równa się sumie wartości chwilowych napięć na elementach pasywnych obwodu"
+      },
+      {
+        "id": "d",
+        "text": "Suma algebraiczna wartości chwilowych prądów i napięć w węźle obwodu elektrycznego jest równa zeru, czyli suma prądów i napięć wpływających do węzła równa się sumie prądów wypływających z węzła"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Czym charakteryzują się elementy idealne R, L, C?",
+    "answers": [
+      {
+        "id": "a",
+        "text": "R – rezystancja (opór czynny), przy przepływie prądu ma jedynie zdolność przemiany energii elektrycznej w ciepło; L – indukcyjność własna, przy przepływie prądu zmiennego ma jedynie właściwość gromadzenia energii w polu magnetycznym; C – pojemność, może gromadzić energię w polu elektrycznym, jeżeli na elektrodach kondensatora znajduje się ładunek Q, co jest związane z występowaniem między elektrodami napięcia U"
+      },
+      {
+        "id": "b",
+        "text": "R – indukcyjność własna, przy przepływie prądu zmiennego ma jedynie właściwość gromadzenia energii w polu magnetycznym; L – rezystancja (opór czynny), przy przepływie prądu ma jedynie zdolność przemiany energii elektrycznej w ciepło; C – pojemność, może gromadzić energię w polu elektrycznym, jeżeli na elektrodach kondensatora znajduje się ładunek Q, co jest związane z występowaniem między elektrodami napięcia U"
+      },
+      {
+        "id": "c",
+        "text": "R – rezystancja (opór bierny), przy przepływie prądu ma jedynie zdolność przemiany energii elektrycznej w ciepło; L – pojemność, może gromadzić energię w polu elektrycznym, jeżeli na elektrodach kondensatora znajduje się ładunek Q, co jest związane z występowaniem między elektrodami napięcia U; C – indukcyjność własna i wzajemna, przy przepływie prądu zmiennego ma jedynie właściwość gromadzenia energii elektrycznej w polu magnetycznym"
+      },
+      {
+        "id": "d",
+        "text": "R – rezystancja (opór czynny), przy przepływie prądu ma jedynie zdolność przemiany energii elektrycznej w ciepło; L – pojemność, może gromadzić energię w polu elektrycznym, jeżeli na elektrodach kondensatora znajduje się ładunek Q, co jest związane z występowaniem między elektrodami napięcia U; C – indukcyjność własna, przy przepływie prądu zmiennego ma jedynie właściwość gromadzenia energii w polu magnetycznym"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "Co to jest histereza magnetyczna?",
+    "answers": [
+      {
+        "id": "a",
+        "text": "Jakiekolwiek zmiany strumienia magnetycznego skojarzonego z przewodzącym obwodem zamkniętym powodują powstawanie sił elektromotorycznych i sił mechanicznych, przeciwdziałających zmianom skojarzonego strumienia magnetycznego"
+      },
+      {
+        "id": "b",
+        "text": "Jeżeli po osiągnięciu określonego punktu charakterystyki pierwotnej zmniejszymy indukcję magnetyczną B, to natężenie pola magnetycznego H będzie się zmieniało według krzywej innej niż charakterystyka wtórna"
+      },
+      {
+        "id": "c",
+        "text": "Jeżeli po osiągnięciu określonego punktu charakterystyki pierwotnej zmniejszymy natężenie pola magnetycznego H, to indukcja magnetyczna B będzie się zmieniała według krzywej innej niż charakterystyka pierwotna"
+      },
+      {
+        "id": "d",
+        "text": "Jeżeli po osiągnięciu określonego punktu charakterystyki wtórnej zmniejszymy indukcję magnetyczną B, to natężenie pola magnetycznego H będzie się zmieniało według krzywej innej niż charakterystyka pierwotna"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "Przesył prądu biernego indukcyjnego jest związany z:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "Koniecznością poboru mocy biernej w elektrowniach zasilających sieć"
+      },
+      {
+        "id": "b",
+        "text": "Koniecznością poboru mocy czynnej i pozornej w elektrowniach zasilających sieć"
+      },
+      {
+        "id": "c",
+        "text": "Koniecznością poboru mocy biernej w elektrowniach zasilających sieć oraz koniecznością takiego wymiarowania poszczególnych elementów sieci, aby były one przystosowane do przesyłu zwiększonego napięcia."
+      },
+      {
+        "id": "d",
+        "text": "Wzrostem spadków napięć w tych wszystkich przypadkach, gdy w grę wchodzi indukcyjność przewodów linii; koniecznością wytworzenia mocy biernej w elektrowniach zasilających sieć; wzrostem strat mocy i energii czynnej – straty mocy zależą od kwadratu modułu prądu I; wzrostem prądu przesyłanego i koniecznością takiego wymiarowania poszczególnych elementów sieci, aby były one przystosowane do przesyłu zwiększonego prądu"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "Zapotrzebowanie na moc bierną może być ograniczone dzięki:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "zmniejszeniu mocy znamionowych silników i zmniejszeniu poboru mocy biernej na zmianę wzbudzenia"
+      },
+      {
+        "id": "b",
+        "text": "zastosowaniu silników asynchronicznych zamiast silników indukcyjnych (możliwość zwiększenia wzbudzenia i tym samym regulacji poboru mocy biernej)"
+      },
+      {
+        "id": "c",
+        "text": "Właściwemu doborowi silników elektrycznych do napędzanych maszyn (zmniejszenie mocy znamionowych silników i zmniejszenie poboru mocy biernej na magnesowanie); właściwemu doborowi mocy transformatorów do mocy zasilanych odbiorów; ograniczeniu czasów pracy nie obciążonych silników i transformatorów (pobór mocy jedynie na magnesowanie); zastosowaniu silników synchronicznych zamiast silników indukcyjnych (możliwość redukcji wzbudzenia i tym samym regulacji poboru mocy biernej)"
+      },
+      {
+        "id": "d",
+        "text": "Żadne z powyższych"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "question": "Co nazywamy tyrystorem?",
+    "answers": [
+      {
+        "id": "a",
+        "text": "Tyrystorami są nazywane specjalne diody krzemowe mające elektrodę sterującą zwaną bramką. Elementy te nie przewodzą prądu elektrycznego pomimo polaryzacji w kierunku przewodzenia dopóty, dopóki na bramce nie pojawi się impuls prądu załączającego. Zanik prądu bramki nie powoduje przerwania przepływu prądy przez tyrystor"
+      },
+      {
+        "id": "b",
+        "text": "Tyrystorami są nazywane specjalne transoptory mające elektrodę sterującą zwaną bramką. Elementy te nie przewodzą prądu elektrycznego pomimo polaryzacji w kierunku przewodzenia dopóty, dopóki na bramce nie pojawi się impuls prądu załączającego. Zanik prądu bramki nie powoduje przerwania przepływu prądy przez tyrystor"
+      },
+      {
+        "id": "c",
+        "text": "Tyrystorami są nazywane specjalne elementy optoelektroniczne mające elektrodę sterującą zwaną bramką. Inna nazwa transoptor"
+      },
+      {
+        "id": "d",
+        "text": "Tyrystorami są nazywane specjalne elementy optoelektroniczne mające elektrodę sterującą zwaną bramką. Elementy te nie przewodzą prądu elektrycznego pomimo polaryzacji w kierunku przewodzenia dopóty, dopóki na bramce nie pojawi się impuls prądu załączającego. Zanik prądu bramki nie powoduje przerwania przepływu prądy przez tyrystor"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "question": "Co nazywamy Elektronicznym Układem Generacyjnym?",
+    "answers": [
+      {
+        "id": "a",
+        "text": "Elektronicznym Układem Generacyjnym lub wprost Generatorem nazywamy układ wytwarzający przebiegi elektryczne niegasnące, najczęściej okresowe. W zależności od kształtu przebiegów wyjściowych są spotykane generatory przebiegów sinusoidalnych i niesinusoidalnych"
+      },
+      {
+        "id": "b",
+        "text": "Elektronicznym Układem Generacyjnym lub wprost Generatorem nazywamy układ wytwarzający przebiegi elektryczne gasnące, najczęściej nieokresowe. W zależności od kształtu przebiegów wyjściowych są spotykane generatory przebiegów niesinusoidalnych"
+      },
+      {
+        "id": "c",
+        "text": "Elektronicznym Układem Generacyjnym lub wprost Generatorem nazywamy układ wytwarzający przebiegi magnetyczne niegasnące, najczęściej nieokresowe. W zależności od kształtu przebiegów wyjściowych są spotykane generatory przebiegów niesinusoidalnych i sinusoidalnych"
+      },
+      {
+        "id": "d",
+        "text": "Elektronicznym Układem Generacyjnym lub wprost Generatorem nazywamy układ wytwarzający przebiegi elektryczne niegasnące, najczęściej nieokresowe. W zależności od kształtu przebiegów wejściowych są spotykane generatory przebiegów niesinusoidalnych"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "question": "Idealny wzmacniacz operacyjny powinien posiadać następujące właściwości:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "Zerowa rezystancja wejściowa; nieskończona rezystancja wyjściowa; minimalne wzmocnienie; nieskończone pasmo częstotliwości; zerowy dryft"
+      },
+      {
+        "id": "b",
+        "text": "Nieskończona rezystancja wejściowa; nieskończona rezystancja wyjściowa; nieskończone wzmocnienie; wąskie pasmo częstotliwości; zmienny dryft"
+      },
+      {
+        "id": "c",
+        "text": "Nieskończona rezystancja wejściowa; zerowa rezystancja wyjściowa; nieskończone wzmocnienie; nieskończone pasmo częstotliwości; zerowy dryft"
+      },
+      {
+        "id": "d",
+        "text": "Nieskończona rezystancja wejściowa; nieskończona rezystancja wyjściowa; nieskończone wzmocnienie; szerokie pasmo częstotliwości; stały dryft"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "question": "Na czym polega modulacja i demodulacja?",
+    "answers": [
+      {
+        "id": "a",
+        "text": "Proces nakładania sygnału niosącego informację na sygnał wielkiej częstotliwości nosi nazwę modulacji. Proces odwrotny – polegający na przywracaniu sygnałowi jego pierwotnej postaci nazywa się demodulacją lub detekcją"
+      },
+      {
+        "id": "b",
+        "text": "Proces nakładania sygnału wielkiej częstotliwości na sygnał niosący informację nosi nazwę modulacji. Proces odwrotny – polegający na przywracaniu sygnałowi jego pierwotnej postaci nazywa się demodulacją lub detekcją"
+      },
+      {
+        "id": "c",
+        "text": "Proces nakładania sygnału niosącego informację na sygnał wielkiej częstotliwości nosi nazwę demodulacji lub detekcji. Proces odwrotny – polegający na przywracaniu sygnałowi jego pierwotnej postaci nazywa się modulacją"
+      },
+      {
+        "id": "d",
+        "text": "Proces dublowania sygnału niosącego informację na sygnał niskiej częstotliwości nosi nazwę demodulacji lub detekcji. Proces odwrotny – polegający na przywracaniu sygnałowi jego pierwotnej postaci nazywa się modulacją"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "question": "Co to jest transformator?",
+    "answers": [
+      {
+        "id": "a",
+        "text": "Jest to zbiór urządzeń przeznaczonych do wytwarzania, przesyłu, rozdziału i użytkowania energii elektrycznej. Można wyróżnić w nim urządzenia wytwarzające energię elektryczną, sieci elektroenergetyczne i urządzenia odbiorcze. SEE jest systemem odosobnionym, w którym w każdej chwili nie musi być zachowana równość mocy wytwarzanych i mocy odbieranych"
+      },
+      {
+        "id": "b",
+        "text": "Transformator jest dynamicznym urządzeniem elektrycznym działającym na zasadzie indukcji elektrycznej. Zadaniem jego jest podwyższanie lub obniżanie prądu, co związane jest z odpowiednim zmniejszaniem lub zwiększaniem napięcia przy zmianie częstotliwości i praktycznie tej samej mocy"
+      },
+      {
+        "id": "c",
+        "text": "Transformator jest statycznym urządzeniem elektrycznym działającym na zasadzie indukcji elektromagnetycznej. Zadaniem jego jest podwyższanie lub obniżanie napięcia, co związane jest z odpowiednim zmniejszaniem lub zwiększaniem prądu przy zachowaniu tej samej częstotliwości i praktycznie tej samej mocy"
+      },
+      {
+        "id": "d",
+        "text": "Transformator jest statycznym urządzeniem elektrycznym działającym na zasadzie indukcji elektromagnetycznej. Zadaniem jego jest zmiana napięcia, co związane jest z odpowiednim zwiększaniem prądu przy różnych częstotliwościach i mocach"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "question": "Stan odkształcenia można rozłożyć na dwa stany podstawowe:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "odkształcenie postaciowe oraz odkształcenie objętościowe"
+      },
+      {
+        "id": "b",
+        "text": "odkształcenia liniowe oraz odkształcenia skończone"
+      },
+      {
+        "id": "c",
+        "text": "odkształcenia skończone i odkształcenia nieskończenie małe"
+      },
+      {
+        "id": "d",
+        "text": "odkształcenia średnie i odkształcenia nieskończenie małe"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "question": "Naprężenia główne to takie naprężenia:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "które działają stycznie do płaszczyzn na których występują"
+      },
+      {
+        "id": "b",
+        "text": "które działają prostopadle do płaszczyzn na których występują"
+      },
+      {
+        "id": "c",
+        "text": "których suma jest równa intensywności naprężenia"
+      },
+      {
+        "id": "d",
+        "text": "których suma jest równa zero"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "question": "Stan naprężenia można rozłożyć na dwa stany podstawowe:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "stan naprężeń oktaedrycznych oraz stan naprężeń średnich"
+      },
+      {
+        "id": "b",
+        "text": "stan naprężeń stycznych oraz stan naprężeń głównych"
+      },
+      {
+        "id": "c",
+        "text": "stan naprężeń stycznych oraz stan naprężeń średnich"
+      },
+      {
+        "id": "d",
+        "text": "stan hydrostatyczny oraz czyste ścinanie"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "question": "Niezmiennikami stanu naprężenia nazywamy:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "naprężenia normalne, uzależnione od przyjętego układu odniesienia"
+      },
+      {
+        "id": "b",
+        "text": "naprężenia styczne, zależne od przyjętego układu odniesienia"
+      },
+      {
+        "id": "c",
+        "text": "wyrażenia algebraiczne utworzone ze składowych stanu naprężenia, które nie zmieniają swoich wartości podczas transformacjach układu odniesienia"
+      },
+      {
+        "id": "d",
+        "text": "krytyczne naprężenia powodujące utratę spójności materiału"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "question": "Energię odkształcenia sprężystego można rozłożyć na dwie składowe:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "energię pełzania i energię pękania"
+      },
+      {
+        "id": "b",
+        "text": "energię odkształcenia objętości i energię pękania"
+      },
+      {
+        "id": "c",
+        "text": "energię odkształcenia postaci i energię odkształcenia objętości"
+      },
+      {
+        "id": "d",
+        "text": "energię odkształcenia postaci i energię odkształcenia plastycznego"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "question": "Całkowite zastępcze naprężenie to naprężenie jednoosiowe, które:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "powoduje inne wytężenie materiału niż takie, które jest opisane tensorem naprężenia"
+      },
+      {
+        "id": "b",
+        "text": "powoduje takie samo wytężenie materiału jak złożony stan naprężenia"
+      },
+      {
+        "id": "c",
+        "text": "powoduje przejście materiału w stan plastyczny"
+      },
+      {
+        "id": "d",
+        "text": "powoduje utratę spójności materiału"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "question": "Całkowite zastępcze odkształcenie to takie odkształcenie:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "które prowadzi do utraty spójności materiału"
+      },
+      {
+        "id": "b",
+        "text": "które powoduje przejście materiału ze stanu sprężystego w stan plastyczny"
+      },
+      {
+        "id": "c",
+        "text": "którego występowanie jest równoważne obecności złożonego stanu odkształcenia opisanego tensorem"
+      },
+      {
+        "id": "d",
+        "text": "które jest spowodowane innym wytężeniem materiału niż takie, które jest opisane tensorem naprężenia"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "question": "W języku C++ pierwszą czynnością wykonywaną przez kompilator przy wejściu do pętli for jest:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "sprawdzenie warunku wykonania pętli"
+      },
+      {
+        "id": "b",
+        "text": "inicjalizacja licznika pętli"
+      },
+      {
+        "id": "c",
+        "text": "zmiana licznika pętli"
+      },
+      {
+        "id": "d",
+        "text": "wykonanie treści pętli"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "question": "W języku C++ instrukcja continue użyta wewnątrz dwóch zagnieżdżonych pętli for spowoduje:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "wykonanie kolejnego obiegu pętli zewnętrznej"
+      },
+      {
+        "id": "b",
+        "text": "zakończenie działania pętli wewnętrznej"
+      },
+      {
+        "id": "c",
+        "text": "wykonanie kolejnego obiegu pętli wewnętrznej"
+      },
+      {
+        "id": "d",
+        "text": "zakończenie działania obu pętli"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "question": "W języku C++ stała zapisana w postaci 010:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "jest podana w systemie dwójkowym"
+      },
+      {
+        "id": "b",
+        "text": "jest podana w systemie szesnastkowym"
+      },
+      {
+        "id": "c",
+        "text": "jest podana w systemie ósemkowym"
+      },
+      {
+        "id": "d",
+        "text": "początkowe zero jest ignorowane i jest ona równa 10"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "question": "Które dwuargumentowe operatory są w języku C++ prawostronnie łączne?",
+    "answers": [
+      {
+        "id": "a",
+        "text": "operatory bitowe"
+      },
+      {
+        "id": "b",
+        "text": "operatory logiczne"
+      },
+      {
+        "id": "c",
+        "text": "operatory przypisania"
+      },
+      {
+        "id": "d",
+        "text": "operatory arytmetyczne"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "question": "Dana jest tablica int tablica[5]; W celu odwołania się do jej ostatniego elementu w języku C++ należy posłużyć się zapisem:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "tablica[5];"
+      },
+      {
+        "id": "b",
+        "text": "tablica[4];"
+      },
+      {
+        "id": "c",
+        "text": "tablica[6];"
+      },
+      {
+        "id": "d",
+        "text": "tablica[];"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "question": "Dany jest wskaźnik int *p; oraz tablica int tablica[10]; Który zapis w języku C++ jest błędny?",
+    "answers": [
+      {
+        "id": "a",
+        "text": "p=tablica;"
+      },
+      {
+        "id": "b",
+        "text": "p=&tablica[0];"
+      },
+      {
+        "id": "c",
+        "text": "p=tablica[0];"
+      },
+      {
+        "id": "d",
+        "text": "p=tablica+1"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "question": "Przydomek static użyty w definicji zmiennej lokalnej w języku C++ powoduje:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "zmianę zakresu ważności zmiennej"
+      },
+      {
+        "id": "b",
+        "text": "zmianę czasu życia i zakresu ważności zmiennej"
+      },
+      {
+        "id": "c",
+        "text": "zmianę czasu życia zmiennej"
+      },
+      {
+        "id": "d",
+        "text": "nie wpływa ani na czas życia ani na zakres ważności zmiennej"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "question": "W języku C++ na rozmiar struktury nie mają wpływu zmienne, które są:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "statyczne"
+      },
+      {
+        "id": "b",
+        "text": "referencjami"
+      },
+      {
+        "id": "c",
+        "text": "wskaźnikami"
+      },
+      {
+        "id": "d",
+        "text": "stałe"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "question": "Która z definicji tworzy wskaźnik do stałego obiektu w języku C++?",
+    "answers": [
+      {
+        "id": "a",
+        "text": "const int * p;"
+      },
+      {
+        "id": "b",
+        "text": "int * const p;"
+      },
+      {
+        "id": "c",
+        "text": "int & p const;"
+      },
+      {
+        "id": "d",
+        "text": "int const & p;"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "question": "Kod z nadmiarem służy do przechowywania liczb:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "tylko całkowitych dodatnich"
+      },
+      {
+        "id": "b",
+        "text": "tylko całkowitych ujemnych"
+      },
+      {
+        "id": "c",
+        "text": "całkowitych"
+      },
+      {
+        "id": "d",
+        "text": "rzeczywistych"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "question": "Która definicja w języku C++ jest poprawna?",
+    "answers": [
+      {
+        "id": "a",
+        "text": "void *a;"
+      },
+      {
+        "id": "b",
+        "text": "void a;"
+      },
+      {
+        "id": "c",
+        "text": "void &a;"
+      },
+      {
+        "id": "d",
+        "text": "void a[10];"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "question": "Które z poniższych słów nie jest słowem kluczowym w języku C++?",
+    "answers": [
+      {
+        "id": "a",
+        "text": "auto"
+      },
+      {
+        "id": "b",
+        "text": "this"
+      },
+      {
+        "id": "c",
+        "text": "cout"
+      },
+      {
+        "id": "d",
+        "text": "do"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "question": "W języku C++ dwie funkcje o tej samej nazwie nie mogą być zdefiniowane w jednym zakresie ważności, jeżeli różnią się jedynie:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "typem argumentów formalnych"
+      },
+      {
+        "id": "b",
+        "text": "liczbą argumentów formalnych"
+      },
+      {
+        "id": "c",
+        "text": "typem wartości zwracanej"
+      },
+      {
+        "id": "d",
+        "text": "kolejnością argumentów formalnych"
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "question": "Ustawienie której flagi stanu błędu strumienia uniemożliwia dalszą pracę z tym strumieniem w języku C++?",
+    "answers": [
+      {
+        "id": "a",
+        "text": "failbit"
+      },
+      {
+        "id": "b",
+        "text": "eofbit"
+      },
+      {
+        "id": "c",
+        "text": "badbit"
+      },
+      {
+        "id": "d",
+        "text": "goodbit"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "question": "Odlewanie ciśnieniowe może być stosowane dla:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "stopów aluminium"
+      },
+      {
+        "id": "b",
+        "text": "żeliw"
+      },
+      {
+        "id": "c",
+        "text": "staliw"
+      },
+      {
+        "id": "d",
+        "text": "stali"
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "question": "Tłoczenie nie stosuje się w przypadku",
+    "answers": [
+      {
+        "id": "a",
+        "text": "stopów aluminium"
+      },
+      {
+        "id": "b",
+        "text": "żeliw"
+      },
+      {
+        "id": "c",
+        "text": "stali niestopowych"
+      },
+      {
+        "id": "d",
+        "text": "stopów miedzi"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "question": "Obróbkę elektroerozyjną nie stosuje się w przypadku",
+    "answers": [
+      {
+        "id": "a",
+        "text": "stopów aluminium"
+      },
+      {
+        "id": "b",
+        "text": "żeliw"
+      },
+      {
+        "id": "c",
+        "text": "stali niestopowych"
+      },
+      {
+        "id": "d",
+        "text": "stopów miedzi"
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "question": "Dla problemu utraty nośności powinno się określać:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "granicę plastyczności"
+      },
+      {
+        "id": "b",
+        "text": "moduł sprężystości"
+      },
+      {
+        "id": "c",
+        "text": "plastyczność"
+      },
+      {
+        "id": "d",
+        "text": "potencjał elektrochemiczny"
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "question": "Dla problemu korozji powinno się określać:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "granicę plastyczności"
+      },
+      {
+        "id": "b",
+        "text": "plastyczność"
+      },
+      {
+        "id": "c",
+        "text": "potencjał elektrochemiczny"
+      },
+      {
+        "id": "d",
+        "text": "moduł sprężystości"
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "question": "Dużą gęstością i modułem sprężystości cechują się:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "drewno"
+      },
+      {
+        "id": "b",
+        "text": "stopy metali"
+      },
+      {
+        "id": "c",
+        "text": "polimery"
+      },
+      {
+        "id": "d",
+        "text": "pianki polimerowe"
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "question": "Dużym modułem sprężystości i małym tłumieniem drgań cechują się:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "polimery"
+      },
+      {
+        "id": "b",
+        "text": "drewno"
+      },
+      {
+        "id": "c",
+        "text": "szkła"
+      },
+      {
+        "id": "d",
+        "text": "korek"
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "question": "Dużą wytrzymałością i odpornością na pękanie cechują się:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "drewno"
+      },
+      {
+        "id": "b",
+        "text": "stopy metali"
+      },
+      {
+        "id": "c",
+        "text": "polimery"
+      },
+      {
+        "id": "d",
+        "text": "pianki polimerowe"
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "question": "Małą odpornością na korozję w solach cechuje się:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "ceramika"
+      },
+      {
+        "id": "b",
+        "text": "polimer"
+      },
+      {
+        "id": "c",
+        "text": "stop niklu"
+      },
+      {
+        "id": "d",
+        "text": "stal niestopowe"
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "question": "Kolejność od najmniejszej skali do największej w analizie strukturalnej to:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "wiązania atomowe, struktura krystaliczna, wady struktury krystalicznej, mikrostruktura, makrostruktura"
+      },
+      {
+        "id": "b",
+        "text": "mikrostruktura, wiązania atomowe, struktura krystaliczna, wady struktury krystalicznej, makrostruktura"
+      },
+      {
+        "id": "c",
+        "text": "mikrostruktura, struktura krystaliczna, wiązania atomowe, wady struktury krystalicznej, makrostruktura"
+      },
+      {
+        "id": "d",
+        "text": "mikrostruktura, wady struktury krystalicznej, struktura krystaliczna, wiązania atomowe, makrostruktura"
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "question": "Rozkład empiryczny:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "przedstawia skumulowaną częstość występowania wartości zmiennej losowej w podziale na klasy"
+      },
+      {
+        "id": "b",
+        "text": "można wykorzystać do oceny normalności rozkładu"
+      },
+      {
+        "id": "c",
+        "text": "powinien mieć jak najwięcej klas, w celu szczegółowego zobrazowania zmienności"
+      },
+      {
+        "id": "d",
+        "text": "jest graficzną formą szeregu szczegółowego"
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "question": "Próbka reprezentatywna, to próbka:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "odpowiednio liczna i losowa"
+      },
+      {
+        "id": "b",
+        "text": "o liczności co najmniej 30 elementów"
+      },
+      {
+        "id": "c",
+        "text": "w której każda wartość zmiennej pojawia się jednakowo często"
+      },
+      {
+        "id": "d",
+        "text": "w której nie pojawiają się wartości odstające"
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "question": "Podczas wnioskowania statystycznego:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "badanie populacji statystycznej przeprowadza się w oparciu o wartości cechy wszystkich jednostek tej populacji"
+      },
+      {
+        "id": "b",
+        "text": "możliwość popełnienia błędu statystycznego polegającego na przyjęciu hipotezy fałszywej jest równa założonemu poziomowi istotności c) uogólnia się wyniki badania próby reprezentatywnej na zbiorowość statystyczną"
+      },
+      {
+        "id": "d",
+        "text": "możliwość popełnienia błędu statystycznego polegającego na odrzuceniu hipotezy prawdziwej jest zerowa"
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "question": "Informacja o postaci rozkładu cechy może być uzyskana:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "na podstawie wizualnej oceny rozkładu empirycznego skonstruowanego w oparciu o małą próbę"
+      },
+      {
+        "id": "b",
+        "text": "przy użyciu graficznego testu normalności"
+      },
+      {
+        "id": "c",
+        "text": "przez estymację wartości oczekiwanej i odchylenia standardowego"
+      },
+      {
+        "id": "d",
+        "text": "przy użyciu wybranego parametrycznego testu istotności"
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "question": "W teście istotności:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "wartość funkcji testowej zależy od liczności próbki"
+      },
+      {
+        "id": "b",
+        "text": "wartość funkcji testowej poza obszarem krytycznym oznacza, że przyjmujemy hipotezę zerową"
+      },
+      {
+        "id": "c",
+        "text": "wartość funkcji testowej w obszarze krytycznym oznacza, że hipoteza zerowa została błędnie sformułowana"
+      },
+      {
+        "id": "d",
+        "text": "obszar krytyczny testu nie zależy od założonego poziomu istotności"
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "question": "Jeśli zmienna losowa ma rozkład normalny to:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "punkty na graficznym teście normalności układają się wedle prostej"
+      },
+      {
+        "id": "b",
+        "text": "wszystkie możliwe realizacje mieszczą się w zakresie trzech odchyleń standardowych od wartości oczekiwanej"
+      },
+      {
+        "id": "c",
+        "text": "dystrybuanta tej zmiennej dana jest funkcją Gaussa"
+      },
+      {
+        "id": "d",
+        "text": "wartość kwartyla pierwszego jest równa wartości kwartyla trzeciego"
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "question": "Miary rozrzutu to:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "wariancja, dominanta, mediana, współczynnik zmienności"
+      },
+      {
+        "id": "b",
+        "text": "wariancja, rozstęp, współczynnik korelacji, odchylenie standardowe"
+      },
+      {
+        "id": "c",
+        "text": "wariancja, kowariancja, współczynnik determinacji, moda"
+      },
+      {
+        "id": "d",
+        "text": "wariancja, odchylenie standardowe, rozstęp, ruchomy rozstęp"
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "question": "Miary zależności między zmiennymi to m.in.:",
+    "answers": [
+      { "id": "a", "text": "współczynnik korelacji, współczynnik zmienności" },
+      { "id": "b", "text": "współczynnik determinacji, kowariancja" },
+      {
+        "id": "c",
+        "text": "współczynnik determinacji, odchylenie standardowe"
+      },
+      { "id": "d", "text": "współczynnik determinacji, korelacja" }
+    ]
+  },
+  {
+    "id": 50,
+    "question": "Prawdopodobieństwo to:",
+    "answers": [
+      { "id": "a", "text": "miara możliwości zajścia zdarzenia losowego" },
+      { "id": "b", "text": "pole pod funkcją dystrybuanty" },
+      {
+        "id": "c",
+        "text": "funkcja, która odwzorowuje zbiór zdarzeń w zbiór wartości"
+      },
+      {
+        "id": "d",
+        "text": "wartość, którą przyjmuje zmienna w wyniku doświadczenia losowego"
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "question": "Miary położenia to:",
+    "answers": [
+      { "id": "a", "text": "średnia arytmetyczna, średnia ważona, mediana" },
+      { "id": "b", "text": "średnia ważona, histogram, moda" },
+      { "id": "c", "text": "średnia arytmetyczna, rozstęp, średnia ucięta" },
+      { "id": "d", "text": "średnia arytmetyczna, częstość, dystrybuanta" }
+    ]
+  },
+  {
+    "id": 52,
+    "question": "Estymacja przedziałowa polega na:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "obliczaniu na podstawie n-elementowej próbki wartości estymatora parametru populacji"
+      },
+      {
+        "id": "b",
+        "text": "budowaniu przedziałów liczbowych, w którym z prawdopodobieństwem bliskim jedności, znajduje się wartość szacowanego parametru populacji"
+      },
+      {
+        "id": "c",
+        "text": "uogólnianiu wyników badania próby reprezentatywnej na zbiorowość statystyczną"
+      },
+      {
+        "id": "d",
+        "text": "budowaniu obszarów krytycznych w celu weryfikacji hipotez statystycznych"
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "question": "Wykres pudełkowy:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "można wykorzystać do identyfikacji wartości odstających"
+      },
+      {
+        "id": "b",
+        "text": "jest to graficzne przedstawienie szeregu rozdzielczego"
+      },
+      {
+        "id": "c",
+        "text": "to tzw. „pudełko z wąsami”, w którym szerokość pudełka jest równa rozstępowi"
+      },
+      { "id": "d", "text": "to inna nazwa histogramu" }
+    ]
+  },
+  {
+    "id": 54,
+    "question": "Pola statyczne klas to pola:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "które nie mogą być zmieniane w trakcie wykonywania programu"
+      },
+      { "id": "b", "text": "wspólne dla obiektów programu" },
+      { "id": "c", "text": "wspólne dla wszystkich obiektów danej klasy" },
+      {
+        "id": "d",
+        "text": "wspólne dla wszystkich obiektów zdefiniowanych w danym pliku"
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "question": "Klasy mogą być zagnieżdżane",
+    "answers": [
+      {
+        "id": "a",
+        "text": "zarówno w innej klasie jak i funkcji z zakresu globalnego"
+      },
+      {
+        "id": "b",
+        "text": "jedynie w klasie z zakresu globalnego"
+      },
+      {
+        "id": "c",
+        "text": "jedynie wewnątrz metod innej klasy"
+      },
+      {
+        "id": "d",
+        "text": "jedynie w funkcji z zakresu globalnego"
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "question": "Konstruktor domyślny klasy jest definiowany przez system:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "niekiedy"
+      },
+      {
+        "id": "b",
+        "text": "zawsze"
+      },
+      {
+        "id": "c",
+        "text": "nigdy"
+      },
+      {
+        "id": "d",
+        "text": "nie ma takiego konstruktora - jest konstruktor domniemany"
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "question": "Przestrzenie nazw służą do",
+    "answers": [
+      {
+        "id": "a",
+        "text": "definiowania niektórych typów"
+      },
+      {
+        "id": "b",
+        "text": "separacji występujących w programie identycznych encji"
+      },
+      {
+        "id": "c",
+        "text": "definiowania obiektów niektórych typów"
+      },
+      {
+        "id": "d",
+        "text": "przechowywania skompilowanych fragmentów kodu"
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "question": "Konstruktor to metoda, która",
+    "answers": [
+      {
+        "id": "a",
+        "text": "ma tę samą nazwę co klasa i jest uruchamiana automatycznie przez system lub przez inne metody bądź funkcje przy tworzeniu obiektu"
+      },
+      {
+        "id": "b",
+        "text": "ma tę samą nazwę co klasa i może być uruchamiana jedynie automatycznie przez system przy tworzeniu obiektu"
+      },
+      {
+        "id": "c",
+        "text": "ma dowolną nazwę, ale jest uruchamiana automatycznie przez system przy tworzeniu obiektu lub przez inne metody bądź funkcje"
+      },
+      {
+        "id": "d",
+        "text": "ma tę samą nazwę co klasa i wymaga wywołania przez inne metody bądź funkcje przy tworzeniu obiektu"
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "question": "Konstruktor kopiujący to konstruktor, którego lista parametrów",
+    "answers": [
+      {
+        "id": "a",
+        "text": "ogranicza się do jednego parametru własnej klasy będącego obiektem stałym"
+      },
+      {
+        "id": "b",
+        "text": "ogranicza się do jednego dowolnie zdefiniowanego parametru własnej klasy"
+      },
+      {
+        "id": "c",
+        "text": "ogranicza się do jednego parametru własnej klasy będącego referencją"
+      },
+      {
+        "id": "d",
+        "text": "ogranicza się do jednego parametru własnej klasy będącego wskaźnikiem"
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "question": "Lista inicjalizacyjna konstruktora to miejsce, gdzie muszą być inicjalizowane pola:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "statyczne, stałe i pola będące referencjami"
+      },
+      {
+        "id": "b",
+        "text": "statyczne i pola będące referencjami"
+      },
+      {
+        "id": "c",
+        "text": "stałe i pola będące referencjami"
+      },
+      {
+        "id": "d",
+        "text": "statyczne, stałe i pola będące referencjami i wskaźnikami"
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "question": "Obiekty definiowane dynamicznie",
+    "answers": [
+      {
+        "id": "a",
+        "text": "są automatycznie likwidowane pod koniec programu"
+      },
+      {
+        "id": "b",
+        "text": "są likwidowane automatycznie po wyjściu sterowania z bloku, w którym zostały zdefiniowane"
+      },
+      {
+        "id": "c",
+        "text": "nie powinny być likwidowane, bo mają pamięć wspólną z innymi obiektami"
+      },
+      {
+        "id": "d",
+        "text": "należy zlikwidować przed końcem programu, bo inaczej istnieją nawet po jego zakończeniu"
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "question": "Operator konwersji może mieć:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "jeden parametr jawny - typ z którego konwertuje"
+      },
+      {
+        "id": "b",
+        "text": "pustą listę jawnych parametrów"
+      },
+      {
+        "id": "c",
+        "text": "jeden parametr jawny - typ na który konwertuje"
+      },
+      {
+        "id": "d",
+        "text": "dowolną liczbę jawnych parametrów"
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "question": "Rzutowanie statyczne służy do",
+    "answers": [
+      {
+        "id": "a",
+        "text": "konwersji typów obiektów predefiniowanych i konwersji typów obiektów zdefiniowanych przez użytkownika"
+      },
+      {
+        "id": "b",
+        "text": "konwersji typów obiektów statycznych"
+      },
+      {
+        "id": "c",
+        "text": "konwersji typów obiektów stałych"
+      },
+      {
+        "id": "d",
+        "text": "konwersji typów obiektów i referencji, ale nie wskaźników do obiektów"
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "question": "Definicja funkcji zaprzyjaźnionej wewnątrz klasy",
+    "answers": [
+      {
+        "id": "a",
+        "text": "powoduje, że funkcja staje się automatycznie metodą tej klasy i jest typu „inline\""
+      },
+      {
+        "id": "b",
+        "text": "powoduje, że funkcja leży w zakresie leksykalnym tej klasy, ale nie staje się automatycznie metodą tej klasy i nie jest typu „inline\""
+      },
+      {
+        "id": "c",
+        "text": "powoduje, że funkcja nie jest metodą klasy, ale jest typu \"inline\" i leży w zakresie leksykalnym tej klasy"
+      },
+      {
+        "id": "d",
+        "text": "nie jest możliwa"
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "question": "Wskaźnik do składników klas różni się od zwykłego wskaźnika tym, że:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "zwykły wskaźnik jest określonego typu, a wskaźnik do składników klas nie"
+      },
+      {
+        "id": "b",
+        "text": "zwykłemu wskaźnikowi można przypisać konkretne miejsce w pamięci, a wskaźnikowi do składników klas nie"
+      },
+      {
+        "id": "c",
+        "text": "zwykłemu wskaźnikowi można przypisać adres jedynie publicznego składnika dowolnej klasy, a wskaźnik do składników klas nie ma tego ograniczenia"
+      },
+      {
+        "id": "d",
+        "text": "zwykły wskaźnik nie może pokazywać na statyczne pola klasy, a wskaźnik do składników klas tak"
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "question": "Czy zmiana liczby argumentów i łączności przeciążanego operatora jest możliwa?",
+    "answers": [
+      {
+        "id": "a",
+        "text": "tak"
+      },
+      {
+        "id": "b",
+        "text": "nie"
+      },
+      {
+        "id": "c",
+        "text": "możliwa jest zmiana łączności, a zmiana liczby argumentów nie"
+      },
+      {
+        "id": "d",
+        "text": "możliwa jest zmiana liczby argumentów, a zmiana łączności nie"
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "question": "Które z pól klas nie są dziedziczone?",
+    "answers": [
+      {
+        "id": "a",
+        "text": "żadne – wszystkie są dziedziczone"
+      },
+      {
+        "id": "b",
+        "text": "statyczne"
+      },
+      {
+        "id": "c",
+        "text": "prywatne"
+      },
+      {
+        "id": "d",
+        "text": "typu stałego i referencje"
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "question": "Polimorfizm wymaga metod wirtualnych o identycznych:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "nazwie metody w klasie i argumentach"
+      },
+      {
+        "id": "b",
+        "text": "nazwie metody w klasie i typie rezultatu"
+      },
+      {
+        "id": "c",
+        "text": "argumentach i typie rezultatu"
+      },
+      {
+        "id": "d",
+        "text": "nazwie metody w klasie, argumentach i typie rezultatu"
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "question": "Co to jest proszek?",
+    "answers": [
+      {
+        "id": "a",
+        "text": "materiał sypki złożony z cząstek o wymiarach liniowych nie większych niż 0,1 mm"
+      },
+      {
+        "id": "b",
+        "text": "materiał sypki złożony z cząstek o wymiarach liniowych nie większych niż 1 mm"
+      },
+      {
+        "id": "c",
+        "text": "materiał sypki złożony z cząstek o wymiarach liniowych większych niż 1 mm"
+      },
+      {
+        "id": "d",
+        "text": "materiał sypki złożony z cząstek o wymiarach liniowych niż 0,01 mm"
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "question": "Własności technologiczne proszku to?",
+    "answers": [
+      {
+        "id": "a",
+        "text": "skład chemiczny – w tym zawartość tlenu i zanieczyszczeń, piroforyczność, toksyczność, reaktywność lub bierność chemiczna wobec różnych substancji"
+      },
+      {
+        "id": "b",
+        "text": "sypkość, gęstość nasypowa, gęstość nasypowa z usadem, zgęszczalność, formowalność"
+      },
+      {
+        "id": "c",
+        "text": "zawartość substancji organicznych w proszku"
+      },
+      {
+        "id": "d",
+        "text": "gęstość, kształt cząstek, średnia wielkość cząstek, rozkład wielkości cząstek, powierzchnia właściwa"
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "question": "Sypkość proszku to?",
+    "answers": [
+      {
+        "id": "a",
+        "text": "czas przesypywania się 50 g proszku przez otwór o znormalizowanych wymiarach"
+      },
+      {
+        "id": "b",
+        "text": "kąt zsypu proszku luźno zasypanego z wolumetru Scotta na gładką powierzchnię szklanej płyty"
+      },
+      {
+        "id": "c",
+        "text": "powierzchnia stożka utworzonego przez 50 g proszku luźno zasypanego z wolumetru Scotta na gładką powierzchnię szklanej płyty"
+      },
+      {
+        "id": "d",
+        "text": "czas przesypywanie się 50 g proszku przez otwór o średnicy 1 mm"
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "question": "Co to jest środek poślizgowy?",
+    "answers": [
+      {
+        "id": "a",
+        "text": "materiał termoplastyczny stosowany w celu zmiany wymiaru lub kształtu cząstki"
+      },
+      {
+        "id": "b",
+        "text": "substancja dodawana do proszku w celu większych cząstek proszku i jego lepszej sypkości"
+      },
+      {
+        "id": "c",
+        "text": "substancja dodawana do proszku w celu zmniejszenia tarcia pomiędzy cząstkami proszku i pomiędzy wypraską a powierzchniami matrycy"
+      },
+      {
+        "id": "d",
+        "text": "substancja dodawana do proszku w celu zwiększenia wytrzymałości wypraski lub zapobiegania pyleniu i samosegregacji proszku jak również w celu jego uplastycznienia"
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "question": "Frakcja ziarnowa to?",
+    "answers": [
+      {
+        "id": "a",
+        "text": "frakcja obejmująca cząstki o wielkościach poniżej najmniejszej wielkości cząstek możliwej do oznaczenia daną metodą"
+      },
+      {
+        "id": "b",
+        "text": "masa proszku odpowiadająca określonej klasie ziarnowej"
+      },
+      {
+        "id": "c",
+        "text": "stosunek danej frakcji do masy próbki proszku"
+      },
+      {
+        "id": "d",
+        "text": "przedział w ciągu wielkości cząstek"
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "question": "Co to jest prasowanie jednostronne?",
+    "answers": [
+      {
+        "id": "a",
+        "text": "prasowanie, w czasie którego proszek znajduje się w matrycy między dwoma stemplami, przesuwającymi się w przeciwnym kierunku względem otworu matrycy"
+      },
+      {
+        "id": "b",
+        "text": "metoda prasowania, w której wytwarza się równocześnie dwie lub więcej kształtek w oddzielnych otworach matrycy"
+      },
+      {
+        "id": "c",
+        "text": "prasowanie, w czasie którego proszek znajduje się w nieruchomej matrycy między dwoma stemplami, z których tylko jeden przesuwa się, a drugi pozostaje nieruchomy"
+      },
+      {
+        "id": "d",
+        "text": "prasowanie, w czasie którego dłuższa oś wypraski jest równoległa do kierunku ruchu stempli"
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "question": "Co to jest gęstość nasypowa z usadem?",
+    "answers": [
+      {
+        "id": "a",
+        "text": "stosunek masy proszku zasypanego w ustalonych warunkach do zajmowanej przez niego objętości"
+      },
+      {
+        "id": "b",
+        "text": "stosunek masy proszku zasypanego do pojemnika w ustalonych warunkach do najmniejszej objętości jaką zajmą jego cząstki w efekcie wstrząsania"
+      },
+      {
+        "id": "c",
+        "text": "stosunek objętości niesprasowanego proszku do objętości wypraski, której wymiary zmierzono po wypchnięciu z matrycy"
+      },
+      {
+        "id": "d",
+        "text": "stosunek 50 g proszku zasypanego w ustalonych warunkach do zajmowanej przez niego objętości"
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "question": "Oceń konkurencyjność technologii metalurgii proszków jako metodę produkcji części maszyn dla przemysłu samochodowego.",
+    "answers": [
+      {
+        "id": "a",
+        "text": "metoda jest konkurencyjna w przypadku wielkoseryjnej produkcji drobnych elementów metalowych o dużej precyzji wykonania"
+      },
+      {
+        "id": "b",
+        "text": "metalurgię proszków nie można uznać za odpowiednią technologię z punktu widzenia potrzeb przemysłu samochodowego"
+      },
+      {
+        "id": "c",
+        "text": "największe korzyści ekonomiczne są związane z produkcją elementów o dużej masie"
+      },
+      {
+        "id": "d",
+        "text": "metoda jest konkurencyjna ze względu na łatwość w łączeniu spieków ze sobą podczas spiekania"
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "question": "Proces spiekania to?",
+    "answers": [
+      {
+        "id": "a",
+        "text": "zespół aktywowanych cieplnie procesów fizycznych i chemicznych związanych z transportem materii, zmianami chemicznymi i rozwojem struktury"
+      },
+      {
+        "id": "b",
+        "text": "wypalanie półwyrobów uformowanych z proszków"
+      },
+      {
+        "id": "c",
+        "text": "utrwalanie kształtu półwyrobów uformowanych z proszków"
+      },
+      {
+        "id": "d",
+        "text": "nagrzewanie umieszczonej w szczelnej komorze formie wypełnionej proszkiem"
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "question": "Mechanizmy transportu materii w trakcie spiekania w stanie stałym to?",
+    "answers": [
+      {
+        "id": "a",
+        "text": "wspinanie się dyslokacji, zdrowienie i rekrystalizacja"
+      },
+      {
+        "id": "b",
+        "text": "mechanizmy odpowiedzialne za pełzanie"
+      },
+      {
+        "id": "c",
+        "text": "bliźniakowanie aktywowane termicznie"
+      },
+      {
+        "id": "d",
+        "text": "dyfuzja powierzchniowa, dyfuzja objętościowa, dyfuzja po granicach ziarn, parowanie i kondensacja, płynięcie plastyczne, płynięcie lepkościowe"
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "question": "Atmosfery obojętne podczas spiekania to?",
+    "answers": [
+      {
+        "id": "a",
+        "text": "próżnia, argon, hel"
+      },
+      {
+        "id": "b",
+        "text": "wodór, tlenek węgla"
+      },
+      {
+        "id": "c",
+        "text": "zdysocjowany amoniak, azot"
+      },
+      {
+        "id": "d",
+        "text": "próżnia, wodór"
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "question": "Proces technologiczny wytwarzania materiałów na drodze metalurgii proszków to:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "otrzymywanie proszku, przygotowanie mieszanki proszków, formowanie, spiekanie, obróbka wykańczająca"
+      },
+      {
+        "id": "b",
+        "text": "otrzymywanie proszków, tworzenie gęstwy, odlewanie, spiekanie, kontrola jakości"
+      },
+      {
+        "id": "c",
+        "text": "przygotowanie proszków, przygotowanie masy roboczej, formowanie, spiekanie, wykańczanie, kontrola jakości"
+      },
+      {
+        "id": "d",
+        "text": "otrzymywanie proszku, spiekanie, obróbka wykańczająca"
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "question": "Do testowania requestów służy:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "MongoDB"
+      },
+      {
+        "id": "b",
+        "text": "Postman"
+      },
+      {
+        "id": "c",
+        "text": "Mongoose"
+      },
+      {
+        "id": "d",
+        "text": "Swagger"
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "question": "CRUD oznacza:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "create, read, update, delete, co pozwala tworzyć aplikacje frontendowe"
+      },
+      {
+        "id": "b",
+        "text": "create, read, update, delete, co pozwala tworzyć restowe API"
+      },
+      {
+        "id": "c",
+        "text": "oznacza możliwość połączenia z nierelacyjną bazą danych"
+      },
+      {
+        "id": "d",
+        "text": "oznacza możliwość połączenia z relacyjną bazą danych"
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "question": "RESTful to aplikacja restowa spełniająca następujące reguły:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "jednolity interfejs komunikacyjny, podział na aplikacje klient-serwer, bezstanowość, cache danych, odseparowanie warstwy, wysyłanie kodu do aplikacji klienta"
+      },
+      {
+        "id": "b",
+        "text": "nie posiada swojej specyfikacji, nie posiada zbioru zasad"
+      },
+      {
+        "id": "c",
+        "text": "nie komunikuje się z innymi usługami i nie wykorzystuje stylu architektonicznego REST"
+      },
+      {
+        "id": "d",
+        "text": "ma na celu połączenie aplikacji, najczęściej korzysta z formatu XML, rzadziej z JSON"
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "question": "Asynchroniczność pozwala na wykonywanie kilku zadań równocześnie, w JS istnieją funkcje pozwalające uruchamiać kod cyklicznie, są nimi:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "inTimeout(), getInterval(), questAnimationFrame()"
+      },
+      {
+        "id": "b",
+        "text": "setTimeout(), setInterval(), requestAnimationFrame()"
+      },
+      {
+        "id": "c",
+        "text": "setTimeout(), setInterval(), questAnimationFrame()"
+      },
+      {
+        "id": "d",
+        "text": "w JS nie ma możliwości zastosowania asynchroniczności"
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "question": "Dokument to podstawowa jednostka danych w nierelacyjnej bazie danych, jest on przechowywany w formacie:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "nie ma takiego formatu i może przyjmować dowolny rozmiar"
+      },
+      {
+        "id": "b",
+        "text": "może to być każdy format, jednak rozmiar jest ograniczony"
+      },
+      {
+        "id": "c",
+        "text": "JSON, fizycznie BSON o maksymalnym rozmiarze 16 MB"
+      },
+      {
+        "id": "d",
+        "text": "zdefiniowanym przez użytkownika i o rozmiarze przez niego zdefiniowanym"
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "question": "Celowe łamanie kaskadowości można zrealizować poprzez:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "nie jest możliwe złamanie tej zasady"
+      },
+      {
+        "id": "b",
+        "text": "zastosowanie polecenia !important"
+      },
+      {
+        "id": "c",
+        "text": "można złamać tą zasadę poprzez odpowiednie znaczniki;"
+      },
+      {
+        "id": "d",
+        "text": "zastosowanie polecenia ?notimportant"
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "question": "W nierelacyjnych bazach danych stosujemy pojęcia:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "kolekcja, dokument, klucz"
+      },
+      {
+        "id": "b",
+        "text": "tablica, wiersz, kolumna"
+      },
+      {
+        "id": "c",
+        "text": "komórka, klasa, tabela"
+      },
+      {
+        "id": "d",
+        "text": "wiersz, komórka, tablica"
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "question": "Gdy zachodzi potrzeba zastosowania w jednej regule stylu kilku selektorów prostych, to należy wpisać jeden po drugim w kolejności:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "selektory atrybutów, selektor identyfikatora, selektor klasy lub selektory pseudoklas i pozo-stałe"
+      },
+      {
+        "id": "b",
+        "text": "selektor typu lub selektor uniwersalny i pozostałe"
+      },
+      {
+        "id": "c",
+        "text": "selektory pseudoelementów i pozostałe"
+      },
+      {
+        "id": "d",
+        "text": "kolejność selektorów zawsze jest dowolna"
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "question": "Model ISO OSI RM składa się z:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "dowolnej liczby warstw"
+      },
+      {
+        "id": "b",
+        "text": "siedmiu warstw"
+      },
+      {
+        "id": "c",
+        "text": "nie posiada budowy warstwowej"
+      },
+      {
+        "id": "d",
+        "text": "liczby warstw określonej przez użytkownika"
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "question": "W protokole kontroli transmisji do nawiązania połączenia między dwoma hostami stosowana jest procedura:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "three-way handshake"
+      },
+      {
+        "id": "b",
+        "text": "one-way handshake"
+      },
+      {
+        "id": "c",
+        "text": "nie ma takiej procedury"
+      },
+      {
+        "id": "d",
+        "text": "zdefiniowana przez użytkownika"
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "question": "JSON Web Token składa się z:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "nagłówka, zawartości i sygnatury"
+      },
+      {
+        "id": "b",
+        "text": "algorytmu, przepustki i zawartości"
+      },
+      {
+        "id": "c",
+        "text": "przepustki, zawartości i sygnatury"
+      },
+      {
+        "id": "d",
+        "text": "nagłówka, przepustki i algorytmu"
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "question": "Ze spadkiem różnicy elektroujemności między atomami wzrasta możliwość utworzenia:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "wiązania jonowego"
+      },
+      {
+        "id": "b",
+        "text": "wiązania kowalencyjnego"
+      },
+      {
+        "id": "c",
+        "text": "wiązania metalicznego"
+      },
+      {
+        "id": "d",
+        "text": "wiązania spolaryzowanego"
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "question": "Termin system poślizgu oznacza:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "zespół kierunków krystalograficznych wzdłuż których atomy się stykają"
+      },
+      {
+        "id": "b",
+        "text": "podstawowy mechanizm odkształcenia plastycznego na zimno"
+      },
+      {
+        "id": "c",
+        "text": "kombinację płaszczyzny i kierunku o najgęstszym rozmieszczeniu atomów"
+      },
+      {
+        "id": "d",
+        "text": "zespół płaszczyzn krystalograficznych o najgęstszym wypełnieniu atomami"
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "question": "Który efekt nie występuje podczas odkształcenia plastycznego na zimno?",
+    "answers": [
+      {
+        "id": "a",
+        "text": "zmiana kształtu ziaren"
+      },
+      {
+        "id": "b",
+        "text": "wzrost gęstości dyslokacji"
+      },
+      {
+        "id": "c",
+        "text": "umocnienie odkształceniowe"
+      },
+      {
+        "id": "d",
+        "text": "spadek energii zmagazynowanej"
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "question": "Który z wymienionych czynników obniża wytrzymałość na rozciąganie?",
+    "answers": [
+      {
+        "id": "a",
+        "text": "odkształcenie plastyczne"
+      },
+      {
+        "id": "b",
+        "text": "koagulacja wydzieleń"
+      },
+      {
+        "id": "c",
+        "text": "dodatek stopowy"
+      },
+      {
+        "id": "d",
+        "text": "rozdrobnienie ziarna"
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "question": "Na czym polega przemiana perytektyczna przy chłodzeniu:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "z roztworu ciekłego i fazy stałej w określonej temperaturze tworzy się nowa faza stała"
+      },
+      {
+        "id": "b",
+        "text": "z roztworu ciekłego w określonej temperaturze tworzą się równocześnie dwie fazy stałe"
+      },
+      {
+        "id": "c",
+        "text": "z roztworu ciekłego i fazy stałej w określonej temperaturze tworzy się nowy roztwór ciekły"
+      },
+      {
+        "id": "d",
+        "text": "z roztworu ciekłego w określonej temperaturze tworzy się nowy roztwór ciekły i faza stała"
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "question": "W procesie normalizacji przeprowadza się następujący sposób chłodzenia stali:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "chłodzenie w wodzie"
+      },
+      {
+        "id": "b",
+        "text": "chłodzenie w oleju"
+      },
+      {
+        "id": "c",
+        "text": "chłodzenie na powietrzu"
+      },
+      {
+        "id": "d",
+        "text": "chłodzenie z piecem"
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "question": "Odpuszczanie stali polega na:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "wyżarzaniu stali uprzednio zahartowanej"
+      },
+      {
+        "id": "b",
+        "text": "wyżarzaniu stali bezpośrednio po odlewaniu"
+      },
+      {
+        "id": "c",
+        "text": "wyżarzaniu stali w celu usunięcia naprężeń wewnętrznych."
+      },
+      {
+        "id": "d",
+        "text": "wyżarzaniu stali odkształconej plastycznie"
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "question": "Który pierwiastek stopowy nie zapewnia stali nierdzewnej struktury austenitycznej?",
+    "answers": [
+      {
+        "id": "a",
+        "text": "nikiel"
+      },
+      {
+        "id": "b",
+        "text": "mangan"
+      },
+      {
+        "id": "c",
+        "text": "krzem"
+      },
+      {
+        "id": "d",
+        "text": "kobalt"
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "question": "Żeliwa ciągliwe otrzymuje się w wyniku:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "sferoidyzacji grafitu płatkowego w żeliwach szarych"
+      },
+      {
+        "id": "b",
+        "text": "hartowania i odpuszczania odlewów z żeliwa szarego"
+      },
+      {
+        "id": "c",
+        "text": "wyżarzania grafityzującego odlewów surówek białych"
+      },
+      {
+        "id": "d",
+        "text": "procesu modyfikacji żeliwa szarego zwykłego"
+      }
+    ]
+  },
+  {
+    "id": 101,
+    "question": "Ledeburyt przemieniony jest to:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "mieszanina eutektyczna austenitu i ferrytu"
+      },
+      {
+        "id": "b",
+        "text": "mieszanina eutektyczna austenitu i cementytu"
+      },
+      {
+        "id": "c",
+        "text": "mieszanina eutektoidalna perlitu i cementytu"
+      },
+      {
+        "id": "d",
+        "text": "mieszanina eutektyczna perlitu i cementytu"
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "question": "Trawienie próbek metalograficznych ma za zadanie:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "ujawnienie charakterystycznych cech mikrostruktury"
+      },
+      {
+        "id": "b",
+        "text": "poprawić jakość powierzchni przed etapem badań mikroskopowych"
+      },
+      {
+        "id": "c",
+        "text": "pokrycie powierzchni warstwą ochronna przed dalszym utlenianiem"
+      },
+      {
+        "id": "d",
+        "text": "oczyszczenie powierzchni z zabrudzeń (odtłuszczenie)"
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "question": "Mikroskop metalograficzny do tworzenia obrazu mikrostruktury używa światła:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "przechodzącego"
+      },
+      {
+        "id": "b",
+        "text": "odbitego"
+      },
+      {
+        "id": "c",
+        "text": "odbitego i przechodzącego"
+      },
+      {
+        "id": "d",
+        "text": "monochromatycznego"
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "question": "Zdolność rozdzielcza mikroskopu zależy od:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "intensywności promieniowania padającego na preparat"
+      },
+      {
+        "id": "b",
+        "text": "długości fali promieniowania świetlnego"
+      },
+      {
+        "id": "c",
+        "text": "rodzaju obserwowanego preparatu"
+      },
+      {
+        "id": "d",
+        "text": "kąta, pod którym prowadzi się obserwacje"
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "question": "Widmo charakterystycznego promieniowania rentgenowskiego powstaje w wyniku:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "oddziaływania elektronów wiązki z elektronami wewnętrznych powłok atomów próbki"
+      },
+      {
+        "id": "b",
+        "text": "oddziaływania elektronów wiązki z elektronami zewnętrznych powłok atomów próbki"
+      },
+      {
+        "id": "c",
+        "text": "oddziaływania elektronów wiązki z jądrami atomów próbki"
+      },
+      {
+        "id": "d",
+        "text": "wyhamowywania elektronów wiązki w pobliżu jąder atomów próbki"
+      }
+    ]
+  },
+  {
+    "id": 106,
+    "question": "Odczynniki chemiczne stosowane do trawienia próbek metalograficznych:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "są dobierane do konkretnego metalu"
+      },
+      {
+        "id": "b",
+        "text": "są uniwersalne dla każdego metalu"
+      },
+      {
+        "id": "c",
+        "text": "są złożone z dowolnej mieszaniny kwasów utleniających"
+      },
+      {
+        "id": "d",
+        "text": "ich skład chemiczny nie wpływa na intensywność trawienia"
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "question": "W badaniach składu chemicznego w mikroskopii elektronowej zaletą metody EDS w stosunku do WDS jest:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "bardzo dobra rozdzielczość metody"
+      },
+      {
+        "id": "b",
+        "text": "duży stosunek intensywności piku do intensywności tła"
+      },
+      {
+        "id": "c",
+        "text": "szybkość analizy"
+      },
+      {
+        "id": "d",
+        "text": "wyższy poziom wykrywalności pierwiastków"
+      }
+    ]
+  },
+  {
+    "id": 108,
+    "question": "Podstawowym mechanizmem umocnienia duraluminium jest:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "umocnienie dyslokacyjne"
+      },
+      {
+        "id": "b",
+        "text": "umocnienie wydzieleniowe"
+      },
+      {
+        "id": "c",
+        "text": "umocnienie przez rozdrobnienie ziarna"
+      },
+      {
+        "id": "d",
+        "text": "roztworowe"
+      }
+    ]
+  },
+  {
+    "id": 109,
+    "question": "Przemiana eutektyczna przy chłodzeniu w stopie dwuskładnikowym polega na tym, że:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "w stałej temperaturze z cieczy tworzą się jednocześnie dwie fazy stałe"
+      },
+      {
+        "id": "b",
+        "text": "w stałej temperaturze z fazy stałej tworzą się dwie nowe fazy stałe"
+      },
+      {
+        "id": "c",
+        "text": "w stałej temperaturze z cieczy tworzy się faza stała i ciecz o innym składzie"
+      },
+      {
+        "id": "d",
+        "text": "w stałej temperaturze z mieszaniny dwóch faz stałych tworzy się nowa faza stała"
+      }
+    ]
+  },
+  {
+    "id": 110,
+    "question": "Stopów aluminium nie można hartować ponieważ:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "stopy aluminium nie zawierają węgla"
+      },
+      {
+        "id": "b",
+        "text": "aluminium ma zbyt niską temperaturę topnienia"
+      },
+      {
+        "id": "c",
+        "text": "aluminium nie ma odmian alotropowych"
+      },
+      {
+        "id": "d",
+        "text": "aluminium ma zbyt zbyt duże przewodnictwo cieplne"
+      }
+    ]
+  },
+  {
+    "id": 111,
+    "question": "Nadstopy (superstopy) są to materiały stosowane:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "w temperaturze kriogenicznej"
+      },
+      {
+        "id": "b",
+        "text": "w wysokiej temperaturze"
+      },
+      {
+        "id": "c",
+        "text": "na wytrzymałe i odporne na ściranie narzędzia"
+      },
+      {
+        "id": "d",
+        "text": "w energetyce ze względu na duże przewodnictwo elektryczne"
+      }
+    ]
+  },
+  {
+    "id": 112,
+    "question": "Mosiądze są to stopy miedzi z:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "cynkiem"
+      },
+      {
+        "id": "b",
+        "text": "cyną"
+      },
+      {
+        "id": "c",
+        "text": "aluminium"
+      },
+      {
+        "id": "d",
+        "text": "krzemem"
+      }
+    ]
+  },
+  {
+    "id": 113,
+    "question": "Temperaturę przejścia w stan kruchy wykazują metale:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "o strukturze krystalicznej regularnej ściennie centrowanej A1"
+      },
+      {
+        "id": "b",
+        "text": "o strukturze krystalicznej heksagonalnej zwartej A3"
+      },
+      {
+        "id": "c",
+        "text": "wszystkie metale są kruche w bardzo niskiej temperaturze"
+      },
+      {
+        "id": "d",
+        "text": "o strukturze krystalicznej regularnej przestrzennie centrowanej A2"
+      }
+    ]
+  },
+  {
+    "id": 114,
+    "question": "Odpuszczanie stali polega na:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "wyżarzaniu stali odkształconej plastycznie"
+      },
+      {
+        "id": "b",
+        "text": "wyżarzaniu stali w celu zwiększenia jej twardości"
+      },
+      {
+        "id": "c",
+        "text": "wyżarzaniu stali w celu uzyskania drobnego ziarna"
+      },
+      {
+        "id": "d",
+        "text": "wyżarzaniu stali zahartowanej"
+      }
+    ]
+  },
+  {
+    "id": 115,
+    "question": "Zdecyduj, które stwierdzenia są prawdziwe: stal niskowęglowa ma większą ciągliwość niż średniowęglowa ponieważ: (i) ma w strukturze więcej ferrytu (ii) ma mniejszą zawartość węgla",
+    "answers": [
+      {
+        "id": "a",
+        "text": "(i) TAK (ii) NIE"
+      },
+      {
+        "id": "b",
+        "text": "(i) NIE (ii) TAK"
+      },
+      {
+        "id": "c",
+        "text": "(i) TAK (ii) TAK"
+      },
+      {
+        "id": "d",
+        "text": "(i) NIE (ii) NIE"
+      }
+    ]
+  },
+  {
+    "id": 116,
+    "question": "Który z mechanizmów umocnienia stali jednocześnie zwiększa granicę plastyczności i obniża temperaturę przejścia w stan kruchy?",
+    "answers": [
+      {
+        "id": "a",
+        "text": "umocnienie roztworowe"
+      },
+      {
+        "id": "b",
+        "text": "umocnienie przez odkształcenie plastyczne"
+      },
+      {
+        "id": "c",
+        "text": "umocnienie przez rozdrobnienie ziarna"
+      },
+      {
+        "id": "d",
+        "text": "umocnienie cząstkami dyspersyjnymi"
+      }
+    ]
+  },
+  {
+    "id": 117,
+    "question": "Podstawowym pierwiastkiem, który przyczynia się do wzrostu odporności korozyjnej stali jest:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "Ni"
+      },
+      {
+        "id": "b",
+        "text": "Cr"
+      },
+      {
+        "id": "c",
+        "text": "Cu"
+      },
+      {
+        "id": "d",
+        "text": "Mo"
+      }
+    ]
+  },
+  {
+    "id": 118,
+    "question": "Perlit w stalach tworzy się:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "podczas powolnego chłodzenia austenitu"
+      },
+      {
+        "id": "b",
+        "text": "podczas szybkiego chłodzenia austenitu"
+      },
+      {
+        "id": "c",
+        "text": "podczas wyżarzania stali odkształconej plastycznie"
+      },
+      {
+        "id": "d",
+        "text": "podczas odpuszczania zahartowanej stali"
+      }
+    ]
+  },
+  {
+    "id": 119,
+    "question": "Najkrótsza definicja martenzytu w stalach to:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "jest to mieszanina ferrytu i węglików"
+      },
+      {
+        "id": "b",
+        "text": "jest to roztwór stały węgla w żelazie γ (gamma)"
+      },
+      {
+        "id": "c",
+        "text": "jest to przesycony roztwór stały węgla w żelazie α (alfa)"
+      },
+      {
+        "id": "d",
+        "text": "jest to odmiana alotropowa żelaza"
+      }
+    ]
+  },
+  {
+    "id": 120,
+    "question": "Normalizowanie to obróbka cieplna stali prowadząca do:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "rekrystalizacji materiału odkształconego"
+      },
+      {
+        "id": "b",
+        "text": "wytworzenia określonej tekstury krystalograficznej"
+      },
+      {
+        "id": "c",
+        "text": "usunięcia naprężeń hartowniczych"
+      },
+      {
+        "id": "d",
+        "text": "otrzymania małego równoosiowego ziarna"
+      }
+    ]
+  },
+  {
+    "id": 121,
+    "question": "Którego pierwiastka należy dodać do stali, aby otrzymać austenit w temperaturze pokojowej",
+    "answers": [
+      {
+        "id": "a",
+        "text": "Niklu"
+      },
+      {
+        "id": "b",
+        "text": "Chromu"
+      },
+      {
+        "id": "c",
+        "text": "Molibdenu"
+      },
+      {
+        "id": "d",
+        "text": "Miedzi"
+      }
+    ]
+  },
+  {
+    "id": 122,
+    "question": "Zjawisko tzw. twardości wtórnej wykorzystuje się:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "w stalach narzędziowych"
+      },
+      {
+        "id": "b",
+        "text": "w stopach aluminium utwardzanych wydzieleniowo"
+      },
+      {
+        "id": "c",
+        "text": "w stalach odpornych na korozję"
+      },
+      {
+        "id": "d",
+        "text": "w blachach na karoserie samochodowe"
+      }
+    ]
+  },
+  {
+    "id": 123,
+    "question": "Zwiększenie wielkości ziarna w stopie spowoduje:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "wzrost granicy plastyczności"
+      },
+      {
+        "id": "b",
+        "text": "zmniejszenie twardości"
+      },
+      {
+        "id": "c",
+        "text": "wzrost modułu sprężystości (Younga)"
+      },
+      {
+        "id": "d",
+        "text": "zmniejszenie odporności na pełzanie"
+      }
+    ]
+  },
+  {
+    "id": 124,
+    "question": "Udarność metali wyraża się w jednostkach:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "siły"
+      },
+      {
+        "id": "b",
+        "text": "temperatury"
+      },
+      {
+        "id": "c",
+        "text": "energii"
+      },
+      {
+        "id": "d",
+        "text": "naprężenia"
+      }
+    ]
+  },
+  {
+    "id": 125,
+    "question": "W stalach DP (Dual Phase – dwufazowych), stosowanych w konstrukcjach samochodów, podstawowymi fazami w mikrostrukturze są:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "ferryt i austenit"
+      },
+      {
+        "id": "b",
+        "text": "ferryt i cementyt"
+      },
+      {
+        "id": "c",
+        "text": "ferryt i martenzyt"
+      },
+      {
+        "id": "d",
+        "text": "austenit i cementyt"
+      }
+    ]
+  },
+  {
+    "id": 126,
+    "question": "Spośród stali odpornych na korozję najlepszą formowalność plastyczną mają stale:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "austenityczne"
+      },
+      {
+        "id": "b",
+        "text": "ferrytyczne"
+      },
+      {
+        "id": "c",
+        "text": "ferrytyczno-austenityczne (dupleks)"
+      },
+      {
+        "id": "d",
+        "text": "martenzytyczne"
+      }
+    ]
+  },
+  {
+    "id": 127,
+    "question": "Najlepszą wytrzymałość właściwą wykazują stopy:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "magnezu"
+      },
+      {
+        "id": "b",
+        "text": "aluminium"
+      },
+      {
+        "id": "c",
+        "text": "tytanu"
+      },
+      {
+        "id": "d",
+        "text": "żelaza z niklem"
+      }
+    ]
+  },
+  {
+    "id": 128,
+    "question": "Bezwładność to:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "dążność punktu do zachowania stanu spoczynku i stanu ruchu jednostajnego prostolinio-wego, jeżeli na punkt nie działa żadna siła"
+      },
+      {
+        "id": "b",
+        "text": "dążność punktu do zachowania stanu spoczynku lub stanu ruchu jednostajnego prostolinio-wego, jeżeli na punkt nie działa żadna siła"
+      },
+      {
+        "id": "c",
+        "text": "dążność punktu do zachowania stanu spoczynku lub stanu ruchu jednostajnego prostolinio-wego, jeżeli na punkt działa dowolna siła"
+      },
+      {
+        "id": "d",
+        "text": "dążność punktu do zachowania stanu spoczynku i stanu ruchu jednostajnego prostolinio-wego, jeżeli na punkt działa dowolna siła"
+      }
+    ]
+  },
+  {
+    "id": 129,
+    "question": "Moc to inaczej:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "ilość wykonanej pracy (lub przekazanej energii) do czasu w jakim została ona wykonana"
+      },
+      {
+        "id": "b",
+        "text": "szybkość zmiany położenia ciała"
+      },
+      {
+        "id": "c",
+        "text": "iloczyn wartości siły F działającej na ciało na drodze s d) zdolność obiektu do wykonywania pracy"
+      }
+    ]
+  },
+  {
+    "id": 130,
+    "question": "Naprężenia dopuszczalne to",
+    "answers": [
+      {
+        "id": "a",
+        "text": "minimalne naprężenie powodujące naruszenie warunków wytrzymałości i sztywności kon-strukcji"
+      },
+      {
+        "id": "b",
+        "text": "maksymalne naprężenie powodujące w konstrukcji pojawienie się odkształceń plastycznych"
+      },
+      {
+        "id": "c",
+        "text": "naprężenia, które mogą wystąpić w materiale/konstrukcji, bez obawy naruszenia warunków wytrzymałości i sztywności"
+      },
+      {
+        "id": "d",
+        "text": "naprężenia w ciele niezależne od wzajemnego położenia elementarnych cząsteczek ciała pod-danego działaniu sił zewnętrznych"
+      }
+    ]
+  },
+  {
+    "id": 131,
+    "question": "II prawo Newtona",
+    "answers": [
+      {
+        "id": "a",
+        "text": "Jeśli na ciało działa stała niezrównoważona siła (siła wypadkowa), to ciało porusza się ruchem jednostajnie zmiennym z przyspieszeniem wprost proporcjonalnym do działającej siły i od-wrotnie proporcjonalnym do masy ciała."
+      },
+      {
+        "id": "b",
+        "text": "Punkt materialny, na który nie działa żadna siła lub działa układ sił równoważących się, pozo-staje w spoczynku albo porusza się ruchem jednostajnym po linii prostej"
+      },
+      {
+        "id": "c",
+        "text": "Siły wzajemnego oddziaływania dwóch punktów materialnych są równe co do wartości, skie-rowane wzdłuż prostej łączącej te punkty oraz zwrócone przeciwnie"
+      },
+      {
+        "id": "d",
+        "text": "Przyspieszenie punktu materialnego nie jest proporcjonalne do siły działającej na ten punkt i nie ma kierunku tej siły"
+      }
+    ]
+  },
+  {
+    "id": 132,
+    "question": "Podstawowe rodzaje obciążeń konstrukcji to",
+    "answers": [
+      {
+        "id": "a",
+        "text": "rozciąganie, ściskanie, skręcanie, ścinanie, zginanie"
+      },
+      {
+        "id": "b",
+        "text": "rozciąganie, ściskanie, spęczanie, zginanie"
+      },
+      {
+        "id": "c",
+        "text": "wydłużanie, ściskanie, skręcanie, ścinanie, zginanie"
+      },
+      {
+        "id": "d",
+        "text": "rozciąganie, wyciskanie, skręcanie, ścinanie, zginanie"
+      }
+    ]
+  },
+  {
+    "id": 133,
+    "question": "Pędem punktu materialnego nazywamy",
+    "answers": [
+      {
+        "id": "a",
+        "text": "wektor równy iloczynowi wektora siły i przedziału czasu"
+      },
+      {
+        "id": "b",
+        "text": "wielkość skalarną równą połowie iloczynu masy punktu i kwadratu jego prędkości"
+      },
+      {
+        "id": "c",
+        "text": "iloczyn jego masy i prędkości"
+      },
+      {
+        "id": "d",
+        "text": "zmiana wektora prędkości w czasie"
+      }
+    ]
+  },
+  {
+    "id": 134,
+    "question": "W statyce, która zajmuje się układami sił i ich równowagą, przyjmuje się następujące modele ciał:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "ciało sztywne i ciało sprężyste"
+      },
+      {
+        "id": "b",
+        "text": "punkt materialny i ciało sprężyste"
+      },
+      {
+        "id": "c",
+        "text": "ciało sprężyste i ciało sprężysto-plastyczne"
+      },
+      {
+        "id": "d",
+        "text": "punkt materialny i ciało sztywne"
+      }
+    ]
+  },
+  {
+    "id": 135,
+    "question": "Moduł sprężystości wzdłużnej E (moduł Younga) zależy od:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "wielkości przekroju"
+      },
+      {
+        "id": "b",
+        "text": "rodzaju materiału"
+      },
+      {
+        "id": "c",
+        "text": "rodzaju obciążenia"
+      },
+      {
+        "id": "d",
+        "text": "kształtu i wymiarów części"
+      }
+    ]
+  },
+  {
+    "id": 136,
+    "question": "Płaskim układem sił nazywamy układ",
+    "answers": [
+      {
+        "id": "a",
+        "text": "którego wszystkie momenty leżą w jednej płaszczyźnie"
+      },
+      {
+        "id": "b",
+        "text": "którego wszystkie siły i momenty leżą w jednej płaszczyźnie"
+      },
+      {
+        "id": "c",
+        "text": "którego wszystkie siły leżą w jednej płaszczyźnie"
+      },
+      {
+        "id": "d",
+        "text": "którego wszystkie siły nie leżą w jednej płaszczyźnie"
+      }
+    ]
+  },
+  {
+    "id": 137,
+    "question": "Rysunek prototypowy, (szablon) to:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "plik graficzny z wzorcowym rysunkiem części."
+      },
+      {
+        "id": "b",
+        "text": "plik z podstawowymi ustawieniami: warstw, stylów wymiarowania, stylów tekstu, tabelki opisowej z atrybutami itp."
+      },
+      {
+        "id": "c",
+        "text": "plik z pierwszym projektem prototypu przed uruchomieniem produkcji."
+      },
+      {
+        "id": "d",
+        "text": "pierwszy model 3D części dla projektowanego złożenia."
+      }
+    ]
+  },
+  {
+    "id": 138,
+    "question": "Metoda budowy POPRAWNYCH obiektów 3D w programie AutoCAD.",
+    "answers": [
+      {
+        "id": "a",
+        "text": "z polilinii zamkniętych lub z regionów"
+      },
+      {
+        "id": "b",
+        "text": "z polilinii otwartych"
+      },
+      {
+        "id": "c",
+        "text": "ze szkiców linii segmentowych"
+      },
+      {
+        "id": "d",
+        "text": "z linii otwartych typu spline"
+      }
+    ]
+  },
+  {
+    "id": 139,
+    "question": "Metoda budowy POPRAWNYCH obiektów 3D w programie SolidWorks:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "ze szkicu całkowicie zdefiniowanego"
+      },
+      {
+        "id": "b",
+        "text": "ze szkicu niezdefiniowanego"
+      },
+      {
+        "id": "c",
+        "text": "z zestawu szkiców niezdefiniowanych"
+      },
+      {
+        "id": "d",
+        "text": "z powierzchni planimetrowanych"
+      }
+    ]
+  },
+  {
+    "id": 140,
+    "question": "BLOKI w programie AutoCAD to:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "zestawy części dla budowanego złożenia"
+      },
+      {
+        "id": "b",
+        "text": "zestawy poleceń do wykonania operacji na jednym obiekcie bryłowym"
+      },
+      {
+        "id": "c",
+        "text": "zestawienie wykazu części w złożeniu"
+      },
+      {
+        "id": "d",
+        "text": "bazy elementów graficznych do wielokrotnego wykorzystania"
+      }
+    ]
+  },
+  {
+    "id": 141,
+    "question": "Płaszczyznę konstrukcyjną dla nowego szkicu w programie AutoCAD (Modelowanie 3D), można zmienić przez:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "zmianę położenia modelu poleceniem ORBITA"
+      },
+      {
+        "id": "b",
+        "text": "zmianę położenia płaszczyzny yz"
+      },
+      {
+        "id": "c",
+        "text": "zmianę położenia płaszczyzny xy"
+      },
+      {
+        "id": "d",
+        "text": "zmianę położenia płaszczyzny xz"
+      }
+    ]
+  },
+  {
+    "id": 142,
+    "question": "Płaszczyznę konstrukcyjną dla nowego szkicu w programie SolidWorks (Modelowanie 3D), można zmienić przez:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "wskazanie jednej z trzech płaszczyzn głównych lub wskazanie dowolnej płaskiej części istniejącego modelu"
+      },
+      {
+        "id": "b",
+        "text": "wskazanie powierzchni krzywoliniowej modelu"
+      },
+      {
+        "id": "c",
+        "text": "wskazanie początku układu współrzędnych"
+      },
+      {
+        "id": "d",
+        "text": "obrót modelu do położenia wyjściowego"
+      }
+    ]
+  },
+  {
+    "id": 143,
+    "question": "Filtry współrzędnych w programie AutoCAD służą do:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "wyeliminowania niezdefiniowanych współrzędnych"
+      },
+      {
+        "id": "b",
+        "text": "wyodrębnienia pojedynczych wartości współrzędnych punktów z istniejących obiektów"
+      },
+      {
+        "id": "c",
+        "text": "usunięcia sprzecznych relacji"
+      },
+      {
+        "id": "d",
+        "text": "Uszeregowania wartości współrzędnych we wskazanym kierunku"
+      }
+    ]
+  },
+  {
+    "id": 144,
+    "question": "Program komputerowy CAD to:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "zestaw poleceń i ikon realizujących automatyczne procedury graficzne."
+      },
+      {
+        "id": "b",
+        "text": "pole graficzne z linią poleceń"
+      },
+      {
+        "id": "c",
+        "text": "współistnienie skompilowanych procedur zawartych w kernelu i interfejsie użytkownika wspomagających proces graficznego projektowania"
+      },
+      {
+        "id": "d",
+        "text": "powiązania edytora tekstu z procedurami graficznymi"
+      }
+    ]
+  },
+  {
+    "id": 145,
+    "question": "Zastosowanie opcji KONFIGURACJI w programie SolidWorks może być wykorzystane do:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "opisu budowanych obiektów bryłowych"
+      },
+      {
+        "id": "b",
+        "text": "wielowariantowego konstruowania elementów części maszyn i złożeń"
+      },
+      {
+        "id": "c",
+        "text": "porządkowania części w złożeniach mechanizmów"
+      },
+      {
+        "id": "d",
+        "text": "uszeregowania projektowanych elementów wg ich rosnącej objętości"
+      }
+    ]
+  },
+  {
+    "id": 146,
+    "question": "Bezpośrednie zastosowanie LUW (Lokalnego Układu Współrzędnych) w programie AutoCAD:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "do przemieszczenia obiektów w złożeniu"
+      },
+      {
+        "id": "b",
+        "text": "do obrotów wybranych obiektów w szkicu"
+      },
+      {
+        "id": "c",
+        "text": "do lokalizacji elementu konstrukcyjnego w budowanym złożeniu"
+      },
+      {
+        "id": "d",
+        "text": "do zmiany położenia płaszczyzny konstrukcyjnej (xy)."
+      }
+    ]
+  },
+  {
+    "id": 147,
+    "question": "Polecenie SZYK w programach CAD umożliwia:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "zmianę powłoki modelu poprzez przypisanie tekstury"
+      },
+      {
+        "id": "b",
+        "text": "uporządkowanie układu warstw z przypisaniem rodzajów linii i kolorów"
+      },
+      {
+        "id": "c",
+        "text": "założone uporządkowanie wybranych elementów lub operacji w szkicu lub w modeli 3D w układzie kołowym lub prostokątnym"
+      },
+      {
+        "id": "d",
+        "text": "ustawienie projektowanych elementów wg ich masy"
+      }
+    ]
+  },
+  {
+    "id": 148,
+    "question": "Operacje BOOLOWSKIE w projektowaniu CAD pozwalają na:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "określenie całkowitej powierzchni obiektów bryłowych"
+      },
+      {
+        "id": "b",
+        "text": "sumowanie, określenie różnic i części wspólnych dla obiektów bryłowych w modelowaniu 3D"
+      },
+      {
+        "id": "c",
+        "text": "ścisłą względną lokalizację obiektów 3D w złożeniach części maszyn"
+      },
+      {
+        "id": "d",
+        "text": "wyznaczanie środków ciężkości dla modeli bryłowych 3D"
+      }
+    ]
+  },
+  {
+    "id": 149,
+    "question": "Parametryczność w programach CAD to:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "możliwość wymiarowania szkiców całkowicie zdefiniowanych"
+      },
+      {
+        "id": "b",
+        "text": "możliwość określania parametrów fizycznych dla obiektów powierzchniowych i bryłowych 3D"
+      },
+      {
+        "id": "c",
+        "text": "programowa spójność pomiędzy wartościami wymiarów, a wielkością obiektów z możliwością definiowania ich wzajemnych relacji i możliwość ich edycji w dokumentacji i w szkicach modeli 3D"
+      },
+      {
+        "id": "d",
+        "text": "Ocena parametrów fizycznych modeli 3D i szkiców użytych do ich budowy"
+      }
+    ]
+  },
+  {
+    "id": 150,
+    "question": "Znak (-) przy nazwie szkicu w drzewie operacji przy budowie części w programie SolidWorks oznacza, że:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "szkic jest przedefiniowany"
+      },
+      {
+        "id": "b",
+        "text": "szkic jest niedodefiniowany"
+      },
+      {
+        "id": "c",
+        "text": "szkic pochodzi z rzutowania elementów krawędzi już istniejącego modelu 3D"
+      },
+      {
+        "id": "d",
+        "text": "nie jest możliwe zbudowanie modelu 3D"
+      }
+    ]
+  },
+  {
+    "id": 151,
+    "question": "System projektowania RP i RT dotyczy:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "metod szybkiego projektowania prototypów elementów części maszyn i narzędzi"
+      },
+      {
+        "id": "b",
+        "text": "projektowania wyłącznie na potrzeby przemysłu motoryzacyjnego"
+      },
+      {
+        "id": "c",
+        "text": "optymalizacji procesu wytwarzania w aspekcie ograniczenia zużycia narzędzi"
+      },
+      {
+        "id": "d",
+        "text": "fizycznej regeneracji zużytych elementów części maszyn"
+      }
+    ]
+  },
+  {
+    "id": 152,
+    "question": "Budowa CZĘŚCI W KONTEKŚCIE złożenia polega na ich konstruowaniu w oparciu o:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "odpowiedni wybór płaszczyzn konstrukcyjnych"
+      },
+      {
+        "id": "b",
+        "text": "wcześniej podane zależności wymiarowe poprzez równania oraz w oparciu o relacje zdefiniowane w trybie konfiguracji"
+      },
+      {
+        "id": "c",
+        "text": "już wcześniej wczytane części do złożenia i bazowanie na ich wymiarach, lokalizacji oraz cechach geometrycznych"
+      },
+      {
+        "id": "d",
+        "text": "dowolnym wypełnieniu przestrzeni pomiędzy wczytanymi do złożenia elementami konstrukcyjnymi"
+      }
+    ]
+  },
+  {
+    "id": 153,
+    "question": "REVERSE ENGINEERING to:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "system projektowania bazujący na wzorcowych, modelach 3D, obejmujących typowe elementy części maszyn"
+      },
+      {
+        "id": "b",
+        "text": "system projektowania negatywów narzędzi (matryce, stemple) na podstawie wirtualnych kształtów wyrobu gotowego"
+      },
+      {
+        "id": "c",
+        "text": "system projektowania odwrotnego bazujący na wzorcach przeznaczonych np. do regeneracji, po wcześniejszym ich skanowaniu i poddanych późniejszym wirtualnym korektom"
+      },
+      {
+        "id": "d",
+        "text": "projektowanie części maszyn z uwzględnieniem kosztów ich utylizacji"
+      }
+    ]
+  },
+  {
+    "id": 154,
+    "question": "Obrabiarki CNC to:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "obrabiarki sterowane manualnie za pomocą mechanizmów śrubowych i przekładni zębatych"
+      },
+      {
+        "id": "b",
+        "text": "obrabiarki pozwalające na kopiowanie ruchów narzędzia wg wykonanych wzorników"
+      },
+      {
+        "id": "c",
+        "text": "tokarki i frezarki umożliwiające wyeliminowanie częstości rezonansowej podczas obróbki skrawaniem"
+      },
+      {
+        "id": "d",
+        "text": "obrabiarki do obróbki ubytkowej sterowane kodem NC"
+      }
+    ]
+  },
+  {
+    "id": 155,
+    "question": "Kod NC jest zbiorem:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "procedur opisujących technologię obróbki ubytkowej, w tym parametry: obroty i posuwy oraz trajektorię ruchu narzędzi"
+      },
+      {
+        "id": "b",
+        "text": "procedur określających geometrię półfabrykatu w kontekście modelu bryłowego obrabianej części"
+      },
+      {
+        "id": "c",
+        "text": "procedur opisujących geometrię modelu 3D w odniesieniu do globalnego układu współrzędnych"
+      },
+      {
+        "id": "d",
+        "text": "poleceń do automatycznej budowy parametrycznego modelu 3D"
+      }
+    ]
+  },
+  {
+    "id": 156,
+    "question": "Polecenie REGION w programie AutoCAD powoduje:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "rozdzielenie obszaru w postaci regionu na linie segmentowe w szkicu podstawowym"
+      },
+      {
+        "id": "b",
+        "text": "możliwość określenia stopnia krzywizny obiektu powierzchniowego"
+      },
+      {
+        "id": "c",
+        "text": "możliwość wyznaczenia obiektów 2D o takich samych powierzchniach"
+      },
+      {
+        "id": "d",
+        "text": "przypisanie powierzchni zamkniętej figurze, ograniczonej spójnymi liniami segmentowymi lub polilinią z możliwością wyznaczenia parametrów fizycznych"
+      }
+    ]
+  },
+  {
+    "id": 157,
+    "question": "BLOKI i system TOOLBOX w programach AutoCAD i SolidWorks są:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "zestawami poleceń do wielokrotnego wykonania operacji na jednym obiekcie bryłowym"
+      },
+      {
+        "id": "b",
+        "text": "bazami gotowych elementów graficznych do wielokrotnego wykorzystania z możliwością dołączania nowych elementów"
+      },
+      {
+        "id": "c",
+        "text": "zestawy części dla wybranego złożenia bez możliwości wielokrotnego kopiowania"
+      },
+      {
+        "id": "d",
+        "text": "elementami związanymi z budową narzędzi bez przypisania rodzaju materiału"
+      }
+    ]
+  },
+  {
+    "id": 158,
+    "question": "Geometria wykreślna. Rzuty Monge’a, położenie punktu w przestrzeni, wysokość punktu to:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "odległość punktu od rzutni Π1"
+      },
+      {
+        "id": "b",
+        "text": "odległość punktu od rzutni Π2"
+      },
+      {
+        "id": "c",
+        "text": "odległość punktu od rzutni Π3"
+      },
+      {
+        "id": "d",
+        "text": "odległość punktu od początku układu współrzędnych"
+      }
+    ]
+  },
+  {
+    "id": 159,
+    "question": "Oznaczenia stosowane w rysunku technicznym",
+    "answers": [
+      {
+        "id": "a",
+        "text": "oznaczenie spoin pachwinowych o różnych przekrojach"
+      },
+      {
+        "id": "b",
+        "text": "zbiorcze oznaczenie chropowatości powierzchni"
+      },
+      {
+        "id": "c",
+        "text": "oznaczenie poziomu twardości"
+      },
+      {
+        "id": "d",
+        "text": "oznaczenie głębokości nawęglenia"
+      }
+    ]
+  },
+  {
+    "id": 160,
+    "question": "Oznaczenia stosowane w rysunku technicznym: a) F 50h11, b) F 30H7/p6",
+    "answers": [
+      {
+        "id": "a",
+        "text": "oznaczenie tolerancji średnicy zewnętrznej przy górnej odchyłce es=0, b. oznaczenie pasowania wciskowego"
+      },
+      {
+        "id": "b",
+        "text": "oznaczenie tolerancji średnicy zewnętrznej przy dolnej odchyłce ei=0, b. oznaczenie pasowania suwliwego"
+      },
+      {
+        "id": "c",
+        "text": "oznaczenie tolerancji średnicy wewnętrznej przy górnej odchyłce es=0, b. oznaczenie pasowania luźnego"
+      },
+      {
+        "id": "d",
+        "text": "oznaczenie tolerancji średnicy wewnętrznej przy dolnej odchyłce ei=0, b. oznaczenie pasowania mieszanego"
+      }
+    ]
+  },
+  {
+    "id": 161,
+    "question": "Podczas projektowania bazy danych, relację wiele-do-wielu uwzględnia się w następujący sposób",
+    "answers": [
+      {
+        "id": "a",
+        "text": "tworzy się dodatkową tabelę i wprowadza dwie relacje jeden-do-jednego"
+      },
+      {
+        "id": "b",
+        "text": "tworzy się dwie dodatkowe tabele i wprowadza trzy relacje jeden-do-jednego"
+      },
+      {
+        "id": "c",
+        "text": "tworzy się dodatkową tabelę i wprowadza dwie relacje jeden-do-wielu"
+      },
+      {
+        "id": "d",
+        "text": "relacja wiele-do wielu w ogóle nie jest rozważana podczas projektowania baz danych"
+      }
+    ]
+  },
+  {
+    "id": 162,
+    "question": "Klucz główny w tabeli relacyjnej bazy danych spełnia następujący warunek",
+    "answers": [
+      {
+        "id": "a",
+        "text": "jest tworzony zawsze przez tylko jedną kolumnę"
+      },
+      {
+        "id": "b",
+        "text": "składa się z jednej lub kilku kolumn"
+      },
+      {
+        "id": "c",
+        "text": "może składać się z K kolumn, gdzie K jest jedną z liczb z następującego ciągu: 1, 2, 4, 8, 16 itd."
+      },
+      {
+        "id": "d",
+        "text": "to kolumna, w której pojawia się wartość NULL"
+      }
+    ]
+  },
+  {
+    "id": 163,
+    "question": "W programie Microsoft ACCESS",
+    "answers": [
+      {
+        "id": "a",
+        "text": "możemy stosować, przy redagowaniu kwerend, instrukcje języka zapytań SQL (ale nie jest to bardzo wygodne)"
+      },
+      {
+        "id": "b",
+        "text": "nigdy nie możemy używać języka zapytań SQL"
+      },
+      {
+        "id": "c",
+        "text": "stosowanie komend SQL jest dopuszczalne, ale tylko do tworzenia nowych tabel"
+      },
+      {
+        "id": "d",
+        "text": "stosowanie komend SQL jest dopuszczalne, ale tylko do tworzenia kluczy złożonych"
+      }
+    ]
+  },
+  {
+    "id": 164,
+    "question": "Program Microsoft ACCEESS",
+    "answers": [
+      {
+        "id": "a",
+        "text": "stanowi część systemu operacyjnego Linux"
+      },
+      {
+        "id": "b",
+        "text": "stanowi komponent pakietu Microsoft Visual Studio"
+      },
+      {
+        "id": "c",
+        "text": "jest inną nazwą programu Microsoft Excel"
+      },
+      {
+        "id": "d",
+        "text": "stanowi komponent pakietu Microsoft Office"
+      }
+    ]
+  },
+  {
+    "id": 165,
+    "question": "Aby wyeliminować tzw. „anomalie przy usuwaniu”",
+    "answers": [
+      {
+        "id": "a",
+        "text": "przeprowadza się denormalizację tabel bazy danych"
+      },
+      {
+        "id": "b",
+        "text": "przeprowadza się proces normalizacji tabel bazy danych"
+      },
+      {
+        "id": "c",
+        "text": "dane do tabel wprowadza się stosując formularze"
+      },
+      {
+        "id": "d",
+        "text": "należy znieść blokadę usunięcia rekordu"
+      }
+    ]
+  },
+  {
+    "id": 166,
+    "question": "„Anomalia przy dodawaniu” to termin używany w teorii relacyjnych baz danych",
+    "answers": [
+      {
+        "id": "a",
+        "text": "odnosi się on do kłopotów wprowadzenia do bazy tekstu (np. czyjegoś nazwiska), gdy rozmiar pola jest zbyt mały"
+      },
+      {
+        "id": "b",
+        "text": "odnosi się on np. do kłopotów dopisania do bazy towaru, którego nikt jeszcze nie zakupił (dotyczy źle znormalizowanej bazy danych np. bazy w postaci jednej zbiorczej tabeli)"
+      },
+      {
+        "id": "c",
+        "text": "odnosi się on do kłopotów przy próbie wykonania operacji dodawania na dwóch zmiennych typu tekstowego, a nie liczbowego"
+      },
+      {
+        "id": "d",
+        "text": "„anomalia przy dodawaniu” to termin równoważny terminowi „anomalia przy aktualizacji”"
+      }
+    ]
+  },
+  {
+    "id": 167,
+    "question": "Pojedyncza instrukcja INSERT (w języku zapytań SQL) jest stosowana w następującym celu",
+    "answers": [
+      {
+        "id": "a",
+        "text": "zaprojektowania struktury nowej tabeli"
+      },
+      {
+        "id": "b",
+        "text": "utworzenia całkiem nowej kolumny w istniejącej tabeli"
+      },
+      {
+        "id": "c",
+        "text": "dodania nowych danych w wierszu do istniejącej tabeli"
+      },
+      {
+        "id": "d",
+        "text": "w języku SQL w ogóle nie istnieje instrukcja INSERT"
+      }
+    ]
+  },
+  {
+    "id": 168,
+    "question": "Instrukcja „SELECT COUNT(*) FROM pracownicy;” powoduje wyświetlenie",
+    "answers": [
+      {
+        "id": "a",
+        "text": "liczby wszystkich tabel w bazie danych ‘pracownicy’"
+      },
+      {
+        "id": "b",
+        "text": "liczby wszystkich kolumn w tabeli ‘pracownicy’"
+      },
+      {
+        "id": "c",
+        "text": "utworzenie klucza głównego w tabeli ‘pracownicy’"
+      },
+      {
+        "id": "d",
+        "text": "liczby wszystkich wierszy w tabeli ‘pracownicy’"
+      }
+    ]
+  },
+  {
+    "id": 169,
+    "question": "Wykrój matrycujący może być wypełniany przez:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "spęczanie, dziurowanie, wyciskanie"
+      },
+      {
+        "id": "b",
+        "text": "spęczanie, dziurowanie, przebijanie"
+      },
+      {
+        "id": "c",
+        "text": "spęczanie, dziurowanie, wycinanie"
+      },
+      {
+        "id": "d",
+        "text": "przebijanie, wyciskanie, spęczanie"
+      }
+    ]
+  },
+  {
+    "id": 170,
+    "question": "Rozkład naprężeń i odkształceń występujących w równomiernie nagrzanym materiale podczas wydłużania zależy od:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "wielkości posuwu względnego, kształtu kowadeł, kształtu materiału wydłużanego"
+      },
+      {
+        "id": "b",
+        "text": "wielkości posuwu bezwzględnego, kształtu kowadeł, kształtu materiału wydłużanego"
+      },
+      {
+        "id": "c",
+        "text": "wielkości posuwu względnego, kształtu kowadeł, stanu naprężenia"
+      },
+      {
+        "id": "d",
+        "text": "wielkości posuwu względnego, kształtu matryc, kształtu materiału wydłużanego"
+      }
+    ]
+  },
+  {
+    "id": 171,
+    "question": "Wymiary rowka na wypływkę oblicza się w zależności od",
+    "answers": [
+      {
+        "id": "a",
+        "text": "wymiarów wykroju i jego kształtu"
+      },
+      {
+        "id": "b",
+        "text": "wymiarów odkuwki i jej kształtu"
+      },
+      {
+        "id": "c",
+        "text": "kinematyki płynięcia materiału w wykroju"
+      },
+      {
+        "id": "d",
+        "text": "stopnia wypełnienia magazynu"
+      }
+    ]
+  },
+  {
+    "id": 172,
+    "question": "Stopień przekucia w procesie wydłużania najczęściej określamy jako",
+    "answers": [
+      {
+        "id": "a",
+        "text": "stosunek pola przekroju przed kuciem do przekroju po kuciu"
+      },
+      {
+        "id": "b",
+        "text": "stosunek średnicy pręta po kuciu do średnicy przed kuciem"
+      },
+      {
+        "id": "c",
+        "text": "stosunek pola przekroju po kuciu do przekroju przed kuciem"
+      },
+      {
+        "id": "d",
+        "text": "stosunek średnicy pręta przed kuciem do średnicy po kuciu"
+      }
+    ]
+  },
+  {
+    "id": 173,
+    "question": "Jaka operacja kształtowania wstępniaka poprzedza walcowanie pierścieni?",
+    "answers": [
+      {
+        "id": "a",
+        "text": "wydłużanie swobodne"
+      },
+      {
+        "id": "b",
+        "text": "walcowanie"
+      },
+      {
+        "id": "c",
+        "text": "dziurowanie"
+      },
+      {
+        "id": "d",
+        "text": "wyciskanie"
+      }
+    ]
+  },
+  {
+    "id": 174,
+    "question": "Proces walcowania, w którym walcowany pręt ulega wydłużeniu w kierunku prostopadłym do wektora prędkości walców, to:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "walcowanie wzdłużne"
+      },
+      {
+        "id": "b",
+        "text": "walcowanie poprzeczne"
+      },
+      {
+        "id": "c",
+        "text": "walcowanie skośne"
+      },
+      {
+        "id": "d",
+        "text": "walcowanie okresowe"
+      }
+    ]
+  },
+  {
+    "id": 175,
+    "question": "Tłoczenie",
+    "answers": [
+      {
+        "id": "a",
+        "text": "obejmuje sposoby przeróbki plastycznej blach, taśm i folii (głównie na zimno), polegające na kształtowaniu ich w przestrzenne wyroby typu: powłok blaszanych, kształtowników giętych – otwartych lub zamkniętych, itp"
+      },
+      {
+        "id": "b",
+        "text": "to jedna z metod przeróbki plastycznej materiałów wykorzystująca ciśnienie płynu w celu modelowania płaskich blach i profili zamkniętych"
+      },
+      {
+        "id": "c",
+        "text": "to podstawowa czynność w procesie tłoczenia, wykonywana przy użyciu jednego przyrządu – bez zmiany narzędzia, gdy zachodzi tylko jedna zmiana kształtu tłoczonego przedmiotu"
+      },
+      {
+        "id": "d",
+        "text": "jest jedną z form przeróbki plastycznej służąca do produkcji drutów, prętów i rur o różnych średnicach"
+      }
+    ]
+  },
+  {
+    "id": 176,
+    "question": "Celem realizacji procesu ciągnienia jest:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "zwiększenie przekroju poprzecznego, zwiększenie dokładności wymiarowej wyrobu, zmiana własności fizycznych (wytrzymałość, plastyczność)"
+      },
+      {
+        "id": "b",
+        "text": "zmniejszenie przekroju poprzecznego, zwiększenie dokładności wymiarowej wyrobu, zmiana własności fizycznych (wytrzymałość, plastyczność)"
+      },
+      {
+        "id": "c",
+        "text": "zmniejszenie przekroju poprzecznego, zmniejszenie dokładności wymiarowej wy-robu, zmiana własności fizycznych (wytrzymałość, plastyczność)"
+      },
+      {
+        "id": "d",
+        "text": "zwiększenie przekroju poprzecznego, zmniejszenie dokładności wymiarowej wyrobu, zmiana własności fizycznych (wytrzymałość, plastyczność)"
+      }
+    ]
+  },
+  {
+    "id": 177,
+    "question": "W procesie kucia swobodnego odkuwki przede wszystkim wywarzanie są z:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "profili walcowanych"
+      },
+      {
+        "id": "b",
+        "text": "półfabrykatów o zmiennym przekroju poprzecznym i wzdłużnym"
+      },
+      {
+        "id": "c",
+        "text": "walcówki"
+      },
+      {
+        "id": "d",
+        "text": "wlewków kuźniczych"
+      }
+    ]
+  },
+  {
+    "id": 178,
+    "question": "W projektowaniu procesu kucia matrycowego na prasach zakłada się, że zapełnienie metalem kolejnego wykroju odbywa się:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "zmienną liczbą uderzeń zależną od finalnego kształtu wyrobu"
+      },
+      {
+        "id": "b",
+        "text": "jednym przemieszczeniem narzędzi"
+      },
+      {
+        "id": "c",
+        "text": "jednym lub dwoma uderzeniami narzędzi – zależnie od wymagań procesu"
+      },
+      {
+        "id": "d",
+        "text": "jednym lub więcej przemieszczeniem narzędzi"
+      }
+    ]
+  },
+  {
+    "id": 179,
+    "question": "Proces przeróbki plastycznej na gorąco stopów żelaza to odkształcanie:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "powyżej temperatury rekrystalizacji"
+      },
+      {
+        "id": "b",
+        "text": "poniżej temperatury rekrystalizacji"
+      },
+      {
+        "id": "c",
+        "text": "przy temperaturze kruchości na niebiesko"
+      },
+      {
+        "id": "d",
+        "text": "powyżej górnego zakresu temperatury odkształcania"
+      }
+    ]
+  },
+  {
+    "id": 180,
+    "question": "Słynne zdanie M. Montessori brzmi:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "Pomóż mi"
+      },
+      {
+        "id": "b",
+        "text": "Pokaż mi jak to zrobić"
+      },
+      {
+        "id": "c",
+        "text": "Pomóż mi to zrobić samemu"
+      },
+      {
+        "id": "d",
+        "text": "Zrób to za mnie"
+      }
+    ]
+  },
+  {
+    "id": 181,
+    "question": "Co było najważniejsze w szkole Waldorfskiej?",
+    "answers": [
+      {
+        "id": "a",
+        "text": "środki dydaktyczne"
+      },
+      {
+        "id": "b",
+        "text": "karność"
+      },
+      {
+        "id": "c",
+        "text": "duchowość"
+      },
+      {
+        "id": "d",
+        "text": "tradycja"
+      }
+    ]
+  },
+  {
+    "id": 182,
+    "question": "Co było najważniejsze w pedagogice personalistycznej?",
+    "answers": [
+      {
+        "id": "a",
+        "text": "rodzice"
+      },
+      {
+        "id": "b",
+        "text": "osoba"
+      },
+      {
+        "id": "c",
+        "text": "nauczyciel"
+      },
+      {
+        "id": "d",
+        "text": "budynek"
+      }
+    ]
+  },
+  {
+    "id": 183,
+    "question": "Kto był najważniejszy w pedagogice Korczaka?",
+    "answers": [
+      {
+        "id": "a",
+        "text": "dziecko"
+      },
+      {
+        "id": "b",
+        "text": "rodzic"
+      },
+      {
+        "id": "c",
+        "text": "nauczyciel"
+      },
+      {
+        "id": "d",
+        "text": "opiekun"
+      }
+    ]
+  },
+  {
+    "id": 184,
+    "question": "Średnie ciepło właściwe w zakresie od temperatury t1 do temperatury t2, wyrażone w J/(kmol·K), jest to",
+    "answers": [
+      {
+        "id": "a",
+        "text": "ilość ciepła w J potrzebna do ogrzania 1 kilomola substancji od temperatury t1 do temperatury t2"
+      },
+      {
+        "id": "b",
+        "text": "ilość ciepła w J potrzebna do ogrzania 1 kilomola substancji o 1 K"
+      },
+      {
+        "id": "c",
+        "text": "średnia arytmetyczna rzeczywistego ciepła właściwego w temperaturze t1 i temperaturze t2"
+      },
+      {
+        "id": "d",
+        "text": "różnica pomiędzy średnim ciepłem właściwym w zakresie od temperatury t0=0oC do temperatury t2 a średnim ciepłem właściwym w zakresie od temperatury t0=0oC do temperatury t1, wyrażonymi w J/(kmol·K)"
+      }
+    ]
+  },
+  {
+    "id": 185,
+    "question": "Skład mieszaniny można podać przy pomocy udziału objętościowego, molowego i masowego. Która z poniższych odpowiedzi jest poprawna?",
+    "answers": [
+      {
+        "id": "a",
+        "text": "Udział masowy jest równy udziałowi molowemu"
+      },
+      {
+        "id": "b",
+        "text": "Udział objętościowy jest równy udziałowi masowemu"
+      },
+      {
+        "id": "c",
+        "text": "Wszystkie udziały są sobie liczbowo równe"
+      },
+      {
+        "id": "d",
+        "text": "Udział molowy jest równy udziałowi objętościowemu"
+      }
+    ]
+  },
+  {
+    "id": 186,
+    "question": "Wymiana ciepła w próżni może zachodzić w wyniku:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "przewodzenia"
+      },
+      {
+        "id": "b",
+        "text": "promieniowania"
+      },
+      {
+        "id": "c",
+        "text": "konwekcji"
+      },
+      {
+        "id": "d",
+        "text": "wszystkich wymienionych powyżej mechanizmów transportu ciepła"
+      }
+    ]
+  },
+  {
+    "id": 187,
+    "question": "Gdy promieniowanie pada na ciało szare o skończonej objętości to:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "część energii jest pochłonięta, a część przepuszczona"
+      },
+      {
+        "id": "b",
+        "text": "cała energia jest pochłonięta przez ciało szare"
+      },
+      {
+        "id": "c",
+        "text": "część energii jest pochłonięta a część odbita"
+      },
+      {
+        "id": "d",
+        "text": "cała energia jest odbita"
+      }
+    ]
+  },
+  {
+    "id": 188,
+    "question": "Transport masy może występować jednocześnie z transportem ciepła w przypadku gdy wymiana ciepła przebiega na drodze:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "promieniowania"
+      },
+      {
+        "id": "b",
+        "text": "przewodzenia"
+      },
+      {
+        "id": "c",
+        "text": "konwekcji"
+      },
+      {
+        "id": "d",
+        "text": "wszystkich trzech mechanizmów wymiany ciepła"
+      }
+    ]
+  },
+  {
+    "id": 189,
+    "question": "Całkowita ilość energii emitowana przez ośrodek na drodze promieniowania odniesiona do jednostki czasu i jednostki powierzchni (natężenie promieniowania) jest:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "proporcjonalna do czwartej potęgi temperatury ośrodka wyrażonej w skali Celsjusza"
+      },
+      {
+        "id": "b",
+        "text": "wprost proporcjonalna (do pierwszej potęgi) temperatury wyrażonej w skali Kelwina"
+      },
+      {
+        "id": "c",
+        "text": "wprost proporcjonalna (do pierwszej potęgi) temperatury wyrażonej w skali Celsjusza"
+      },
+      {
+        "id": "d",
+        "text": "proporcjonalna do czwartej potęgi temperatury ośrodka wyrażonej w skali Kelwina"
+      }
+    ]
+  },
+  {
+    "id": 190,
+    "question": "Z prawa Plancka wynika, że ze wzrostem temperatury ciała doskonale czarnego maksimum wysyłanego przez to ciało monochromatycznego natężenia promieniowania:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "zawsze przesuwa się w kierunku fal o większej długości"
+      },
+      {
+        "id": "b",
+        "text": "może nastąpić zarówno wzrost jak i spadek natężenia promieniowania zależnie od przedziału długości fali"
+      },
+      {
+        "id": "c",
+        "text": "zawsze przesuwa się w kierunku fal o mniejszej długości"
+      },
+      {
+        "id": "d",
+        "text": "nie zależy od długości fali"
+      }
+    ]
+  },
+  {
+    "id": 191,
+    "question": "Co to jest tolerancja?",
+    "answers": [
+      {
+        "id": "a",
+        "text": "Różnica między wymiarem górnym i nominalnym"
+      },
+      {
+        "id": "b",
+        "text": "Różnica między wymiarem rzeczywistym i nominalnym"
+      },
+      {
+        "id": "c",
+        "text": "Różnica między wymiarem nominalnym i dolnym"
+      },
+      {
+        "id": "d",
+        "text": "Różnica między wymiarem górnym i dolnym"
+      }
+    ]
+  },
+  {
+    "id": 192,
+    "question": "Co to jest klasa tolerancji?",
+    "answers": [
+      {
+        "id": "a",
+        "text": "Zbiór tolerancji uznanych jako odpowiadające jednakowemu poziomowi dokładności wyko-nania"
+      },
+      {
+        "id": "b",
+        "text": "Zbiór tolerancji o tej samej wartości pogrupowane w zależności od wymiaru nominalnego"
+      },
+      {
+        "id": "c",
+        "text": "Zbiór tolerancji uznanych za jednakowy poziom dokładności wykonania oddzielnie dla wy-miarów zewnętrznych i wewnętrznych"
+      },
+      {
+        "id": "d",
+        "text": "Zbiór tolerancji pogrupowanych w przedziały (klasy) o stałej, założonej przez konstruktora wartości, np. co 10 mm"
+      }
+    ]
+  },
+  {
+    "id": 193,
+    "question": "Co to jest pasowanie?",
+    "answers": [
+      {
+        "id": "a",
+        "text": "Skojarzenie wymiaru zewnętrznego i wewnętrznego o zbliżonych wartościach nominalnych, ale takich samych odchyłkach"
+      },
+      {
+        "id": "b",
+        "text": "Skojarzenie wymiaru zewnętrznego i wewnętrznego pod warunkiem, że wymiar zewnętrzny jest większy od wymiaru wewnętrznego"
+      },
+      {
+        "id": "c",
+        "text": "Skojarzenie wymiaru zewnętrznego i wewnętrznego o tej samej wartości nominalnej, ale róż-nych odchyłkach"
+      },
+      {
+        "id": "d",
+        "text": "Skojarzenie wymiaru wałka i otworu o dowolnych wymiarach i odchyłkach"
+      }
+    ]
+  },
+  {
+    "id": 194,
+    "question": "Co to jest skok gwintu walcowego?",
+    "answers": [
+      {
+        "id": "a",
+        "text": "Wysokość, na jaką wzniesie się punkt przemieszczający się wzdłuż linii śrubowej po wykona-niu pełnego obrotu"
+      },
+      {
+        "id": "b",
+        "text": "Odległość między grzbietem i bruzdą gwintu"
+      },
+      {
+        "id": "c",
+        "text": "Odległość między grzbietem gwintu śruby i grzbietem gwintu nakrętki"
+      },
+      {
+        "id": "d",
+        "text": "Najmniejsza odległość między grzbietem gwintu śruby i bruzdy nakrętki"
+      }
+    ]
+  },
+  {
+    "id": 195,
+    "question": "Pojęcie „gwint samohamowny” oznacza:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "Gwint, w którym możliwe jest wywołanie obrotu śruby pod wpływem działania siły poosiowej (wciskania śruby)"
+      },
+      {
+        "id": "b",
+        "text": "Gwint, w którym moment tarcia na gwincie podczas napinania śruby jest mniejszy od mo-mentu tarcia podczas jej luzowania"
+      },
+      {
+        "id": "c",
+        "text": "Gwint, w którym kąt wzniosu linii śrubowej jest mniejszy od pozornego kąta tarcia"
+      },
+      {
+        "id": "d",
+        "text": "Gwint, w którym do przykręcenia nakrętki (śruby) wymagany jest coraz większy moment ob-rotowy"
+      }
+    ]
+  },
+  {
+    "id": 196,
+    "question": "Różnica między osią a wałem polega na tym, że:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "Oś na całej długości ma stałą średnicę, a średnica wału może się zmieniać"
+      },
+      {
+        "id": "b",
+        "text": "Oś nie przenosi momentu skręcającego"
+      },
+      {
+        "id": "c",
+        "text": "Wał może być drążony, a oś zawsze jest pełna"
+      },
+      {
+        "id": "d",
+        "text": "Oś jest nieruchoma, a wał wykonuje ruch obrotowy lub wahadłowy"
+      }
+    ]
+  },
+  {
+    "id": 197,
+    "question": "Czy możliwe jest, aby ugięcie wału wywołane nieosiowo osadzonym kołem zanikało podczas zwiększania prędkości obrotowej tego wału?",
+    "answers": [
+      {
+        "id": "a",
+        "text": "Tak, zjawisko takie nazywa się samowyważeniem wału"
+      },
+      {
+        "id": "b",
+        "text": "Nie, gdyż zawsze ze wzrostem prędkości obrotowej wału zwiększa się jego ugięcie"
+      },
+      {
+        "id": "c",
+        "text": "Tak, ale tylko w zakresie prędkości krytycznej wału"
+      },
+      {
+        "id": "d",
+        "text": "Nie, gdyż ugięcie wału nie zależy od jego prędkości obrotowej, tylko od masy osadzonego na nim koła"
+      }
+    ]
+  },
+  {
+    "id": 198,
+    "question": "Czy łożyska promieniowe mogą przenosić również obciążenie wzdłużne?",
+    "answers": [
+      {
+        "id": "a",
+        "text": "Tak, ale tylko wtedy, gdy wypadkowa siły poprzecznej i wzdłużnej jest pod kątem mniejszym od 45 stopniu względem siły promieniowej"
+      },
+      {
+        "id": "b",
+        "text": "Nie mogą, łożyska promieniowe są przeznaczone tylko do przenoszenia obciążeń poprzecz-nych"
+      },
+      {
+        "id": "c",
+        "text": "Tak, nie ma ograniczeń, aby łożysko promieniowe mogło pracować pod obciążeniem wzdłuż-nym"
+      },
+      {
+        "id": "d",
+        "text": "Tak, pod warunkiem że obciążenie wzdłużnie jest co najwyżej równe połowie obciążenia po-przecznego"
+      }
+    ]
+  },
+  {
+    "id": 199,
+    "question": "Co to jest moduł koła zębatego?",
+    "answers": [
+      {
+        "id": "a",
+        "text": "Jest to funkcja opisująca zarys zęba koła zębatego"
+      },
+      {
+        "id": "b",
+        "text": "Jest to iloraz obwodu koła podziałowego i liczby zębów koła zębatego"
+      },
+      {
+        "id": "c",
+        "text": "Jest to iloraz średnicy podziałowej i liczby zębów koła zębatego"
+      },
+      {
+        "id": "d",
+        "text": "Jest to iloraz średnicy zewnętrznej i liczby zębów koła zębatego"
+      }
+    ]
+  },
+  {
+    "id": 200,
+    "question": "Co to jest punkt toczny?",
+    "answers": [
+      {
+        "id": "a",
+        "text": "Jest to punkt na powierzchni zębów w którym zęby toczą się po sobie a nie ślizgają"
+      },
+      {
+        "id": "b",
+        "text": "Jest to punkt na powierzchni zębów, w którym następuje pierwszy kontakt między zębami obracających się kół zębatych"
+      },
+      {
+        "id": "c",
+        "text": "Jest to punkt na powierzchni zębów, w którym podczas obrotu kół zęby przestają się kontak-tować"
+      },
+      {
+        "id": "d",
+        "text": "Jest to każdy punkt, w którym zęby współpracujących kół zębatych kontaktują się ze sobą"
+      }
+    ]
+  },
+  {
+    "id": 201,
+    "question": "Obróbka wiórowa wykonywana jest narzędziami:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "o nieokreślonej geometrii"
+      },
+      {
+        "id": "b",
+        "text": "o nieznanej liczbie ostrzy"
+      },
+      {
+        "id": "c",
+        "text": "o określonej liczbie ostrzy"
+      },
+      {
+        "id": "d",
+        "text": "nie można określić"
+      }
+    ]
+  },
+  {
+    "id": 202,
+    "question": "W skład budowy noża tokarskiego wchodzi",
+    "answers": [
+      {
+        "id": "a",
+        "text": "powierzchnia przylegania"
+      },
+      {
+        "id": "b",
+        "text": "czubek noża"
+      },
+      {
+        "id": "c",
+        "text": "pomocnicza powierzchnia przylegania"
+      },
+      {
+        "id": "d",
+        "text": "powierzchnia przyłożenia"
+      }
+    ]
+  },
+  {
+    "id": 203,
+    "question": "Wióry ze względu na bodowe można podzielić na:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "schodkowe, wstążkowe, elementowe"
+      },
+      {
+        "id": "b",
+        "text": "schodkowe, wstęgowe, elementarne"
+      },
+      {
+        "id": "c",
+        "text": "schodkowe, wstęgowe, elementowe"
+      },
+      {
+        "id": "d",
+        "text": "schodkowe, wstążkowe, elementarne"
+      }
+    ]
+  },
+  {
+    "id": 204,
+    "question": "Zjawisko narostu powoduje",
+    "answers": [
+      {
+        "id": "a",
+        "text": "polepszenie skrawania"
+      },
+      {
+        "id": "b",
+        "text": "zmniejszenie odkształceń podczas procesu skrawania"
+      },
+      {
+        "id": "c",
+        "text": "częściowo przejęcie pracy ostrza"
+      },
+      {
+        "id": "d",
+        "text": "skrócenie ostrza"
+      }
+    ]
+  },
+  {
+    "id": 205,
+    "question": "W skład budowy tokarki wchodzą:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "imadło, konik, wrzeciennik, łóżko"
+      },
+      {
+        "id": "b",
+        "text": "wrzeciennik, imak, konik, łoże"
+      },
+      {
+        "id": "c",
+        "text": "wrzeciennik, imak, kucyk, łoże"
+      },
+      {
+        "id": "d",
+        "text": "wrzeciennik, imadło, konik, łoże"
+      }
+    ]
+  },
+  {
+    "id": 206,
+    "question": "Dłutowanie to proces zaliczany do:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "strugania"
+      },
+      {
+        "id": "b",
+        "text": "wiercenia"
+      },
+      {
+        "id": "c",
+        "text": "toczenia"
+      },
+      {
+        "id": "d",
+        "text": "frezowania"
+      }
+    ]
+  },
+  {
+    "id": 207,
+    "question": "Powiercanie to:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "rodzaj obróbki wiórowej, którego celem jest poprawienie dokładności wymiarowo-kształtowej"
+      },
+      {
+        "id": "b",
+        "text": "powiększenie średnicy istniejącego otworu"
+      },
+      {
+        "id": "c",
+        "text": "wykonanie otworu w pełnym materiale przy użyciu wiertła"
+      },
+      {
+        "id": "d",
+        "text": "powiększenie średnicy otworu na pewnej jego głębokości"
+      }
+    ]
+  },
+  {
+    "id": 208,
+    "question": "Frezowanie wykonujemy narzędziem:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "wieloostrzowym"
+      },
+      {
+        "id": "b",
+        "text": "jednoostrzowym"
+      },
+      {
+        "id": "c",
+        "text": "o nieograniczonej liczbie ostrzy"
+      },
+      {
+        "id": "d",
+        "text": "dwuostrzowym"
+      }
+    ]
+  },
+  {
+    "id": 209,
+    "question": "Honowanie to:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "nanoszenie warstw ochronnych"
+      },
+      {
+        "id": "b",
+        "text": "zdobienie powierzchni"
+      },
+      {
+        "id": "c",
+        "text": "gładzenie powierzchni"
+      },
+      {
+        "id": "d",
+        "text": "nanoszenie oznaczeń na materiał"
+      }
+    ]
+  },
+  {
+    "id": 210,
+    "question": "Metoda spawania 141 to:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "spawanie elektrodą nietopliwą w osłonie gazów obojętnych"
+      },
+      {
+        "id": "b",
+        "text": "spawanie elektrodą topliwą w osłonie gazów aktywnych"
+      },
+      {
+        "id": "c",
+        "text": "spawanie elektrodą topliwą w osłonie gazów obojętnych"
+      },
+      {
+        "id": "d",
+        "text": "spawanie elektrodą nietopliwą w osłonie gazów aktywnych"
+      }
+    ]
+  },
+  {
+    "id": 211,
+    "question": "Spośród pozycji spawania można wyróżnić pozycje:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "boczną, ścienną, podolną, pułapową"
+      },
+      {
+        "id": "b",
+        "text": "naboczna, naścienną, podolna, pułapowa"
+      },
+      {
+        "id": "c",
+        "text": "naboczną, ścienną, dolną, pułapowa"
+      },
+      {
+        "id": "d",
+        "text": "boczną, naścienną, dolna, pułapowa"
+      }
+    ]
+  },
+  {
+    "id": 212,
+    "question": "Wymagania stawiane lutom w procesie lutowania:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "bardzo duży zakres krystalizacji lutu"
+      },
+      {
+        "id": "b",
+        "text": "temperatura topnienia niższa od temperatury topnienia łączonych materiałów"
+      },
+      {
+        "id": "c",
+        "text": "słaba lejność (rzadkopłynność) roztopionego lutu"
+      },
+      {
+        "id": "d",
+        "text": "brak powinowactwa chemicznego lutu i łączonych materiałów"
+      }
+    ]
+  },
+  {
+    "id": 213,
+    "question": "Gdzie wydziela się najwięcej ciepła podczas zgrzewania oporowego punktowego:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "na styku materiał-materiał"
+      },
+      {
+        "id": "b",
+        "text": "na styku elektroda materiał"
+      },
+      {
+        "id": "c",
+        "text": "w materiale zgrzewanym"
+      },
+      {
+        "id": "d",
+        "text": "na elektrodzie"
+      }
+    ]
+  },
+  {
+    "id": 214,
+    "question": "Podstawową topologią sieciową w sieciach lokalnych opartych na skrętce jest",
+    "answers": [
+      {
+        "id": "a",
+        "text": "Topologia szyny"
+      },
+      {
+        "id": "b",
+        "text": "Topologia pierścienia"
+      },
+      {
+        "id": "c",
+        "text": "Topologia gwiazdy"
+      },
+      {
+        "id": "d",
+        "text": "Topologia siatki"
+      }
+    ]
+  },
+  {
+    "id": 215,
+    "question": "Maska w adresowaniu IP służy do",
+    "answers": [
+      {
+        "id": "a",
+        "text": "Obliczania numeru sieci i adresu rozgłoszeniowego na podstawie adresu IP"
+      },
+      {
+        "id": "b",
+        "text": "Ustalania adresu bramy domyślnej"
+      },
+      {
+        "id": "c",
+        "text": "Określenia klasy adresowej"
+      },
+      {
+        "id": "d",
+        "text": "Maskowania adresu z puli prywatnej na adres z puli publicznej"
+      }
+    ]
+  },
+  {
+    "id": 216,
+    "question": "Trójstronne potwierdzenie jest używane w protokole",
+    "answers": [
+      {
+        "id": "a",
+        "text": "TCP do potwierdzenia odebrania pakietu z danymi"
+      },
+      {
+        "id": "b",
+        "text": "TCP do nawiązania sesji"
+      },
+      {
+        "id": "c",
+        "text": "UDP do nawiązania połączenia"
+      },
+      {
+        "id": "d",
+        "text": "IP no nawiązania połączenie"
+      }
+    ]
+  },
+  {
+    "id": 217,
+    "question": "TTL w pakiecie IP",
+    "answers": [
+      {
+        "id": "a",
+        "text": "Określa czas życia pakietu w sekundach lub hopach"
+      },
+      {
+        "id": "b",
+        "text": "Określa czas przechowywania pakietu w pamięci podręcznej (cache)"
+      },
+      {
+        "id": "c",
+        "text": "Jest pozostałością starszych wersji TCP/IP i to pole nie jest obecnie używane"
+      },
+      {
+        "id": "d",
+        "text": "Zawiera potwierdzenie przesłania pakietu"
+      }
+    ]
+  },
+  {
+    "id": 218,
+    "question": "Protokół ARP",
+    "answers": [
+      {
+        "id": "a",
+        "text": "Służy do tłumaczenia nazwy domenowej na adres IP"
+      },
+      {
+        "id": "b",
+        "text": "Służy do odnajdywania domyślnej bramy w sieci IP"
+      },
+      {
+        "id": "c",
+        "text": "Służy do autokonfiguracji urządzeń sieciowych"
+      },
+      {
+        "id": "d",
+        "text": "Służy do tłumaczenia adresów MAC na adresy IP"
+      }
+    ]
+  },
+  {
+    "id": 219,
+    "question": "Protokół ICMP jest to",
+    "answers": [
+      {
+        "id": "a",
+        "text": "Protokół kontrolny wspomagający pracę protokołu IP"
+      },
+      {
+        "id": "b",
+        "text": "Protokół pozwalający na identyfikację trasy routowania"
+      },
+      {
+        "id": "c",
+        "text": "Protokół pozwalający na mapowanie adresów MAC na adresy IP"
+      },
+      {
+        "id": "d",
+        "text": "Protokół wykorzystywany przez narzędzie nslookup"
+      }
+    ]
+  },
+  {
+    "id": 220,
+    "question": "Trójstronne potwierdzenie składa się z sekwencji;",
+    "answers": [
+      {
+        "id": "a",
+        "text": "SYN+RST, RST, ACK"
+      },
+      {
+        "id": "b",
+        "text": "SYN, ACK , RST"
+      },
+      {
+        "id": "c",
+        "text": "SYN, SYN+ACK, ACK"
+      },
+      {
+        "id": "d",
+        "text": "SYN, ACK, SYN"
+      }
+    ]
+  },
+  {
+    "id": 221,
+    "question": "Protokoły stosowane w transmisji poczty elektronicznej to:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "POP3 i SMTP do odbierania, IMAP – do wysyłania"
+      },
+      {
+        "id": "b",
+        "text": "IMAP i POP3 do odbierania, SMTP do wysyłania"
+      },
+      {
+        "id": "c",
+        "text": "POP3 do odbierania, SMTP i IMAP do wysyłania"
+      },
+      {
+        "id": "d",
+        "text": "SMTP do odbierania, POP3 i IMAP do wysyłania"
+      }
+    ]
+  },
+  {
+    "id": 222,
+    "question": "Protokół FTP:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "Posiada wewnętrzne mechanizmy zapewniające szyfrowanie danych"
+      },
+      {
+        "id": "b",
+        "text": "Wykorzystuje szybką transmisję za pomocą protokołu UDP"
+      },
+      {
+        "id": "c",
+        "text": "Wymaga dwóch połączeń między odbiorcą a nadawcą"
+      },
+      {
+        "id": "d",
+        "text": "Jest rozwinięciem protokołu HTTP wykorzystywanym do transmisji plików"
+      }
+    ]
+  },
+  {
+    "id": 223,
+    "question": "Routery co do zasady",
+    "answers": [
+      {
+        "id": "a",
+        "text": "Analizują segmenty danych tylko do poziomu warstwy fizycznej"
+      },
+      {
+        "id": "b",
+        "text": "Analizują segmenty danych tylko do poziomy warstwy sieciowej"
+      },
+      {
+        "id": "c",
+        "text": "Analizują segmenty danych tylko do poziomu warstwy łącza danych"
+      },
+      {
+        "id": "d",
+        "text": "Analizują segmenty danych tylko do poziomu warstwy transportowej"
+      }
+    ]
+  },
+  {
+    "id": 224,
+    "question": "Grafika wektorowa:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "zapis obrazu jest oparty na formułach matematycznych"
+      },
+      {
+        "id": "b",
+        "text": "obraz tworzony za pomocą siatki pikseli o odpowiednich kolorach,"
+      },
+      {
+        "id": "c",
+        "text": "nie jest skalowalna bez utraty jakości,"
+      },
+      {
+        "id": "d",
+        "text": "używa formatów plików BMP, JPG, PNG"
+      }
+    ]
+  },
+  {
+    "id": 225,
+    "question": "Grafika rastrowa:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "jest skalowalna bez utraty jakości,"
+      },
+      {
+        "id": "b",
+        "text": "obraz tworzony za pomocą siatki pikseli o odpowiednich kolorach,"
+      },
+      {
+        "id": "c",
+        "text": "zapis obrazu oparty na formułach matematycznych,"
+      },
+      {
+        "id": "d",
+        "text": "używa formatów plików DXF, DWF, DWG, SVG"
+      }
+    ]
+  },
+  {
+    "id": 226,
+    "question": "Projekcja stereoskopowa aktywna wykorzystuje:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "efekt polaryzacji światła"
+      },
+      {
+        "id": "b",
+        "text": "efekt załamania światła"
+      },
+      {
+        "id": "c",
+        "text": "efekt rozproszenia światła"
+      },
+      {
+        "id": "d",
+        "text": "okulary migawkowe"
+      }
+    ]
+  },
+  {
+    "id": 227,
+    "question": "Modele w grafice 3D są zapisywane za pomocą:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "siatki wielokątów opartej na tekselach"
+      },
+      {
+        "id": "b",
+        "text": "siatki wielokątów opartej na pikelach"
+      },
+      {
+        "id": "c",
+        "text": "siatki wielokątów opartej na gridach"
+      },
+      {
+        "id": "d",
+        "text": "siatki wielokątów opartej na verteksach"
+      }
+    ]
+  },
+  {
+    "id": 228,
+    "question": "Czy wszystkie barwy modelu RGB można zreprodukować w modelu CMYK",
+    "answers": [
+      {
+        "id": "a",
+        "text": "nie"
+      },
+      {
+        "id": "b",
+        "text": "w zależności od papieru"
+      },
+      {
+        "id": "c",
+        "text": "tak"
+      },
+      {
+        "id": "d",
+        "text": "w zależności od drukarki"
+      }
+    ]
+  },
+  {
+    "id": 229,
+    "question": "Mapowanie normalnych to:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "technika przemieszczania vertexów"
+      },
+      {
+        "id": "b",
+        "text": "technika przemieszczania pikseli"
+      },
+      {
+        "id": "c",
+        "text": "technika wykorzystywanych do mapowania nierówności"
+      },
+      {
+        "id": "d",
+        "text": "technika generowania obiektów"
+      }
+    ]
+  },
+  {
+    "id": 230,
+    "question": "Grafika nieinterakcyjna:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "program na bieżąco uaktualnia obraz w zależności od działań użytkownika"
+      },
+      {
+        "id": "b",
+        "text": "wykorzystuje się sprzężenie zwrotne z kontrolerów"
+      },
+      {
+        "id": "c",
+        "text": "czas odświeżenia obrazu nie ma znaczenia"
+      },
+      {
+        "id": "d",
+        "text": "użytkownik ma wpływ na bieżąco na generowany obraz"
+      }
+    ]
+  },
+  {
+    "id": 231,
+    "question": "W grafice interakcyjnej:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "program na bieżąco uaktualnia obraz w zależności od działań użytkownika"
+      },
+      {
+        "id": "b",
+        "text": "czas odświeżenia obrazu nie ma znaczenia"
+      },
+      {
+        "id": "c",
+        "text": "nie akceptuje się i nie stosuje uproszczonych metod rysowania obiektów,"
+      },
+      {
+        "id": "d",
+        "text": "użytkownik nie ma wpływu na bieżąco na generowany obraz"
+      }
+    ]
+  },
+  {
+    "id": 232,
+    "question": "W grafice czasu rzeczywistego:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "klatki generowane są na tyle szybko (kilkadziesiąt razy na sekundę), że obserwator nie odczuwa opóźnień"
+      },
+      {
+        "id": "b",
+        "text": "szybkość generowania nie ma znaczenia"
+      },
+      {
+        "id": "c",
+        "text": "mogą występować małe opóźnienia"
+      },
+      {
+        "id": "d",
+        "text": "nie można stosować uproszczeń"
+      }
+    ]
+  },
+  {
+    "id": 233,
+    "question": "Piksel to:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "najmniejszy, niepodzielny element tekstury"
+      },
+      {
+        "id": "b",
+        "text": "punkt w przestrzeni"
+      },
+      {
+        "id": "c",
+        "text": "obiekt w przestrzeni o pewnej objętości"
+      },
+      {
+        "id": "d",
+        "text": "najmniejszy, niepodzielny element obrazu o określonej barwie"
+      }
+    ]
+  },
+  {
+    "id": 234,
+    "question": "Głębia bitowa koloru:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "to rozmycie kolorów"
+      },
+      {
+        "id": "b",
+        "text": "to miara liczby usuwanych bitów w celu zapisu koloru dla jednego piksela obrazu"
+      },
+      {
+        "id": "c",
+        "text": "to miara liczby bitów przechowujących informację dla jednego piksela obrazu"
+      },
+      {
+        "id": "d",
+        "text": "decyduje o rozmyciu koloru"
+      }
+    ]
+  },
+  {
+    "id": 235,
+    "question": "Czy program Gimp udostępnia pracę na warstwach?",
+    "answers": [
+      {
+        "id": "a",
+        "text": "tak"
+      },
+      {
+        "id": "b",
+        "text": "nie"
+      },
+      {
+        "id": "c",
+        "text": "w zależności od obrazu rastrowego"
+      },
+      {
+        "id": "d",
+        "text": "w zależności od obrazu wektorowego"
+      }
+    ]
+  },
+  {
+    "id": 236,
+    "question": "Czy możliwe jest wykonanie wektoryzacji obrazu rastrowego",
+    "answers": [
+      {
+        "id": "a",
+        "text": "tak"
+      },
+      {
+        "id": "b",
+        "text": "nie"
+      },
+      {
+        "id": "c",
+        "text": "czasami"
+      },
+      {
+        "id": "d",
+        "text": "w zależności od obrazu wektorowego"
+      }
+    ]
+  },
+  {
+    "id": 237,
+    "question": "Co to jest Gcode",
+    "answers": [
+      {
+        "id": "a",
+        "text": "znormalizowany język zapisu poleceń dla urządzeń CNC (np. obrabiarek)"
+      },
+      {
+        "id": "b",
+        "text": "sposób zapisu koloru"
+      },
+      {
+        "id": "c",
+        "text": "sposób kodowania światła"
+      },
+      {
+        "id": "d",
+        "text": "sposób kodowania dźwięku"
+      }
+    ]
+  },
+  {
+    "id": 238,
+    "question": "Co to jest kadrowanie obrazu?",
+    "answers": [
+      {
+        "id": "a",
+        "text": "to proces dodawania części innych fotografii"
+      },
+      {
+        "id": "b",
+        "text": "to proces usuwania centralnej części fotografii"
+      },
+      {
+        "id": "c",
+        "text": "Co to jest kadrowanie obrazu?"
+      },
+      {
+        "id": "d",
+        "text": "to proces usuwania fragmentów fotografii w celu skupienia uwagi na jego części lub poprawienia kompozycji e) to proces wykonywania fotografii"
+      }
+    ]
+  },
+  {
+    "id": 239,
+    "question": "Proces konwertorowy LD to proces, w którym przez lancę od góry dmuchany jest",
+    "answers": [
+      {
+        "id": "a",
+        "text": "azot"
+      },
+      {
+        "id": "b",
+        "text": "węglowodory"
+      },
+      {
+        "id": "c",
+        "text": "tlen"
+      },
+      {
+        "id": "d",
+        "text": "argon"
+      }
+    ]
+  },
+  {
+    "id": 240,
+    "question": "Udział procesu EAF w światowej produkcji stali determinuje przede wszystkim",
+    "answers": [
+      {
+        "id": "a",
+        "text": "bilans złomu"
+      },
+      {
+        "id": "b",
+        "text": "dostępność rud żelaza"
+      },
+      {
+        "id": "c",
+        "text": "koszty inwestycji"
+      },
+      {
+        "id": "d",
+        "text": "cena energii elektrycznej"
+      }
+    ]
+  },
+  {
+    "id": 241,
+    "question": "Najwyższy udział w światowej produkcji stali ma proces",
+    "answers": [
+      {
+        "id": "a",
+        "text": "w piecu łukowym"
+      },
+      {
+        "id": "b",
+        "text": "martenowski"
+      },
+      {
+        "id": "c",
+        "text": "tandem"
+      },
+      {
+        "id": "d",
+        "text": "konwertorowy"
+      }
+    ]
+  },
+  {
+    "id": 242,
+    "question": "Wdrożenie metody ciągłego odlewania stali spowodowało",
+    "answers": [
+      {
+        "id": "a",
+        "text": "zwiększenie uzysku półwyrobów"
+      },
+      {
+        "id": "b",
+        "text": "nieznaczne wydłużenie ciągu technologicznego"
+      },
+      {
+        "id": "c",
+        "text": "istotne wydłużenie ciągu technologicznego"
+      },
+      {
+        "id": "d",
+        "text": "zwiększenie zużycia materiałów ogniotrwałych"
+      }
+    ]
+  },
+  {
+    "id": 243,
+    "question": "Który etap ciągu technologicznego wytwarzania metalu nie występuje podczas produkcji stali?",
+    "answers": [
+      {
+        "id": "a",
+        "text": "przygotowanie wsadu"
+      },
+      {
+        "id": "b",
+        "text": "wytworzenie kamienia metalowego"
+      },
+      {
+        "id": "c",
+        "text": "rafinacja metalu"
+      },
+      {
+        "id": "d",
+        "text": "wytworzenie metalu zanieczyszczonego"
+      }
+    ]
+  },
+  {
+    "id": 244,
+    "question": "Teoretycznie najbogatszą rudą żelaza jest",
+    "answers": [
+      {
+        "id": "a",
+        "text": "magnetyt"
+      },
+      {
+        "id": "b",
+        "text": "limonit"
+      },
+      {
+        "id": "c",
+        "text": "hematyt"
+      },
+      {
+        "id": "d",
+        "text": "syderyt"
+      }
+    ]
+  },
+  {
+    "id": 245,
+    "question": "Źródłem energii w procesie konwertorowym jest",
+    "answers": [
+      {
+        "id": "a",
+        "text": "brak zewnętrznego źródła energii"
+      },
+      {
+        "id": "b",
+        "text": "energia elektryczna"
+      },
+      {
+        "id": "c",
+        "text": "mazut"
+      },
+      {
+        "id": "d",
+        "text": "gaz ziemny"
+      }
+    ]
+  },
+  {
+    "id": 246,
+    "question": "Co rozumiemy pod nazwą wytrzymałość konstrukcji?",
+    "answers": [
+      {
+        "id": "a",
+        "text": "Wytrzymałość to zdolność do przeniesienia obciążeń wewnętrznych przez całą konstrukcje i przez jej elementy składowe."
+      },
+      {
+        "id": "b",
+        "text": "Wytrzymałość to zdolność do przeniesienia obciążeń zewnętrznych przez całą konstrukcje i przez jej elementy składowe."
+      },
+      {
+        "id": "c",
+        "text": "Wytrzymałość to zdolność do przenoszenia bez zniszczenia obciążeń zewnętrznych przez całą konstrukcje i przez jej elementy składowe."
+      },
+      {
+        "id": "d",
+        "text": "Wytrzymałość to zdolność do przeniesienia bez zniszczenia obciążeń zewnętrznych przez elementy składowe konstrukcji."
+      }
+    ]
+  },
+  {
+    "id": 247,
+    "question": "Co rozumiemy pod pojęciem sztywności konstrukcji lub elementu maszyny?",
+    "answers": [
+      {
+        "id": "a",
+        "text": "Sztywność urządzenia, konstrukcji lub elementu maszyny to zachowanie początkowych wymiarów."
+      },
+      {
+        "id": "b",
+        "text": "Sztywność urządzenia, konstrukcji lub elementu maszyny to zachowanie początkowego kształtu."
+      },
+      {
+        "id": "c",
+        "text": "Sztywność konstrukcji lub elementu maszyny to zachowanie początkowych wymiarów i kształtu."
+      },
+      {
+        "id": "d",
+        "text": "Sztywność urządzenia, konstrukcji lub elementu maszyny to brak wyboczenia."
+      }
+    ]
+  },
+  {
+    "id": 248,
+    "question": "Co to są siły czynne?",
+    "answers": [
+      {
+        "id": "a",
+        "text": "Siły czynne przyłożone na powierzchni pochodzące od obciążeń zewnętrznych oraz przyłożone wewnątrz np. siła grawitacji."
+      },
+      {
+        "id": "b",
+        "text": "Siły czynne przyłożone na powierzchni pochodzące od obciążeń zewnętrznych oraz przyłożone wewnątrz np. siły bierne."
+      },
+      {
+        "id": "c",
+        "text": "Siły czynne przyłożone na powierzchni pochodzące od obciążeń wewnętrznych."
+      },
+      {
+        "id": "d",
+        "text": "Siły czynne przyłożone na powierzchni pochodzące od obciążeń zewnętrznych oraz reakcji w miejscu Naprężenie zredukowane w płaskim stanie naprężeń według hipotezy największej energii odkształcenia postaciowego wyrażamy wzorem:styku ciała z podłożem."
+      }
+    ]
+  },
+  {
+    "id": 249,
+    "question": "Naprężenie dopuszczalne k określamy na podstawie wzoru:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "𝑘=𝜎𝑛𝑖𝑒𝑏𝑒𝑧𝑝𝑖𝑒𝑐𝑧𝑛𝑒𝑛; gdzie n-współczynnik bezpieczeństwa i n ≥ 1"
+      },
+      {
+        "id": "b",
+        "text": "𝑘=𝜎𝑛𝑖𝑒𝑏𝑒𝑧𝑝𝑖𝑒𝑐𝑧𝑛𝑒𝑛; gdzie n-współczynnik bezpieczeństwa i n ≤ 1"
+      },
+      {
+        "id": "c",
+        "text": "𝑘=𝑛 𝜎𝑛𝑖𝑒𝑏𝑒𝑧𝑝𝑖𝑒𝑐𝑧𝑛𝑒; gdzie n-współczynnik bezpieczeństwa i n ≥ 1"
+      },
+      {
+        "id": "d",
+        "text": "𝑘=𝑅𝑚; gdzie Rm -wytrzymałość na rozciąganie"
+      }
+    ]
+  },
+  {
+    "id": 250,
+    "question": "Co nazywamy wytrzymałością na rozciąganie?",
+    "answers": [
+      {
+        "id": "a",
+        "text": "Podstawową wielkością opisującą własności mechaniczne materiałów jest wytrzymałość na rozciąganie Rm, czyli naprężenie normalne w próbce obliczone, jako stosunek największej siły rozciągającej Fm, uzyskanej podczas przeprowadzania próby, do pola powierzchni przekroju początkowego próbki S0."
+      },
+      {
+        "id": "b",
+        "text": "Podstawową wielkością opisującą własności mechaniczne materiałów jest wytrzymałość na rozciąganie Rm, czyli naprężenie normalne w próbce obliczone, jako stosunek największej siły rozciągającej Fm, uzyskanej podczas przeprowadzania próby, do chwilowego pola powierzchni przekroju S"
+      },
+      {
+        "id": "c",
+        "text": "Podstawową wielkością opisującą własności mechaniczne materiałów jest wytrzymałość na rozciąganie Re, czyli naprężenie styczne w próbce obliczone, jako stosunek największej siły rozciągającej Fm, uzyskanej podczas przeprowadzania próby, do chwilowego pola powierzchni przekroju S."
+      },
+      {
+        "id": "d",
+        "text": "Podstawową wielkością opisującą własności mechaniczne materiałów jest wytrzymałość na rozciąganie Ru, czyli naprężenie normalne w próbce obliczone, jako stosunek siły zrywającej Fu, uzyskanej podczas przeprowadzania próby, do chwilowego pola powierzchni przekroju S."
+      }
+    ]
+  },
+  {
+    "id": 251,
+    "question": "Do czego służy tensometr i co możemy zmierzyć za jego pomocą?",
+    "answers": [
+      {
+        "id": "a",
+        "text": "Tensometr jest to czujnik, służący do pomiaru odkształcenia."
+      },
+      {
+        "id": "b",
+        "text": "Tensometr jest to czujnik, służący do pomiaru naprężenia. W praktyce pomiar tensometryczny polega na pomiarze odkształcenia i obliczeniu naprężenia w oparciu o przyjęty związek fizyczny (np. prawo Hooke’a)."
+      },
+      {
+        "id": "c",
+        "text": "Tensometr jest to czujnik, służący do pomiaru odkształcenia. W praktyce pomiar tensometryczny polega na pomiarze naprężenia i obliczeniu odkształcenia w oparciu o przyjęty związek fizyczny (np. prawo Hooke’a)."
+      },
+      {
+        "id": "d",
+        "text": "Tensometr jest to czujnik, służący do pomiaru rozkładu temperatur."
+      }
+    ]
+  },
+  {
+    "id": 252,
+    "question": "Co to jest naprężenie zredukowane?",
+    "answers": [
+      {
+        "id": "a",
+        "text": "Naprężenie zredukowane jest to naprężenie normalne zastępcze, które może być porównywane z wytrzymałością materiału w stanie jednoosiowego rozciągania. Naprężenie zredukowane zależy od wszystkich składowych tensora naprężeń."
+      },
+      {
+        "id": "b",
+        "text": "Naprężenie zredukowane jest to naprężenie normalne zastępcze, które może być porównywane z wytrzymałością materiału w stanie trójpunktowego zginania. Naprężenie zredukowane zależy od wszystkich składowych tensora naprężeń"
+      },
+      {
+        "id": "c",
+        "text": "Naprężenie zredukowane jest to naprężenie styczne, które może być porównywane z wytrzymałością materiału w stanie jednoosiowego rozciągania."
+      },
+      {
+        "id": "d",
+        "text": "Naprężenie zredukowane jest to naprężenie normalne zastępcze, które może być porównywane z wytrzymałością materiału w stanie jednoosiowego ściskania. Naprężenie zredukowane nie zależy od wszystkich składowych tensora naprężeń."
+      }
+    ]
+  },
+  {
+    "id": 253,
+    "question": "Co rozumiemy pod pojęciem ścinania?",
+    "answers": [
+      {
+        "id": "a",
+        "text": "Przez ścinanie rozumie się ogólnie przypadek wytrzymałościowy, w którym układ sił zewnętrznych da się sprowadzić do siły normalnej F działającej w przekroju poprzecznym elementu"
+      },
+      {
+        "id": "b",
+        "text": "Przez ścinanie rozumie się ogólnie przypadek wytrzymałościowy, w którym układ sił zewnętrznych da się sprowadzić do siły normalnej F działającej wzdłuż osi elementu."
+      },
+      {
+        "id": "c",
+        "text": "Przez ścinanie rozumie się ogólnie przypadek wytrzymałościowy, w którym układ sił wewnętrznych da się sprowadzić do siły tnącej T działającej w przekroju poprzecznym elementu."
+      },
+      {
+        "id": "d",
+        "text": "Przez ścinanie rozumie się ogólnie przypadek wytrzymałościowy, w którym układ sił zewnętrznych da się sprowadzić do siły tnącej T działającej w przekroju poprzecznym elementu."
+      }
+    ]
+  },
+  {
+    "id": 254,
+    "question": "Metody nauczania oparte na słowie to:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "kierowanie korzystaniem z materiałów źródłowych, wykład, pogadanka"
+      },
+      {
+        "id": "b",
+        "text": "kierowanie korzystaniem z materiałów źródłowych, wykład, burza mózgów"
+      },
+      {
+        "id": "c",
+        "text": "wykład, ćwiczenia przedmiotowe, pogadanka"
+      },
+      {
+        "id": "d",
+        "text": "pokaz, wykład, dyskusja"
+      }
+    ]
+  },
+  {
+    "id": 255,
+    "question": "Wskaż stwierdzenie, które nie dotyczy metody pogadanka:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "to dialog pomiędzy uczniami a nauczycielem"
+      },
+      {
+        "id": "b",
+        "text": "ma na celu wiązanie tematu lekcji z doświadczeniem uczniów"
+      },
+      {
+        "id": "c",
+        "text": "to dialog pomiędzy uczniami"
+      },
+      {
+        "id": "d",
+        "text": "może być wstępna lub kontrolna"
+      }
+    ]
+  },
+  {
+    "id": 256,
+    "question": "Aby dobrze przygotować wykład należy:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "wysłać uczniom materiały, aby sami zapoznali się z tematyką"
+      },
+      {
+        "id": "b",
+        "text": "ustalić cele maksymalne wykładu"
+      },
+      {
+        "id": "c",
+        "text": "zaplanować treści wypoczynkowe"
+      },
+      {
+        "id": "d",
+        "text": "przeprowadzić wstępny sprawdzian wiedzy uczniów"
+      }
+    ]
+  },
+  {
+    "id": 257,
+    "question": "Wskaż stwierdzenie, które nie odnosi się do dyskusji",
+    "answers": [
+      {
+        "id": "a",
+        "text": "oddziałuje na poglądy, przekonania, a czasem postawy"
+      },
+      {
+        "id": "b",
+        "text": "zwykle nie ma konkretnego celu"
+      },
+      {
+        "id": "c",
+        "text": "stanowi ćwiczenie poprawnego wyrażania się"
+      },
+      {
+        "id": "d",
+        "text": "wymaga od nauczyciela przygotowania"
+      }
+    ]
+  },
+  {
+    "id": 258,
+    "question": "Celem ćwiczeń przedmiotowych nie może być:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "praktyczna realizacja konkretnego projektu"
+      },
+      {
+        "id": "b",
+        "text": "zdobywanie umiejętności, sprawności i nawyków"
+      },
+      {
+        "id": "c",
+        "text": "utrwalanie posiadanych umiejętności"
+      },
+      {
+        "id": "d",
+        "text": "przeprowadzenie porównania, analizy, czy podsumowania omawianych treści"
+      }
+    ]
+  },
+  {
+    "id": 259,
+    "question": "Do metod opartych na działaniu nie należy",
+    "answers": [
+      {
+        "id": "a",
+        "text": "kierowanie nabywaniem umiejętności praktycznych"
+      },
+      {
+        "id": "b",
+        "text": "metoda laboratoryjna"
+      },
+      {
+        "id": "c",
+        "text": "ćwiczenia przedmiotowe"
+      },
+      {
+        "id": "d",
+        "text": "dyskusja"
+      }
+    ]
+  },
+  {
+    "id": 260,
+    "question": "Ćwiczenia przedmiotowe zastosowano na lekcji, gdy uczniowie:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "obliczają wytrzymałość połączenia spawanego"
+      },
+      {
+        "id": "b",
+        "text": "wykonują drewniane pudełka"
+      },
+      {
+        "id": "c",
+        "text": "uczą się przecinania tworzyw sztucznych"
+      },
+      {
+        "id": "d",
+        "text": "dyskutują o nowych rozwiązaniach w motoryzacji"
+      }
+    ]
+  },
+  {
+    "id": 261,
+    "question": "Kierowanie nabywaniem umiejętności praktycznych zastosowano na lekcji, gdy uczniowie",
+    "answers": [
+      {
+        "id": "a",
+        "text": "obliczają zużycie prądu w gospodarstwie domowym"
+      },
+      {
+        "id": "b",
+        "text": "montują obwody elektryczne wg. schematu"
+      },
+      {
+        "id": "c",
+        "text": "dyskutują o nowych rozwiązaniach w motoryzacji"
+      },
+      {
+        "id": "d",
+        "text": "oglądają film dotyczący łączenia materiałów"
+      }
+    ]
+  },
+  {
+    "id": 262,
+    "question": "Lekcje na temat „Odnawialne źródła energii” nie należy prowadzić metodą:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "pogadanki"
+      },
+      {
+        "id": "b",
+        "text": "wykładu"
+      },
+      {
+        "id": "c",
+        "text": "burzy mózgów"
+      },
+      {
+        "id": "d",
+        "text": "kierowania obserwacją"
+      }
+    ]
+  },
+  {
+    "id": 263,
+    "question": "Na lekcji dotyczącej łączenia materiałów uczniowie oglądają film i notują najważniejsze dane w nim prezentowane. Wskaż zasadę, która w tym momencie nie jest realizowana:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "ustawiczności kształcenia"
+      },
+      {
+        "id": "b",
+        "text": "kształtowania umiejętności uczenia się"
+      },
+      {
+        "id": "c",
+        "text": "trwałości wiedzy"
+      },
+      {
+        "id": "d",
+        "text": "świadomego i aktywnego uczestnictwa"
+      }
+    ]
+  },
+  {
+    "id": 264,
+    "question": "Ćwiczenia przedmiotowe zastosowano na lekcji, gdy uczniowie:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "montują obwody elektryczne wg. schematu"
+      },
+      {
+        "id": "b",
+        "text": "obrabiają wybrane materiały celem wykonana założonego elementu"
+      },
+      {
+        "id": "c",
+        "text": "obliczają wytrzymałość połączenia spawanego"
+      },
+      {
+        "id": "d",
+        "text": "zgłaszają własne pomysły rozwiązania wybranego problemu o charakterze technicznym"
+      }
+    ]
+  },
+  {
+    "id": 265,
+    "question": "Do zadań nauczyciela w metodzie projektu zaliczamy:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "opisanie mocnych i słabych stron poszczególnych uczniów"
+      },
+      {
+        "id": "b",
+        "text": "przydzielenie zadań uczniom realizującym projekt"
+      },
+      {
+        "id": "c",
+        "text": "opracowanie szczegółowego planu realizacji każdego projektu"
+      },
+      {
+        "id": "d",
+        "text": "śledzenie rytmiczności i postępu prac nad projektem"
+      }
+    ]
+  },
+  {
+    "id": 266,
+    "question": "Na lekcji dotyczącej urządzeń peryferyjnych uczniowie oglądają film i notują najważniejsze dane w nim prezentowane. ta aktywność nie realizuje zasady:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "kształtowania umiejętności ucznia"
+      },
+      {
+        "id": "b",
+        "text": "świadomego i aktywnego uczestnictwa"
+      },
+      {
+        "id": "c",
+        "text": "poglądowości"
+      },
+      {
+        "id": "d",
+        "text": "ustawiczności kształcenia"
+      }
+    ]
+  },
+  {
+    "id": 267,
+    "question": "Nauczyciel rozpoczynając lekcje na temat „Skanowanie” w gimnazjum pokazał uczniom film o zastosowaniu skanerów – tym działaniem nie spełnił zasady:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "trwałości wiedzy"
+      },
+      {
+        "id": "b",
+        "text": "poglądowości"
+      },
+      {
+        "id": "c",
+        "text": "świadomego i aktywnego uczestnictwa"
+      },
+      {
+        "id": "d",
+        "text": "łączenia teorii z praktyką"
+      }
+    ]
+  },
+  {
+    "id": 268,
+    "question": "Flipped classroom (odwrócona klasa)",
+    "answers": [
+      {
+        "id": "a",
+        "text": "w metodzie tej nauczyciel odgrywa rolę uczącego się,"
+      },
+      {
+        "id": "b",
+        "text": "zadaniem uczniów po lekcji jest przygotowanie rzetelnych materiałów podsumowujących nauczanie"
+      },
+      {
+        "id": "c",
+        "text": "uczniowie mogą tworzyć własne materiały dydaktyczne, mogą też dzielić się nimi między sobą i publikować w sieci"
+      },
+      {
+        "id": "d",
+        "text": "w metodzie tej uczeń uczy się sam w domu, a lekcja przeznaczona jest na pracę w grupie, dyskusję, podsumowanie"
+      }
+    ]
+  },
+  {
+    "id": 269,
+    "question": "W metodzie projektów nauczyciel powinien",
+    "answers": [
+      {
+        "id": "a",
+        "text": "zaproponować uczniom jakieś rozwiązanie problemu"
+      },
+      {
+        "id": "b",
+        "text": "opracować sprawozdanie z realizacji projektu i na ostatnich zajęciach przedstawić je uczniom"
+      },
+      {
+        "id": "c",
+        "text": "podzielić pracę między uczniów w grupie"
+      },
+      {
+        "id": "d",
+        "text": "skonsultować projekt ucznia"
+      }
+    ]
+  },
+  {
+    "id": 270,
+    "question": "Wideodydaktyka to metoda w której",
+    "answers": [
+      {
+        "id": "a",
+        "text": "wykorzystuje się w nauczaniu, takie metody jak: kierowanie obserwacją, pokaz itp."
+      },
+      {
+        "id": "b",
+        "text": "uczniowie oglądają filmy edukacyjne"
+      },
+      {
+        "id": "c",
+        "text": "tworzą filmy i prezentacje korzystając z zasobów internetu"
+      },
+      {
+        "id": "d",
+        "text": "zmienia się rola ucznia z biernego widza w aktywnego twórcę filmów"
+      }
+    ]
+  },
+  {
+    "id": 271,
+    "question": "Ocenianie kształtujące",
+    "answers": [
+      {
+        "id": "a",
+        "text": "jest procesem ciągłym"
+      },
+      {
+        "id": "b",
+        "text": "jest zdarzeniem jednostkowym"
+      },
+      {
+        "id": "c",
+        "text": "służy rozliczaniu z wykonania założeń programu"
+      },
+      {
+        "id": "d",
+        "text": "jest zdecydowanie szybsze niż ocenianie sumujące"
+      }
+    ]
+  },
+  {
+    "id": 272,
+    "question": "Ocenianie sumujące",
+    "answers": [
+      {
+        "id": "a",
+        "text": "jest integralnym elementem procesu uczenia się/nauczania"
+      },
+      {
+        "id": "b",
+        "text": "pomaga w rozpoznaniu braków i umożliwia natychmiastowe ich uzupełnianie"
+      },
+      {
+        "id": "c",
+        "text": "jest wygodniejsze (niż ocenianie kształtujące) przy porównywaniu i opracowaniu rankingów"
+      },
+      {
+        "id": "d",
+        "text": "jest procesem ciągłym"
+      }
+    ]
+  },
+  {
+    "id": 273,
+    "question": "Grywalizacja",
+    "answers": [
+      {
+        "id": "a",
+        "text": "opiera nauczanie na mechanizmach gier"
+      },
+      {
+        "id": "b",
+        "text": "w metodzie tej uczniowie tworzą gry dydaktyczne w które potem grają z kolegami"
+      },
+      {
+        "id": "c",
+        "text": "wymaga stosowania komputerów"
+      },
+      {
+        "id": "d",
+        "text": "to zastosowanie komercyjnych gier komputerowych w nauczaniu"
+      }
+    ]
+  },
+  {
+    "id": 274,
+    "question": "Ilość rozpuszczonego w austenicie w danej temperaturze pierwiastka międzywęzłowego two-rzącego węglik lub azotek:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "określona jest przez iloczyn rozpuszczalności kMX,"
+      },
+      {
+        "id": "b",
+        "text": "temperaturę rozpuszczalności węglika lub azotk"
+      },
+      {
+        "id": "c",
+        "text": "określona jest przez punk przecięcia prostej stechiometrycznej z krzywą rozpuszczalności"
+      },
+      {
+        "id": "d",
+        "text": "nie zależy od temperatury"
+      }
+    ]
+  },
+  {
+    "id": 275,
+    "question": "Próbka reprezentatywna to:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "próbka przygotowana do analizy w postaci roztworu"
+      },
+      {
+        "id": "b",
+        "text": "próbka badanego materiału pomniejszona do jednego grama"
+      },
+      {
+        "id": "c",
+        "text": "próbka możliwie jak najmniejsza"
+      },
+      {
+        "id": "d",
+        "text": "odzwierciedlająca właściwości obiektu w odniesieniu do postawionego problemu"
+      }
+    ]
+  },
+  {
+    "id": 276,
+    "question": "Przewodnictwo elektryczne półprzewodników rośnie:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "Ze spadkiem stopnia zdefektowania oraz spadkiem temperatury,"
+      },
+      {
+        "id": "b",
+        "text": "Ze wzrostem stopnia zdefektowania oraz wzrostem temperatury,"
+      },
+      {
+        "id": "c",
+        "text": "Ze spadkiem stopnia zdefektowania oraz wzrostem temperatury,"
+      },
+      {
+        "id": "d",
+        "text": "Ze wzrostem stopnia zdefektowania oraz spadkiem temperatury."
+      }
+    ]
+  },
+  {
+    "id": 277,
+    "question": "Szkła posiadają uporządkowanie:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "strukturalne"
+      },
+      {
+        "id": "b",
+        "text": "nie posiadają jakiegokolwiek uporządkowania budowy"
+      },
+      {
+        "id": "c",
+        "text": "są a substancjami mikrokrystalicznymi"
+      },
+      {
+        "id": "d",
+        "text": "bliskiego zasięgu"
+      }
+    ]
+  },
+  {
+    "id": 278,
+    "question": "Spiekanie w ujęciu ogólnym polega na formowaniu się polikryształu:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "w drodze uplastycznienia powierzchni ziaren w temperaturze pokojowej"
+      },
+      {
+        "id": "b",
+        "text": "w drodze stopienia i rekrystalizacji spiekanej fazy"
+      },
+      {
+        "id": "c",
+        "text": "w drodze reakcji chemicznej pomiędzy ziarnami sąsiadującymi ze sobą"
+      },
+      {
+        "id": "d",
+        "text": "w drodze dyfuzji w temperaturach poniżej temperatury topnienia spiekanej fazy"
+      }
+    ]
+  },
+  {
+    "id": 279,
+    "question": "Sieciowanie polimerów polega na:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "tworzeniu się łańcuchów z pojedynczych merów"
+      },
+      {
+        "id": "b",
+        "text": "tworzeniu się podwójnych wiązań pomiędzy merami"
+      },
+      {
+        "id": "c",
+        "text": "tworzeniu się wiązań poprzecznych między sąsiednimi makrocząsteczkami"
+      },
+      {
+        "id": "d",
+        "text": "tworzeniu się pierścieni cyklicznych w makrocząsteczkach"
+      }
+    ]
+  },
+  {
+    "id": 280,
+    "question": "Pierwiastki wchodzące w skład tej samej grupy w układzie okresowym mają:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "taką samą liczbę powłok elektronowych;"
+      },
+      {
+        "id": "b",
+        "text": "taką samą liczbę elektronów walencyjnych;"
+      },
+      {
+        "id": "c",
+        "text": "taką samą energię powłoki walencyjnej;"
+      },
+      {
+        "id": "d",
+        "text": "taką samą energię wszystkich powłok elektronowych."
+      }
+    ]
+  },
+  {
+    "id": 281,
+    "question": "Materiały korundowe zawierają powyżej 90%:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "ZrO2"
+      },
+      {
+        "id": "b",
+        "text": "Al2O3"
+      },
+      {
+        "id": "c",
+        "text": "SiC"
+      },
+      {
+        "id": "d",
+        "text": "CaO"
+      }
+    ]
+  },
+  {
+    "id": 282,
+    "question": "Pierwiastek chemiczny to substancja złożona z:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "atomów o takiej samej liczbie masowej"
+      },
+      {
+        "id": "b",
+        "text": "atomów o takiej samej masie atomowej"
+      },
+      {
+        "id": "c",
+        "text": "takich samych atomów"
+      },
+      {
+        "id": "d",
+        "text": "atomów o takiej samej liczbie atomowej"
+      }
+    ]
+  },
+  {
+    "id": 283,
+    "question": "W stanie stałym materii:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "atomy znajdują się blisko siebie, a ich oddziaływania są silne;"
+      },
+      {
+        "id": "b",
+        "text": "atomy znajdują się daleko od siebie, a ich oddziaływania są silne;"
+      },
+      {
+        "id": "c",
+        "text": "atomy znajdują się daleko od siebie, a ich oddziaływania są słabe;"
+      },
+      {
+        "id": "d",
+        "text": "atomy znajdują się blisko siebie, a ich oddziaływania są słabe."
+      }
+    ]
+  },
+  {
+    "id": 284,
+    "question": "Scharakteryzuj stany skupienia materii:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "w gazach brak uporządkowania, w ciałach stałych brak uporządkowania;"
+      },
+      {
+        "id": "b",
+        "text": "w ciałach stałych elementy struktury są uporządkowane we wszystkich kierunkach;"
+      },
+      {
+        "id": "c",
+        "text": "w gazach elementy struktury są uporządkowane we wszystkich kierunkach;"
+      },
+      {
+        "id": "d",
+        "text": "w gazach i w ciałach stałych elementy struktury są uporządkowane we wszystkich kierunkach"
+      }
+    ]
+  },
+  {
+    "id": 285,
+    "question": "Co określają wskaźniki Mullera:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "Nachylenie płaszczyzn łupliwości kryształu w stosunku do ścian komórki elementarnej,"
+      },
+      {
+        "id": "b",
+        "text": "Ilość płaszczyzn sieciowych symetrycznych odpowiednio do kierunków X, Y i Z,"
+      },
+      {
+        "id": "c",
+        "text": "Odległość każdej płaszczyzny sieciowej od węzła 0,0,0."
+      },
+      {
+        "id": "d",
+        "text": "Nachylenie dowolnej płaszczyzny sieciowej względem trzech osi krystalograficznych,"
+      }
+    ]
+  },
+  {
+    "id": 286,
+    "question": "Komórka elementarna prymitywna to:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "Posiadająca węzły na środkach ścian,"
+      },
+      {
+        "id": "b",
+        "text": "Zawierająca najmniejsza możliwą liczbę węzłów,"
+      },
+      {
+        "id": "c",
+        "text": "Komórka o kształcie sześcianu,"
+      },
+      {
+        "id": "d",
+        "text": "Wewnętrznie centrowana."
+      }
+    ]
+  },
+  {
+    "id": 287,
+    "question": "Które z podanych defektów są opisane wektorem Burgersa:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "dyslokacje"
+      },
+      {
+        "id": "b",
+        "text": "wakancje"
+      },
+      {
+        "id": "c",
+        "text": "koherentne granice międzyziarnowe"
+      },
+      {
+        "id": "d",
+        "text": "błędy ułożenia"
+      }
+    ]
+  },
+  {
+    "id": 288,
+    "question": "Odchylenie standardowe jest:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "parametrem położenia"
+      },
+      {
+        "id": "b",
+        "text": "parametrem rozproszenia"
+      },
+      {
+        "id": "c",
+        "text": "jest równe rozstępowi"
+      },
+      {
+        "id": "d",
+        "text": "w przybliżeniu jest równe rozstępu podzielonemu przez liczbę klas (k)"
+      }
+    ]
+  },
+  {
+    "id": 289,
+    "question": "Programy typu CAD umożliwiają:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "komputerowe wspomaganie projektowania,"
+      },
+      {
+        "id": "b",
+        "text": "zaawansowane przetwarzanie tekstu i przygotowanie stron gazet do druku,"
+      },
+      {
+        "id": "c",
+        "text": "tworzenie oprogramowania systemów pomiarowych"
+      },
+      {
+        "id": "d",
+        "text": "obsługę poczty elektronicznej."
+      }
+    ]
+  },
+  {
+    "id": 290,
+    "question": "Podstawowym mechanizmem umocnienia duraluminium jest:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "Umocnienie roztworowe"
+      },
+      {
+        "id": "b",
+        "text": "Umocnienie wydzieleniowe"
+      },
+      {
+        "id": "c",
+        "text": "Umocnienie odkształceniowe"
+      },
+      {
+        "id": "d",
+        "text": "Umocnienie dyslokacyjne"
+      }
+    ]
+  },
+  {
+    "id": 291,
+    "question": "Który z poniższych wzorów opisuję regułę faz Gibbsa przy stałym ciśnieniu",
+    "answers": [
+      {
+        "id": "a",
+        "text": "s = n – f + 2"
+      },
+      {
+        "id": "b",
+        "text": "s = n – f + 1"
+      },
+      {
+        "id": "c",
+        "text": "s = n – f"
+      },
+      {
+        "id": "d",
+        "text": "s = n +f +2"
+      }
+    ]
+  },
+  {
+    "id": 292,
+    "question": "Ledeburyt to:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "mieszanina eutektyczna austenitu i ferrytu"
+      },
+      {
+        "id": "b",
+        "text": "mieszanina eutektoidalna austenitu i cementytu"
+      },
+      {
+        "id": "c",
+        "text": "mieszanina eutektyczna austenitu i cementytu"
+      },
+      {
+        "id": "d",
+        "text": "mieszanina eutektoidalna ferrytu i cementytu"
+      }
+    ]
+  },
+  {
+    "id": 293,
+    "question": "Wybierz temperaturę, z której hartuje się stal niestopową o zawartości węgla 1,1%",
+    "answers": [
+      {
+        "id": "a",
+        "text": "850°C"
+      },
+      {
+        "id": "b",
+        "text": "727°C"
+      },
+      {
+        "id": "c",
+        "text": "757°C"
+      },
+      {
+        "id": "d",
+        "text": "650°C"
+      }
+    ]
+  },
+  {
+    "id": 294,
+    "question": "Ulepszanie cieplne stali jest to proces polegający na:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "Połączeniu procesów odkształcenia i rekrystalizacji"
+      },
+      {
+        "id": "b",
+        "text": "Obróbce cieplnej stali bezpośrednio po odlewaniu"
+      },
+      {
+        "id": "c",
+        "text": "Połączeniu procesów hartowania i odpuszczania"
+      },
+      {
+        "id": "d",
+        "text": "Połączeniu procesów hartowania i normalizowania"
+      }
+    ]
+  },
+  {
+    "id": 295,
+    "question": "Stale dwufazowe (dual phase – DP) stosowane na elementy karoserii samochodowych cha-rakteryzują się:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "Niską granicą plastyczności i niską wytrzymałością"
+      },
+      {
+        "id": "b",
+        "text": "Wysoką granicą plastyczności i wysoką wytrzymałością"
+      },
+      {
+        "id": "c",
+        "text": "Niską granicą plastyczności i wysoką wytrzymałością"
+      },
+      {
+        "id": "d",
+        "text": "Wysoką granicą plastyczności i niską wytrzymałością"
+      }
+    ]
+  },
+  {
+    "id": 296,
+    "question": "Główną cechą stali o dobrej spawalności jest:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "Wysoka zawartość pierwiastków stopowych"
+      },
+      {
+        "id": "b",
+        "text": "Struktura drobnoziarnista"
+      },
+      {
+        "id": "c",
+        "text": "Niska zawartość węgla"
+      },
+      {
+        "id": "d",
+        "text": "Struktura gruboziarnista"
+      }
+    ]
+  },
+  {
+    "id": 297,
+    "question": "Modyfikację siluminów prowadzi się celem:",
+    "answers": [
+      {
+        "id": "a",
+        "text": "poprawy odporności korozyjnej stopu"
+      },
+      {
+        "id": "b",
+        "text": "poprawy własności mechanicznych"
+      },
+      {
+        "id": "c",
+        "text": "zwiększenia oporności właściwej stopu"
+      },
+      {
+        "id": "d",
+        "text": "zwiększenia udarności"
+      }
+    ]
+  },
+  {
+    "id": 298,
+    "question": "Które materiały nazywane są piezoelektrykami?",
+    "answers": [
+      {
+        "id": "a",
+        "text": "takie, w których pod wpływem zmiany temperatury powstają na powierzchniach przeciwne ładunki elektryczne"
+      },
+      {
+        "id": "b",
+        "text": "takie, w których pod wpływem zmiany zewnętrznego pola elektrycznego zmienia się stała dielektryczna"
+      },
+      {
+        "id": "c",
+        "text": "takie, w których pod wpływem zmiany temperatury powstają naprężenia mechaniczne"
+      },
+      {
+        "id": "d",
+        "text": "takie, w których pod wpływem naprężeń mechanicznych powstaje pole elektryczne i na od-wrót"
+      }
+    ]
+  },
+  {
+    "id": 299,
+    "question": "Gdzie głównie stosuje się materiały magnetyczne twarde?",
+    "answers": [
+      {
+        "id": "a",
+        "text": "do wytwarzania nośników pamięci"
+      },
+      {
+        "id": "b",
+        "text": "do wytwarzania blach transformatorowych"
+      },
+      {
+        "id": "c",
+        "text": "do wytwarzania stałych magnesów"
+      },
+      {
+        "id": "d",
+        "text": "do wytwarzania obudowy telefonów"
+      }
+    ]
+  },
+  {
+    "id": 300,
+    "question": "Co to jest temperatura Curie w odniesieniu do materiałów magnetycznych?",
+    "answers": [
+      {
+        "id": "a",
+        "text": "temperatura, w której materiał staje się kruchy"
+      },
+      {
+        "id": "b",
+        "text": "temperatura, powyżej której ferromagnetyk staje się paramagnetykiem"
+      },
+      {
+        "id": "c",
+        "text": "temperatura, powyżej której paramagnetyk staje się diamagnetykiem"
+      },
+      {
+        "id": "d",
+        "text": "temperatura, poniżej której diamagnetyk staje się ferromagnetykiem"
+      }
+    ]
+  }
+]
