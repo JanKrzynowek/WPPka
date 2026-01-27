@@ -193,7 +193,7 @@ function App() {
 
         <h2>{question.question}</h2>
         <div className="answers-grid">
-          {question.answers.map((ans) => (
+          {question.answers.map((ans, index) => (
             <button
               key={ans.id} // Używamy ID jako klucza React
               onClick={() => handleAnswerClick(ans.id)} // Przekazujemy ID
@@ -208,7 +208,7 @@ function App() {
                   fontWeight: "bold",
                 }}
               >
-                {ans.id.toUpperCase()}.
+                {String.fromCharCode(65 + index)}.
               </span>
               {ans.text}
             </button>

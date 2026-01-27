@@ -955,7 +955,11 @@
       },
       {
         "id": "b",
-        "text": "możliwość popełnienia błędu statystycznego polegającego na przyjęciu hipotezy fałszywej jest równa założonemu poziomowi istotności c) uogólnia się wyniki badania próby reprezentatywnej na zbiorowość statystyczną"
+        "text": "możliwość popełnienia błędu statystycznego polegającego na przyjęciu hipotezy fałszywej jest równa założonemu poziomowi istotności"
+      },
+      {
+        "id": "c",
+        "text": "uogólnia się wyniki badania próby reprezentatywnej na zbiorowość statystyczną"
       },
       {
         "id": "d",
