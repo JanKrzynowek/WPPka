@@ -55,7 +55,7 @@ function App() {
 
     // W trybie egzaminu ucinamy do 30, w nauce bierzemy wszystko
     if (mode === "exam") {
-      shuffledQuestions = shuffledQuestions.slice(0, 30);
+      shuffledQuestions = shuffledQuestions.slice(0, 50);
     }
 
     setCurrentQuestions(shuffledQuestions);
@@ -123,7 +123,7 @@ function App() {
     return (
       <div className="card menu-card">
         <h1>🎓 WPPka</h1>
-        <div className="divider">Egzamin (Losowe 30)</div>
+        <div className="divider">Egzamin (Losowe 50)</div>
         <div className="grid-buttons">
           <button onClick={() => startQuiz("exam", "1", false)}>
             Zestaw 1 (1-100)
