@@ -2793,7 +2793,11 @@
       },
       {
         "id": "c",
-        "text": "iloczyn wartości siły F działającej na ciało na drodze s d) zdolność obiektu do wykonywania pracy"
+        "text": "iloczyn wartości siły F działającej na ciało na drodze s"
+      },
+      {
+        "id": "d",
+        "text": "zdolność obiektu do wykonywania pracy"
       }
     ]
   },
